@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-27",
+  "articles": [
+    {
+      "id": "demo1",
+      "title": {
+        "zh": "OpenAI 发布最新 GPT-5 模型",
+        "en": "OpenAI Releases Latest GPT-5 Model"
+      },
+      "summary": {
+        "zh": "OpenAI 今日正式发布了 GPT-5 模型，在推理能力和多模态理解方面有显著提升。新模型支持更长的上下文窗口，并在代码生成和数学推理任务上表现优异。",
+        "en": "OpenAI officially released the GPT-5 model today, with significant improvements in reasoning and multimodal understanding. The new model supports longer context windows and excels at code generation and math reasoning tasks."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://example.com/gpt5",
+      "tags": ["LLM", "OpenAI", "GPT-5"],
+      "coverImage": null,
+      "publishedAt": "2026-06-27T08:00:00Z"
+    }
+  ]
+}
