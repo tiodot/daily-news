@@ -9,6 +9,7 @@ interface AudioPlayerProps {
   articles: Article[];
   currentArticleId: string | null;
   isPlaying: boolean;
+  date?: string;
   onPlay: (articleId: string) => void;
   onStop: () => void;
 }
@@ -17,6 +18,7 @@ export default function AudioPlayer({
   articles,
   currentArticleId,
   isPlaying,
+  date,
   onPlay,
   onStop,
 }: AudioPlayerProps) {
@@ -34,8 +36,8 @@ export default function AudioPlayer({
     setError(null);
 
     try {
-      const date = new Date().toISOString().split('T')[0];
-      const response = await fetch(`/api/audio?date=${date}&articleId=${articleId}&lang=${lang}`);
+      const audioDate = date || new Date().toISOString().split('T')[0];
+      const response = await fetch(`/api/audio?date=${audioDate}&articleId=${articleId}&lang=${lang}`);
       const data = await response.json();
 
       if (data.error) {
@@ -47,7 +49,7 @@ export default function AudioPlayer({
       setError(err instanceof Error ? err.message : 'Failed to load audio');
       setIsLoading(false);
     }
-  }, []);
+  }, [date]);
 
   useEffect(() => {
     if (currentArticleId && isPlaying) {

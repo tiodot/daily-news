@@ -126,6 +126,7 @@ export default function HomeContent() {
         articles={digest?.articles || []}
         currentArticleId={currentArticleId}
         isPlaying={isPlaying}
+        date={digest?.date}
         onPlay={handlePlay}
         onStop={handleStop}
       />

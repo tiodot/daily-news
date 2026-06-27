@@ -13,17 +13,27 @@ async function ensureDataDir() {
   }
 }
 
+function isValidDate(date: string): boolean {
+  return /^\d{4}-\d{2}-\d{2}$/.test(date);
+}
+
 function getFilePath(date: string): string {
   return path.join(DATA_DIR, `${date}.json`);
 }
 
 export async function saveDigest(digest: DailyDigest): Promise<void> {
+  if (!isValidDate(digest.date)) {
+    throw new Error('Invalid date format');
+  }
   await ensureDataDir();
   const filePath = getFilePath(digest.date);
   await fs.writeFile(filePath, JSON.stringify(digest, null, 2), 'utf-8');
 }
 
 export async function loadDigest(date: string): Promise<DailyDigest | null> {
+  if (!isValidDate(date)) {
+    return null;
+  }
   try {
     const filePath = getFilePath(date);
     const data = await fs.readFile(filePath, 'utf-8');

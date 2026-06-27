@@ -1,6 +1,14 @@
 // lib/ai.ts
 import type { Article } from './types';
 
+interface AIProcessedItem {
+  originalUrl: string;
+  title: { zh: string; en: string };
+  summary: { zh: string; en: string };
+  tags: string[];
+  relevance: number;
+}
+
 interface AIConfig {
   apiKey: string;
   baseUrl: string;
@@ -85,12 +93,12 @@ export async function processArticles(articles: Article[]): Promise<Article[]> {
       return articles.slice(0, 5);
     }
 
-    const processed = JSON.parse(jsonMatch[0]);
+    const processed: AIProcessedItem[] = JSON.parse(jsonMatch[0]);
 
     return processed
-      .filter((item: any) => item.relevance >= 5)
+      .filter((item) => item.relevance >= 5)
       .slice(0, 10)
-      .map((item: any) => {
+      .map((item) => {
         const original = articles.find((a) => a.sourceUrl === item.originalUrl);
         return {
           id: original?.id || Math.random().toString(36).slice(2),

@@ -5,6 +5,14 @@ import type { Language } from './types';
 
 const AUDIO_DIR = path.join(process.cwd(), 'public', 'audio');
 
+function isValidDate(date: string): boolean {
+  return /^\d{4}-\d{2}-\d{2}$/.test(date);
+}
+
+function isValidArticleId(articleId: string): boolean {
+  return /^[a-z0-9]+$/i.test(articleId);
+}
+
 async function ensureAudioDir(date: string) {
   const dir = path.join(AUDIO_DIR, date);
   try {
@@ -20,10 +28,16 @@ function getAudioPath(date: string, articleId: string, lang: Language): string {
 }
 
 export function getAudioUrl(date: string, articleId: string, lang: Language): string {
+  if (!isValidDate(date) || !isValidArticleId(articleId)) {
+    throw new Error('Invalid date or articleId');
+  }
   return `/audio/${date}/${articleId}_${lang}.mp3`;
 }
 
 export async function audioExists(date: string, articleId: string, lang: Language): Promise<boolean> {
+  if (!isValidDate(date) || !isValidArticleId(articleId)) {
+    return false;
+  }
   try {
     await fs.access(getAudioPath(date, articleId, lang));
     return true;
@@ -38,6 +52,9 @@ export async function generateSpeech(
   date: string,
   articleId: string
 ): Promise<string> {
+  if (!isValidDate(date) || !isValidArticleId(articleId)) {
+    throw new Error('Invalid date or articleId');
+  }
   // Check cache first
   if (await audioExists(date, articleId, lang)) {
     return getAudioUrl(date, articleId, lang);

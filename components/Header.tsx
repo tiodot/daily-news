@@ -1,6 +1,7 @@
 // components/Header.tsx
 'use client';
 
+import { useState, useEffect } from 'react';
 import { useLanguage } from '@/lib/i18n';
 import { format } from 'date-fns';
 
@@ -10,6 +11,22 @@ interface HeaderProps {
 
 export default function Header({ date }: HeaderProps) {
   const { language, setLanguage, t } = useLanguage();
+  const [isDark, setIsDark] = useState(false);
+
+  useEffect(() => {
+    const stored = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const dark = stored ? stored === 'dark' : prefersDark;
+    setIsDark(dark);
+    document.documentElement.classList.toggle('dark', dark);
+  }, []);
+
+  const toggleDark = () => {
+    const next = !isDark;
+    setIsDark(next);
+    document.documentElement.classList.toggle('dark', next);
+    localStorage.setItem('theme', next ? 'dark' : 'light');
+  };
 
   const displayDate = date || format(new Date(), 'yyyy-MM-dd');
 
@@ -26,6 +43,13 @@ export default function Header({ date }: HeaderProps) {
         </div>
 
         <div className="flex items-center gap-2">
+          <button
+            onClick={toggleDark}
+            className="px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
+            aria-label="Toggle dark mode"
+          >
+            {isDark ? '☀️' : '🌙'}
+          </button>
           <button
             onClick={() => setLanguage(language === 'zh' ? 'en' : 'zh')}
             className="px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
