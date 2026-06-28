@@ -60,24 +60,30 @@ export async function generateSpeech(
     return getAudioUrl(date, articleId, lang);
   }
 
-  const baseUrl = process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1';
+  const baseUrl = process.env.OPENAI_BASE_URL || 'https://api.xiaomimimo.com/v1';
   const apiKey = process.env.OPENAI_API_KEY;
-  const model = process.env.TTS_MODEL || 'tts-1';
+  const model = process.env.TTS_MODEL || 'mimo-v2.5-tts';
 
   if (!apiKey) {
     throw new Error('TTS API not configured');
   }
 
-  const response = await fetch(`${baseUrl}/audio/speech`, {
+  const response = await fetch(`${baseUrl}/chat/completions`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
+      'api-key': apiKey,
     },
     body: JSON.stringify({
       model,
-      input: text,
-      voice: 'alloy',
+      messages: [
+        { role: 'user', content: 'Read the following text aloud in a clear, natural tone.' },
+        { role: 'assistant', content: text },
+      ],
+      audio: {
+        format: 'mp3',
+        voice: lang === 'zh' ? 'Chloe' : 'Chloe',
+      },
     }),
   });
 
@@ -85,10 +91,17 @@ export async function generateSpeech(
     throw new Error(`TTS API error: ${response.status}`);
   }
 
-  const audioBuffer = await response.arrayBuffer();
+  const data = await response.json();
+  // Extract audio from response - MiniMax returns audio in choices[0].message.audio
+  const audioBase64 = data.choices?.[0]?.message?.audio?.data;
+  if (!audioBase64) {
+    throw new Error('No audio data in TTS response');
+  }
+
+  const audioBuffer = Buffer.from(audioBase64, 'base64');
   const dir = await ensureAudioDir(date);
   const filePath = path.join(dir, `${articleId}_${lang}.mp3`);
-  await fs.writeFile(filePath, Buffer.from(audioBuffer));
+  await fs.writeFile(filePath, audioBuffer);
 
   return getAudioUrl(date, articleId, lang);
 }
