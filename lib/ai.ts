@@ -18,8 +18,8 @@ interface AIConfig {
 function getAIConfig(): AIConfig {
   return {
     apiKey: process.env.OPENAI_API_KEY || '',
-    baseUrl: process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1',
-    model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
+    baseUrl: process.env.OPENAI_BASE_URL || 'https://token-plan-cn.xiaomimimo.com/v1',
+    model: process.env.OPENAI_MODEL || 'mimo-v2.5-pro',
   };
 }
 
