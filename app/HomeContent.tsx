@@ -6,6 +6,7 @@ import { useLanguage } from '@/lib/i18n';
 import Header from '@/components/Header';
 import ArticleCard from '@/components/ArticleCard';
 import AudioPlayer from '@/components/AudioPlayer';
+import Sidebar from '@/components/Sidebar';
 
 export default function HomeContent() {
   const { t } = useLanguage();
@@ -17,6 +18,9 @@ export default function HomeContent() {
 
   const [currentArticleId, setCurrentArticleId] = useState<string | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [dates, setDates] = useState<string[]>([]);
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -48,6 +52,27 @@ export default function HomeContent() {
     fetchDigest();
   }, [dateParam]);
 
+  const handleToggleSidebar = useCallback(() => {
+    setSidebarOpen((prev) => {
+      if (!prev) {
+        // Fetch dates when opening
+        fetch('/api/digest/dates')
+          .then((res) => res.json())
+          .then((data) => {
+            if (data.dates) setDates(data.dates);
+          })
+          .catch(() => {});
+      }
+      return !prev;
+    });
+  }, []);
+
+  const handleDateSelect = useCallback((date: string) => {
+    window.history.pushState(null, '', `/?date=${date}`);
+    setDateParam(date);
+    setSidebarOpen(false);
+  }, []);
+
   const handlePlay = useCallback((articleId: string) => {
     setCurrentArticleId(articleId);
     setIsPlaying(true);
@@ -64,14 +89,9 @@ export default function HomeContent() {
     }
   }, [digest, handlePlay]);
 
-  const handleDateSelect = useCallback((date: string) => {
-    window.history.pushState(null, '', `/?date=${date}`);
-    setDateParam(date);
-  }, []);
-
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
-      <Header date={digest?.date} onDateSelect={handleDateSelect} />
+      <Header date={digest?.date} onToggleSidebar={handleToggleSidebar} />
 
       <main className="max-w-3xl mx-auto px-4 py-6">
         {loading && (
@@ -137,6 +157,14 @@ export default function HomeContent() {
         date={digest?.date}
         onPlay={handlePlay}
         onStop={handleStop}
+      />
+
+      <Sidebar
+        isOpen={sidebarOpen}
+        dates={dates}
+        currentDate={digest?.date}
+        onClose={() => setSidebarOpen(false)}
+        onSelect={handleDateSelect}
       />
     </div>
   );

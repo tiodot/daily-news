@@ -4,14 +4,13 @@
 import { useState, useEffect } from 'react';
 import { useLanguage } from '@/lib/i18n';
 import { format } from 'date-fns';
-import DateSelector from './DateSelector';
 
 interface HeaderProps {
   date?: string;
-  onDateSelect?: (date: string) => void;
+  onToggleSidebar?: () => void;
 }
 
-export default function Header({ date, onDateSelect }: HeaderProps) {
+export default function Header({ date, onToggleSidebar }: HeaderProps) {
   const { language, setLanguage, t } = useLanguage();
   const [isDark, setIsDark] = useState(false);
 
@@ -35,11 +34,22 @@ export default function Header({ date, onDateSelect }: HeaderProps) {
   return (
     <header className="sticky top-0 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm border-b border-gray-200 dark:border-gray-800">
       <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
-        <div>
-          <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-            {t('site.title')}
-          </h1>
-          <DateSelector currentDate={displayDate} onSelect={onDateSelect || (() => {})} />
+        <div className="flex items-center gap-3">
+          <button
+            onClick={onToggleSidebar}
+            className="p-1.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-600 dark:text-gray-400 transition-colors"
+            aria-label="Toggle sidebar"
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+          <div>
+            <h1 className="text-xl font-bold text-gray-900 dark:text-white">
+              {t('site.title')}
+            </h1>
+            <p className="text-sm text-gray-500 dark:text-gray-400">{displayDate}</p>
+          </div>
         </div>
 
         <div className="flex items-center gap-2">
