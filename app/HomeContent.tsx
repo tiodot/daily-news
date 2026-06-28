@@ -19,14 +19,16 @@ export default function HomeContent() {
 
   const [currentArticleId, setCurrentArticleId] = useState<string | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [selectedDate, setSelectedDate] = useState<string | null>(null);
 
   useEffect(() => {
     async function fetchDigest() {
       setLoading(true);
       setError(null);
 
+      const effectiveDate = selectedDate || dateParam;
       try {
-        const url = dateParam ? `/api/digest?date=${dateParam}` : '/api/digest';
+        const url = effectiveDate ? `/api/digest?date=${effectiveDate}` : '/api/digest';
         const response = await fetch(url);
         const data = await response.json();
 
@@ -43,7 +45,7 @@ export default function HomeContent() {
     }
 
     fetchDigest();
-  }, [dateParam]);
+  }, [dateParam, selectedDate]);
 
   const handlePlay = useCallback((articleId: string) => {
     setCurrentArticleId(articleId);
@@ -61,9 +63,18 @@ export default function HomeContent() {
     }
   }, [digest, handlePlay]);
 
+  const handleDateSelect = useCallback((date: string) => {
+    const params = new URLSearchParams(window.location.search);
+    params.set('date', date);
+    window.history.pushState(null, '', `?${params.toString()}`);
+    // Trigger re-fetch by updating dateParam via a small state trick
+    // We'll use a separate state to trigger the effect
+    setSelectedDate(date);
+  }, []);
+
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
-      <Header date={digest?.date} />
+      <Header date={digest?.date} onDateSelect={handleDateSelect} />
 
       <main className="max-w-3xl mx-auto px-4 py-6">
         {loading && (

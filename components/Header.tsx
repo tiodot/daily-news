@@ -4,12 +4,14 @@
 import { useState, useEffect } from 'react';
 import { useLanguage } from '@/lib/i18n';
 import { format } from 'date-fns';
+import DateSelector from './DateSelector';
 
 interface HeaderProps {
   date?: string;
+  onDateSelect?: (date: string) => void;
 }
 
-export default function Header({ date }: HeaderProps) {
+export default function Header({ date, onDateSelect }: HeaderProps) {
   const { language, setLanguage, t } = useLanguage();
   const [isDark, setIsDark] = useState(false);
 
@@ -37,9 +39,7 @@ export default function Header({ date }: HeaderProps) {
           <h1 className="text-xl font-bold text-gray-900 dark:text-white">
             {t('site.title')}
           </h1>
-          <p className="text-sm text-gray-500 dark:text-gray-400">
-            {displayDate}
-          </p>
+          <DateSelector currentDate={displayDate} onSelect={onDateSelect || (() => {})} />
         </div>
 
         <div className="flex items-center gap-2">

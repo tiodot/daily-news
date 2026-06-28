@@ -17,6 +17,8 @@ const translations: Record<string, Record<Language, string>> = {
   'label.article': { zh: '篇', en: 'of' },
   'footer.poweredBy': { zh: '由 AI 驱动', en: 'Powered by AI' },
   'footer.sources': { zh: '数据源', en: 'Sources' },
+  'label.selectDate': { zh: '选择日期', en: 'Select Date' },
+  'label.noHistory': { zh: '暂无历史记录', en: 'No history available' },
 };
 
 interface LanguageContextType {
