@@ -29,7 +29,7 @@ async function callAI(prompt: string): Promise<string> {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${config.apiKey}`,
+      'api-key': config.apiKey,
     },
     body: JSON.stringify({
       model: config.model,
