@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { useSearchParams } from 'next/navigation';
 import type { DailyDigest } from '@/lib/types';
 import { useLanguage } from '@/lib/i18n';
 import Header from '@/components/Header';
@@ -9,9 +8,8 @@ import ArticleCard from '@/components/ArticleCard';
 import AudioPlayer from '@/components/AudioPlayer';
 
 export default function HomeContent() {
-  const searchParams = useSearchParams();
-  const dateParam = searchParams.get('date');
   const { t } = useLanguage();
+  const [dateParam, setDateParam] = useState<string | null>(null);
 
   const [digest, setDigest] = useState<DailyDigest | null>(null);
   const [loading, setLoading] = useState(true);
@@ -19,16 +17,19 @@ export default function HomeContent() {
 
   const [currentArticleId, setCurrentArticleId] = useState<string | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [selectedDate, setSelectedDate] = useState<string | null>(null);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setDateParam(params.get('date'));
+  }, []);
 
   useEffect(() => {
     async function fetchDigest() {
       setLoading(true);
       setError(null);
 
-      const effectiveDate = selectedDate || dateParam;
       try {
-        const url = effectiveDate ? `/api/digest?date=${effectiveDate}` : '/api/digest';
+        const url = dateParam ? `/api/digest?date=${dateParam}` : '/api/digest';
         const response = await fetch(url);
         const data = await response.json();
 
@@ -45,7 +46,7 @@ export default function HomeContent() {
     }
 
     fetchDigest();
-  }, [dateParam, selectedDate]);
+  }, [dateParam]);
 
   const handlePlay = useCallback((articleId: string) => {
     setCurrentArticleId(articleId);
@@ -64,12 +65,8 @@ export default function HomeContent() {
   }, [digest, handlePlay]);
 
   const handleDateSelect = useCallback((date: string) => {
-    const params = new URLSearchParams(window.location.search);
-    params.set('date', date);
-    window.history.pushState(null, '', `?${params.toString()}`);
-    // Trigger re-fetch by updating dateParam via a small state trick
-    // We'll use a separate state to trigger the effect
-    setSelectedDate(date);
+    window.history.pushState(null, '', `/?date=${date}`);
+    setDateParam(date);
   }, []);
 
   return (
