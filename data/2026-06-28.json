@@ -4,161 +4,198 @@
     {
       "id": "2dhpmk",
       "title": {
-        "zh": "OpenAI预览GPT-5.6 Sol：下一代AI模型",
-        "en": "OpenAI previews GPT-5.6 Sol: a next-generation AI model"
+        "zh": "OpenAI预览下一代模型GPT-5.6 Sol",
+        "en": "OpenAI Previews GPT-5.6 Sol: A Next-Generation Model"
       },
       "summary": {
-        "zh": "OpenAI发布了GPT-5.6 Sol预览版，该模型在编程、科学和网络安全方面能力更强，并配备了最先进的安全栈。这标志着大型语言模型的新进展，开发者可以期待更高效的AI工具。",
-        "en": "OpenAI has previewed GPT-5.6 Sol, a next-generation model with enhanced capabilities in coding, science, and cybersecurity, along with its most advanced safety stack. This represents a significant advancement in large language models, offering developers more powerful AI tools."
+        "zh": "OpenAI发布了GPT-5.6 Sol的预览版，在编程、科学和网络安全等领域展现出更强的能力，并配备了迄今最先进的安全技术栈。这款新模型代表了大型语言模型能力的又一次跃升。",
+        "en": "OpenAI has previewed GPT-5.6 Sol, a next-generation model with enhanced capabilities in coding, science, and cybersecurity, paired with their most advanced safety stack. This new model represents another significant leap in large language model performance."
       },
       "source": "OpenAI Blog",
       "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
       "tags": [
+        "LLM",
         "OpenAI",
-        "GPT-5",
-        "AI Model"
+        "GPT-5.6",
+        "AI Safety"
       ],
       "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
     },
     {
       "id": "y13ark",
       "title": {
-        "zh": "OpenAI与博通联合推出LLM优化推理芯片Jalapeño",
-        "en": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip"
+        "zh": "OpenAI与博通联合发布LLM专用推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom Unveil LLM-Optimized Inference Chip 'Jalapeño'"
       },
       "summary": {
-        "zh": "OpenAI与博通合作推出了Jalapeño芯片，专为大型语言模型推理优化，旨在提升性能、效率和可扩展性。这款定制芯片将帮助加速AI系统的部署和运行。",
-        "en": "OpenAI and Broadcom have introduced Jalapeño, a custom AI chip optimized for LLM inference, designed to enhance performance, efficiency, and scalability. This chip aims to accelerate the deployment and operation of AI systems."
+        "zh": "OpenAI与博通合作推出定制AI芯片Jalapeño，专为大型语言模型推理优化，旨在提升AI系统的性能、能效和扩展性。这是科技巨头自研AI硬件以降低对传统芯片依赖的又一重要动作。",
+        "en": "OpenAI and Broadcom have introduced 'Jalapeño', a custom AI chip built specifically for LLM inference to enhance performance, efficiency, and scalability across AI systems. This is another significant move by tech giants to develop specialized AI hardware."
       },
       "source": "OpenAI Blog",
       "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "tags": [
+        "AI Chip",
+        "Inference",
         "OpenAI",
-        "Broadcom",
-        "AI Chips",
-        "LLM"
+        "Hardware"
       ],
       "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
     },
     {
-      "id": "9yf0p0",
+      "id": "h5un2z",
       "title": {
-        "zh": "AMD Strix Halo RDMA集群设置指南",
-        "en": "AMD Strix Halo RDMA Cluster Setup Guide"
+        "zh": "研究显示AI智能体正在变革工作模式",
+        "en": "New Research Shows How AI Agents Are Transforming Work"
       },
       "summary": {
-        "zh": "该指南详细介绍了如何使用AMD Strix Halo设置RDMA集群，适用于AI工作负载的高性能计算。开发者可以学习配置网络和硬件以优化AI模型的推理和训练。",
-        "en": "This guide provides detailed instructions for setting up RDMA clusters using AMD Strix Halo, targeting high-performance computing for AI workloads. Developers can learn to configure networks and hardware to optimize AI model inference and training."
-      },
-      "source": "Hacker News",
-      "sourceUrl": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "tags": [
-        "AMD",
-        "AI Clusters",
-        "Hardware",
-        "HPC"
-      ],
-      "publishedAt": "Sun, 28 Jun 2026 00:46:52 +0000"
-    },
-    {
-      "id": "scm47u",
-      "title": {
-        "zh": "GPT-5助力免疫学家解开三年之谜",
-        "en": "How GPT-5 helped solve a 3-year-old immunology mystery"
-      },
-      "summary": {
-        "zh": "GPT-5 Pro协助免疫学家解决了三年未解之谜，提供了对T细胞行为的新见解。这一突破可能推动癌症和自身免疫疾病的研究，展示了AI在科学领域的应用潜力。",
-        "en": "GPT-5 Pro aided immunologists in solving a 3-year-old mystery, offering new insights into T cell behavior. This breakthrough could advance research in cancer and autoimmune diseases, demonstrating AI's potential in scientific discovery."
+        "zh": "OpenAI发布新研究论文，展示AI智能体如何通过处理更长、更复杂的任务来变革工作模式，并在各类职业中提升生产力。这表明AI正从辅助工具向自主执行者演进。",
+        "en": "A new OpenAI research paper demonstrates how AI agents are transforming work by enabling longer, more complex tasks and expanding productivity across various roles. This indicates AI is evolving from an assistant to an autonomous executor."
       },
       "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/gpt-5-immunology-mystery",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
       "tags": [
+        "AI Agents",
+        "Future of Work",
         "OpenAI",
-        "GPT-5",
-        "Healthcare",
-        "Science"
+        "Productivity"
       ],
-      "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT"
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
     },
     {
-      "id": "9j9g1y",
+      "id": "8dj4kv",
       "title": {
-        "zh": "G7易流发布首款货运穿戴式AI硬件「拍拍豆」",
-        "en": "G7 Flow launches first wearable AI hardware 'Pat Pat Bean' for freight logistics"
+        "zh": "亚洲AI初创公司推出类似Mythos模型，应对Anthropic出口禁令",
+        "en": "Asian AI Startups Launch Mythos-Like Models as Anthropic Export Ban Persists"
       },
       "summary": {
-        "zh": "G7易流推出了货运行业首款穿戴式AI硬件“拍拍豆”，重量仅30克，采用磁吸设计，便于司机佩戴录制。该设备自动同步数据，提升物流交付效率，展示了AI在物联网和物流中的应用。",
-        "en": "G7 Flow has launched 'Pat Pat Bean', the first wearable AI hardware for the freight industry, weighing only 30g with a magnetic design for easy driver use. It automatically syncs data, improving logistics delivery efficiency, showcasing AI applications in IoT and logistics."
+        "zh": "随着Anthropic的出口禁令持续，亚洲AI初创公司正推出具备类似Mythos能力的新模型，无需担心出口限制。这可能使美国AI实验室永远失去这个庞大的市场，预示着全球AI竞争格局的深刻变化。",
+        "en": "Amid ongoing export restrictions on Anthropic, Asian AI startups are launching new models with Mythos-like capabilities, bypassing export bans. This could allow US AI labs to permanently lose this enormous market, signaling a significant shift in global AI competition."
       },
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/p/3869740772316162?f=rss",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "tags": [
+        "AI Startups",
+        "Global AI",
+        "LLM",
+        "Export Ban"
+      ],
+      "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "id": "z4o85uhql9",
+      "title": {
+        "zh": "G7易流发布穿戴式AI硬件「拍拍豆」，瞄准物流交付场景",
+        "en": "G7 YiLiu Unveils Wearable AI Hardware 'Pat Bean' for Logistics Delivery"
+      },
+      "summary": {
+        "zh": "物流科技公司G7易流推出行业首款穿戴式AI硬件「拍拍豆」，重量仅30克，采用磁吸设计，可自动录制物流“最后两米”的交付过程。这体现了AI应用从车辆监控向更精细化交付环节的延伸。",
+        "en": "Logistics tech company G7 YiLiu has launched the industry's first wearable AI hardware 'Pat Bean', weighing only 30g, which automatically records the final 'two meters' of delivery. This shows AI applications extending from vehicle monitoring to more detailed delivery processes."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3869740772316162",
       "tags": [
         "AI Hardware",
         "Logistics",
-        "Wearable",
+        "Computer Vision",
         "IoT"
-      ],
-      "publishedAt": "2026-06-27 09:40:53  +0800"
+      ]
     },
     {
-      "id": "r9k1bw",
+      "id": "inq006xbfrj",
       "title": {
-        "zh": "对话张亚勤：AI非泡沫，但AI公司存泡沫",
-        "en": "Interview with Zhang Yaqin: AI is not a bubble, but AI companies have bubbles"
+        "zh": "理想汽车智能驾驶追赶FSD V14，强调系统协同",
+        "en": "Li Auto's Autonomous Driving Aims to Match FSD V14, Emphasizing System Synergy"
       },
       "summary": {
-        "zh": "张亚勤院士在访谈中指出，AI技术本身不是泡沫，但当前AI公司存在投资泡沫。他建议更冷静地看待具身智能和AI创业热潮，强调长期价值而非短期炒作。",
-        "en": "In an interview, Zhang Yaqin states that AI technology itself is not a bubble, but current AI companies face investment bubbles. He advises a more measured approach to embodied intelligence and AI entrepreneurship, emphasizing long-term value over short-term hype."
+        "zh": "理想汽车正全力追赶特斯拉FSD V14，其竞争焦点已从单纯的模型规模转向模型、数据、算力和芯片之间能否形成高效协同的系统能力。这反映了当前自动驾驶竞赛进入“体系化作战”新阶段。",
+        "en": "Li Auto is aggressively pursuing Tesla's FSD V14, with its competitive focus shifting from pure model scale to whether model, data, compute, and chip can form an efficient synergistic system. This reflects autonomous driving competition entering a new phase of 'integrated system warfare'."
       },
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/p/3866837793952769?f=rss",
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3870292939658242",
       "tags": [
-        "AI",
-        "Investment",
-        "Interview",
-        "Industry Trends"
+        "Autonomous Driving",
+        "ADAS",
+        "Computer Vision",
+        "EV"
+      ]
+    },
+    {
+      "id": "9zyivs",
+      "title": {
+        "zh": "苹果Vision Pro高管转投OpenAI硬件团队",
+        "en": "Apple Vision Pro Exec Reported to Leave for OpenAI Hardware Team"
+      },
+      "summary": {
+        "zh": "负责苹果Vision Pro头显业务的副总裁Paul Meade据报将离开苹果，加入OpenAI的硬件团队。这一高层变动可能预示着OpenAI在AI硬件，特别是空间计算领域的重大布局。",
+        "en": "Paul Meade, the Apple VP in charge of the Vision Pro headset, is reportedly leaving to join OpenAI's hardware team. This executive move could signal OpenAI's significant strategic move into AI hardware, especially in spatial computing."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "tags": [
+        "VR/AR",
+        "OpenAI",
+        "Apple",
+        "Hardware"
       ],
-      "publishedAt": "2026-06-26 16:52:52  +0800"
+      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000"
     },
     {
       "id": "70nu77",
       "title": {
-        "zh": "OpenAI应政府要求限制GPT-5.6发布，称限制不应成常态",
-        "en": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm"
+        "zh": "OpenAI应政府要求限制GPT-5.6推出，称此类限制不应成为常态",
+        "en": "OpenAI Limits GPT-5.6 Rollout After Government Request, Says Restrictions Shouldn't Be Norm"
       },
       "summary": {
-        "zh": "OpenAI应政府要求限制了GPT-5.6的发布，但表示此类政府限制不应成为长期默认做法。这引发了关于AI模型部署和政策监管的讨论，对开发者和企业有直接影响。",
-        "en": "OpenAI has limited the rollout of GPT-5.6 following a government request, but states that such restrictions should not become the long-term default. This raises discussions on AI model deployment and policy regulation, directly impacting developers and enterprises."
+        "zh": "OpenAI在政府要求下限制了GPT-5.6的推出范围，但同时公开表示不认为这种政府审批流程应成为长期默认方式，因为它会阻碍用户、开发者和企业获得最佳工具。",
+        "en": "OpenAI has limited the rollout of GPT-5.6 per a government request, but publicly stated it doesn't believe this kind of government access process should become the long-term default, as it keeps the best tools from users and developers."
       },
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "tags": [
+        "LLM",
         "OpenAI",
-        "GPT-5",
-        "Government Policy",
-        "AI Deployment"
+        "AI Regulation",
+        "GPT-5.6"
       ],
       "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000"
     },
     {
-      "id": "xmoy61",
+      "id": "eyso6wxcif",
       "title": {
-        "zh": "纽约时报指控微软为OpenAI构建侵权超级计算机",
-        "en": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI"
+        "zh": "OpenAI官宣GPT-5.6；DeepSeek大规模招聘",
+        "en": "OpenAI Announces GPT-5.6; DeepSeek Begins Major Hiring"
       },
       "summary": {
-        "zh": "纽约时报指控微软为OpenAI构建超级计算机，涉嫌侵犯版权。这一事件突显了AI发展中的法律和伦理挑战，特别是在数据使用和知识产权方面。",
-        "en": "The New York Times has accused Microsoft of building a supercomputer for OpenAI that allegedly infringes copyrights. This highlights legal and ethical challenges in AI development, particularly regarding data use and intellectual property."
+        "zh": "AI行业动态速览：OpenAI正式推出GPT-5.6；中国AI公司DeepSeek宣布计划将所有部门规模扩大至少一倍，显示其强劲的扩张野心。这两条消息分别代表了技术前沿的突破与产业规模的快速扩张。",
+        "en": "AI industry roundup: OpenAI officially launches GPT-5.6; Chinese AI company DeepSeek announces plans to at least double the size of all its departments, showing strong expansion ambitions. These stories represent breakthroughs at the technology frontier and rapid industrial scaling."
       },
-      "source": "ArsTechnica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3870720040588295",
       "tags": [
-        "Microsoft",
+        "LLM",
         "OpenAI",
-        "Copyright",
-        "AI Ethics"
+        "DeepSeek",
+        "AI Industry"
+      ]
+    },
+    {
+      "id": "kxffc4",
+      "title": {
+        "zh": "本周看什么：科幻电影《克拉拉与太阳》预告发布",
+        "en": "This Week: Sci-Fi Film 'Klara and the Sun' Trailer Released"
+      },
+      "summary": {
+        "zh": "改编自石黑一雄同名AI题材小说的科幻电影《克拉拉与太阳》发布首支预告。故事探讨了人工智能陪伴与人类情感的复杂关系，是近期值得关注的AI文化作品。",
+        "en": "The sci-fi film 'Klara and the Sun', adapted from Kazuo Ishiguro's AI-themed novel, has released its first trailer. The story explores the complex relationship between AI companionship and human emotion, making it a notable AI cultural work."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/111562",
+      "tags": [
+        "AI in Media",
+        "Science Fiction",
+        "Culture"
       ],
-      "publishedAt": "Fri, 26 Jun 2026 20:04:55 +0000"
+      "publishedAt": "Fri, 26 Jun 2026 18:16:38 +0800"
     }
   ]
 }
