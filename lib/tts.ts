@@ -60,23 +60,24 @@ export async function generateSpeech(
     return getAudioUrl(date, articleId, lang);
   }
 
-  const apiUrl = process.env.MI_TTS_API_URL;
-  const apiKey = process.env.MI_TTS_API_KEY;
+  const baseUrl = process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1';
+  const apiKey = process.env.OPENAI_API_KEY;
+  const model = process.env.TTS_MODEL || 'tts-1';
 
-  if (!apiUrl || !apiKey) {
+  if (!apiKey) {
     throw new Error('TTS API not configured');
   }
 
-  const response = await fetch(apiUrl, {
+  const response = await fetch(`${baseUrl}/audio/speech`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${apiKey}`,
     },
     body: JSON.stringify({
-      text,
-      lang: lang === 'zh' ? 'zh-CN' : 'en-US',
-      format: 'mp3',
+      model,
+      input: text,
+      voice: 'alloy',
     }),
   });
 
