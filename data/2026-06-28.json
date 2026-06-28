@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-28",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI预览GPT-5.6 Sol：下一代AI模型",
+        "en": "OpenAI previews GPT-5.6 Sol: a next-generation AI model"
+      },
+      "summary": {
+        "zh": "OpenAI发布了GPT-5.6 Sol预览版，该模型在编程、科学和网络安全方面能力更强，并配备了最先进的安全栈。这标志着大型语言模型的新进展，开发者可以期待更高效的AI工具。",
+        "en": "OpenAI has previewed GPT-5.6 Sol, a next-generation model with enhanced capabilities in coding, science, and cybersecurity, along with its most advanced safety stack. This represents a significant advancement in large language models, offering developers more powerful AI tools."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "AI Model"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通联合推出LLM优化推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI与博通合作推出了Jalapeño芯片，专为大型语言模型推理优化，旨在提升性能、效率和可扩展性。这款定制芯片将帮助加速AI系统的部署和运行。",
+        "en": "OpenAI and Broadcom have introduced Jalapeño, a custom AI chip optimized for LLM inference, designed to enhance performance, efficiency, and scalability. This chip aims to accelerate the deployment and operation of AI systems."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "OpenAI",
+        "Broadcom",
+        "AI Chips",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "9yf0p0",
+      "title": {
+        "zh": "AMD Strix Halo RDMA集群设置指南",
+        "en": "AMD Strix Halo RDMA Cluster Setup Guide"
+      },
+      "summary": {
+        "zh": "该指南详细介绍了如何使用AMD Strix Halo设置RDMA集群，适用于AI工作负载的高性能计算。开发者可以学习配置网络和硬件以优化AI模型的推理和训练。",
+        "en": "This guide provides detailed instructions for setting up RDMA clusters using AMD Strix Halo, targeting high-performance computing for AI workloads. Developers can learn to configure networks and hardware to optimize AI model inference and training."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "tags": [
+        "AMD",
+        "AI Clusters",
+        "Hardware",
+        "HPC"
+      ],
+      "publishedAt": "Sun, 28 Jun 2026 00:46:52 +0000"
+    },
+    {
+      "id": "scm47u",
+      "title": {
+        "zh": "GPT-5助力免疫学家解开三年之谜",
+        "en": "How GPT-5 helped solve a 3-year-old immunology mystery"
+      },
+      "summary": {
+        "zh": "GPT-5 Pro协助免疫学家解决了三年未解之谜，提供了对T细胞行为的新见解。这一突破可能推动癌症和自身免疫疾病的研究，展示了AI在科学领域的应用潜力。",
+        "en": "GPT-5 Pro aided immunologists in solving a 3-year-old mystery, offering new insights into T cell behavior. This breakthrough could advance research in cancer and autoimmune diseases, demonstrating AI's potential in scientific discovery."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-immunology-mystery",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "Healthcare",
+        "Science"
+      ],
+      "publishedAt": "Tue, 23 Jun 2026 17:00:00 GMT"
+    },
+    {
+      "id": "9j9g1y",
+      "title": {
+        "zh": "G7易流发布首款货运穿戴式AI硬件「拍拍豆」",
+        "en": "G7 Flow launches first wearable AI hardware 'Pat Pat Bean' for freight logistics"
+      },
+      "summary": {
+        "zh": "G7易流推出了货运行业首款穿戴式AI硬件“拍拍豆”，重量仅30克，采用磁吸设计，便于司机佩戴录制。该设备自动同步数据，提升物流交付效率，展示了AI在物联网和物流中的应用。",
+        "en": "G7 Flow has launched 'Pat Pat Bean', the first wearable AI hardware for the freight industry, weighing only 30g with a magnetic design for easy driver use. It automatically syncs data, improving logistics delivery efficiency, showcasing AI applications in IoT and logistics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3869740772316162?f=rss",
+      "tags": [
+        "AI Hardware",
+        "Logistics",
+        "Wearable",
+        "IoT"
+      ],
+      "publishedAt": "2026-06-27 09:40:53  +0800"
+    },
+    {
+      "id": "r9k1bw",
+      "title": {
+        "zh": "对话张亚勤：AI非泡沫，但AI公司存泡沫",
+        "en": "Interview with Zhang Yaqin: AI is not a bubble, but AI companies have bubbles"
+      },
+      "summary": {
+        "zh": "张亚勤院士在访谈中指出，AI技术本身不是泡沫，但当前AI公司存在投资泡沫。他建议更冷静地看待具身智能和AI创业热潮，强调长期价值而非短期炒作。",
+        "en": "In an interview, Zhang Yaqin states that AI technology itself is not a bubble, but current AI companies face investment bubbles. He advises a more measured approach to embodied intelligence and AI entrepreneurship, emphasizing long-term value over short-term hype."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3866837793952769?f=rss",
+      "tags": [
+        "AI",
+        "Investment",
+        "Interview",
+        "Industry Trends"
+      ],
+      "publishedAt": "2026-06-26 16:52:52  +0800"
+    },
+    {
+      "id": "70nu77",
+      "title": {
+        "zh": "OpenAI应政府要求限制GPT-5.6发布，称限制不应成常态",
+        "en": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm"
+      },
+      "summary": {
+        "zh": "OpenAI应政府要求限制了GPT-5.6的发布，但表示此类政府限制不应成为长期默认做法。这引发了关于AI模型部署和政策监管的讨论，对开发者和企业有直接影响。",
+        "en": "OpenAI has limited the rollout of GPT-5.6 following a government request, but states that such restrictions should not become the long-term default. This raises discussions on AI model deployment and policy regulation, directly impacting developers and enterprises."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "Government Policy",
+        "AI Deployment"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000"
+    },
+    {
+      "id": "xmoy61",
+      "title": {
+        "zh": "纽约时报指控微软为OpenAI构建侵权超级计算机",
+        "en": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI"
+      },
+      "summary": {
+        "zh": "纽约时报指控微软为OpenAI构建超级计算机，涉嫌侵犯版权。这一事件突显了AI发展中的法律和伦理挑战，特别是在数据使用和知识产权方面。",
+        "en": "The New York Times has accused Microsoft of building a supercomputer for OpenAI that allegedly infringes copyrights. This highlights legal and ethical challenges in AI development, particularly regarding data use and intellectual property."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "Copyright",
+        "AI Ethics"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 20:04:55 +0000"
+    }
+  ]
+}
