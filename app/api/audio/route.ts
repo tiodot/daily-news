@@ -1,6 +1,5 @@
 // app/api/audio/route.ts
-import { NextResponse } from 'next/server';
-import { generateSpeech, audioExists, getAudioUrl } from '@/lib/tts';
+import { generateSpeech } from '@/lib/tts';
 import { loadDigest } from '@/lib/storage';
 import type { Language } from '@/lib/types';
 
@@ -13,39 +12,47 @@ export async function GET(request: Request) {
   const lang = (searchParams.get('lang') || 'zh') as Language;
 
   if (!date || !articleId) {
-    return NextResponse.json(
-      { error: 'Missing date or articleId' },
-      { status: 400 }
-    );
+    return new Response(JSON.stringify({ error: 'Missing date or articleId' }), {
+      status: 400,
+      headers: { 'Content-Type': 'application/json' },
+    });
   }
 
   try {
-    // Check cache
-    if (await audioExists(date, articleId, lang)) {
-      return NextResponse.json({ url: getAudioUrl(date, articleId, lang) });
-    }
-
     // Load digest to get article text
     const digest = await loadDigest(date);
     if (!digest) {
-      return NextResponse.json({ error: 'Digest not found' }, { status: 404 });
+      return new Response(JSON.stringify({ error: 'Digest not found' }), {
+        status: 404,
+        headers: { 'Content-Type': 'application/json' },
+      });
     }
 
     const article = digest.articles.find((a) => a.id === articleId);
     if (!article) {
-      return NextResponse.json({ error: 'Article not found' }, { status: 404 });
+      return new Response(JSON.stringify({ error: 'Article not found' }), {
+        status: 404,
+        headers: { 'Content-Type': 'application/json' },
+      });
     }
 
     // Generate speech
     const text = `${article.title[lang]}. ${article.summary[lang]}`;
-    const audioUrl = await generateSpeech(text, lang, date, articleId);
+    const result = await generateSpeech(text, lang, date, articleId);
 
-    return NextResponse.json({ url: audioUrl });
+    // Return audio directly
+    return new Response(new Uint8Array(result.audioBuffer), {
+      status: 200,
+      headers: {
+        'Content-Type': result.contentType,
+        'Cache-Control': 'public, max-age=86400',
+      },
+    });
   } catch (error) {
     console.error('TTS Error:', error);
-    return NextResponse.json(
-      { error: 'Failed to generate audio' },
-      { status: 500 }
-    );
+    return new Response(JSON.stringify({ error: 'Failed to generate audio' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
   }
 }

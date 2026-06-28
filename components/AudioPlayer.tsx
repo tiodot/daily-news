@@ -24,46 +24,31 @@ export default function AudioPlayer({
 }: AudioPlayerProps) {
   const { language, t } = useLanguage();
   const audioRef = useRef<HTMLAudioElement | null>(null);
-  const [audioUrl, setAudioUrl] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   const currentArticle = articles.find((a) => a.id === currentArticleId);
   const currentIndex = articles.findIndex((a) => a.id === currentArticleId);
 
-  const fetchAudio = useCallback(async (articleId: string, lang: Language) => {
-    setIsLoading(true);
-    setError(null);
-
-    try {
-      const audioDate = date || new Date().toISOString().split('T')[0];
-      const response = await fetch(`/api/audio?date=${audioDate}&articleId=${articleId}&lang=${lang}`);
-      const data = await response.json();
-
-      if (data.error) {
-        throw new Error(data.error);
-      }
-
-      setAudioUrl(data.url);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load audio');
-      setIsLoading(false);
-    }
+  const getAudioApiUrl = useCallback((articleId: string, lang: Language) => {
+    const audioDate = date || new Date().toISOString().split('T')[0];
+    return `/api/audio?date=${audioDate}&articleId=${articleId}&lang=${lang}`;
   }, [date]);
 
   useEffect(() => {
-    if (currentArticleId && isPlaying) {
-      fetchAudio(currentArticleId, language);
+    if (currentArticleId && isPlaying && audioRef.current) {
+      setIsLoading(true);
+      setError(null);
+      const url = getAudioApiUrl(currentArticleId, language);
+      audioRef.current.src = url;
+      audioRef.current.play()
+        .then(() => setIsLoading(false))
+        .catch((err) => {
+          setError('Failed to play audio');
+          setIsLoading(false);
+        });
     }
-  }, [currentArticleId, isPlaying, language, fetchAudio]);
-
-  useEffect(() => {
-    if (audioUrl && audioRef.current) {
-      audioRef.current.src = audioUrl;
-      audioRef.current.play().catch(console.error);
-      setIsLoading(false);
-    }
-  }, [audioUrl]);
+  }, [currentArticleId, isPlaying, language, getAudioApiUrl]);
 
   const handleEnded = useCallback(() => {
     // Play next article if available
