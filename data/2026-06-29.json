@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-29",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI预览下一代模型GPT-5.6 Sol",
+        "en": "OpenAI Previews Next-Generation Model GPT-5.6 Sol"
+      },
+      "summary": {
+        "zh": "OpenAI预览了GPT-5.6 Sol模型，在编程、科学和网络安全方面具有更强的能力，并配备了最先进的安全技术栈。该模型代表了大语言模型能力的新突破，适用于需要高度准确性和安全性的复杂任务。",
+        "en": "OpenAI previews GPT-5.6 Sol, featuring stronger capabilities in coding, science, and cybersecurity with its most advanced safety stack. This model represents a new breakthrough in LLM capabilities for complex tasks requiring high accuracy and security."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通联合发布LLM专用推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom Unveil LLM-Optimized Inference Chip Jalapeño"
+      },
+      "summary": {
+        "zh": "OpenAI与博通联合推出Jalapeño定制AI芯片，专为大语言模型推理优化设计，旨在提升性能、效率和规模化能力。这一合作表明AI公司正加速自研芯片布局，以降低对英伟达等供应商的依赖。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip optimized for LLM inference to improve performance, efficiency, and scale. This collaboration signals AI companies accelerating custom chip development to reduce dependence on suppliers like Nvidia."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI芯片",
+        "OpenAI",
+        "推理优化"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "4ttam50tgsb",
+      "title": {
+        "zh": "Apple Vision Pro负责人据报道将离职加入OpenAI",
+        "en": "Apple Vision Pro Executive Reportedly Leaving for OpenAI"
+      },
+      "summary": {
+        "zh": "苹果Vision Pro副总裁Paul Meade据报道将离职加入OpenAI硬件团队，这表明OpenAI正在加强硬件领域布局。此次人才流动反映了AI行业对硬件能力的重视程度日益提升。",
+        "en": "Apple VP Paul Meade, who led Vision Pro, is reportedly leaving to join OpenAI's hardware team, indicating OpenAI is strengthening its hardware capabilities. This talent move reflects the growing importance of hardware in the AI industry."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "硬件",
+        "人才流动"
+      ]
+    },
+    {
+      "id": "3sy1he5o9jk",
+      "title": {
+        "zh": "福特重新聘用资深工程师：AI未能如愿提升产品质量",
+        "en": "Ford Rehires Senior Engineers After AI Falls Short on Product Quality"
+      },
+      "summary": {
+        "zh": "福特汽车承认仅靠引入AI并不能保证生产高质量产品，正在重新聘用经验丰富的老工程师。这一案例提醒业界：AI应作为增强人类能力的工具，而非完全替代专业经验。",
+        "en": "Ford admits that introducing AI alone cannot guarantee high-quality products and is rehiring experienced engineers. This case reminds the industry that AI should augment human expertise rather than fully replace professional experience."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+      "tags": [
+        "AI应用",
+        "制造业",
+        "汽车行业"
+      ]
+    },
+    {
+      "id": "xuibaf",
+      "title": {
+        "zh": "中国智谱AI发布GLM-5.2：部分网络安全场景可媲美Mythos",
+        "en": "China's Zhipu AI Releases GLM-5.2: Matching Mythos in Some Cybersecurity Scenarios"
+      },
+      "summary": {
+        "zh": "中国智谱AI（Z.ai）发布了开源权重模型GLM-5.2，研究人员称其在部分漏洞发现和网络安全场景中可媲美Mythos。虽然GLM在其他方面仍落后于顶级模型，但这显示了中国在追赶AI前沿方面的进展。",
+        "en": "China's Zhipu AI released open-weight GLM-5.2, with researchers claiming it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM still lags behind top models in other areas, this shows China's progress in catching up to AI frontiers."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "tags": [
+        "LLM",
+        "开源模型",
+        "网络安全",
+        "中国AI"
+      ],
+      "publishedAt": "2026-06-28T21:42:51.000Z"
+    },
+    {
+      "id": "4xdqdx",
+      "title": {
+        "zh": "检察官在帕利塞德火灾案中使用ChatGPT日志作为证据",
+        "en": "Prosecutors Used ChatGPT Logs as Evidence in Palisades Fire Trial"
+      },
+      "summary": {
+        "zh": "在一起涉及致命山火的纵火案中，检察官使用ChatGPT对话日志作为证据。这一案例引发了AI对话数据在法律领域使用的隐私和法律效力讨论。",
+        "en": "Prosecutors used ChatGPT conversation logs as evidence in an arson case involving a deadly wildfire. This case raises privacy and legal validity discussions about using AI conversation data in legal proceedings."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "tags": [
+        "ChatGPT",
+        "法律科技",
+        "AI伦理"
+      ],
+      "publishedAt": "2026-06-28T14:12:06.000Z"
+    },
+    {
+      "id": "qkacjbyhmqc",
+      "title": {
+        "zh": "华尔街为何认为美光科技将成为下一个英伟达",
+        "en": "Why Wall Street Thinks US Memory Maker Micron is the Next Nvidia"
+      },
+      "summary": {
+        "zh": "华尔街投资者急于寻找更多AI相关上市公司，认为美光科技（Micron）可能成为下一个英伟达级别的赢家。存储芯片在AI训练和推理中扮演关键角色，HBM等高带宽内存需求持续增长。",
+        "en": "Wall Street investors are eager to find more AI-related public companies and believe Micron could be the next Nvidia-level winner. Memory chips play a crucial role in AI training and inference, with demand for HBM and high-bandwidth memory continuing to grow."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia",
+      "tags": [
+        "AI芯片",
+        "半导体",
+        "投资"
+      ]
+    },
+    {
+      "id": "ogayos",
+      "title": {
+        "zh": "中国宣布拥有全球最快超级计算机",
+        "en": "China Claims the World's Fastest Supercomputer"
+      },
+      "summary": {
+        "zh": "尽管面临贸易限制，中国成功夺回全球最快超级计算机的称号。深圳国家超算中心的LineShine超级计算机标志着中国在高性能计算领域的重要突破，这对AI训练和科学计算具有重大意义。",
+        "en": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer. The LineShine at the National Supercomputing Center in Shenzhen marks a significant breakthrough in high-performance computing, with major implications for AI training and scientific computing."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "tags": [
+        "超级计算机",
+        "HPC",
+        "中国科技"
+      ],
+      "publishedAt": "2026-06-28T17:20:59.000Z"
+    },
+    {
+      "id": "h5un2z",
+      "title": {
+        "zh": "OpenAI研究：AI智能体如何改变工作方式",
+        "en": "OpenAI Research: How AI Agents Are Transforming Work"
+      },
+      "summary": {
+        "zh": "OpenAI新发布的研究论文展示了AI智能体如何改变工作方式，使更长、更复杂的任务成为可能，并扩展了各角色的生产力。研究显示AI Agent正在从简单工具演变为能够处理复杂工作流程的协作伙伴。",
+        "en": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles. The research indicates AI Agents are evolving from simple tools to collaborative partners handling complex workflows."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "AI Agent",
+        "OpenAI",
+        "工作效率"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "id": "nhvy23oixpd",
+      "title": {
+        "zh": "印度支付行业负责人：AI将深度参与数字支付下一阶段增长",
+        "en": "Indian Payments Chief: AI Will Be Heavily Involved in Next Era of Digital Payment Growth"
+      },
+      "summary": {
+        "zh": "印度支付行业负责人Dilip Asbe表示，新一代UPI应用可能通过可行的商业模式与AI深度结合来提升竞争力。AI在数字支付领域的应用包括欺诈检测、个性化推荐和智能客服等方向。",
+        "en": "Indian payments chief Dilip Asbe said newer UPI apps could become more competitive through viable commercial models deeply integrated with AI. AI applications in digital payments include fraud detection, personalized recommendations, and intelligent customer service."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth",
+      "tags": [
+        "金融科技",
+        "AI应用",
+        "数字支付"
+      ]
+    }
+  ]
+}
