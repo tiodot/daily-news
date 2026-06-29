@@ -18,7 +18,11 @@ export async function GET(request: Request) {
       );
     }
 
-    return NextResponse.json(digest);
+    return NextResponse.json(digest, {
+      headers: {
+        'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
+      },
+    });
   } catch (error) {
     console.error('Failed to load digest:', error);
     return NextResponse.json(
