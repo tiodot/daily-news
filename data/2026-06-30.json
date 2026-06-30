@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-30",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI发布下一代模型GPT-5.6 Sol预览版",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model"
+      },
+      "summary": {
+        "zh": "OpenAI预发布了GPT-5.6 Sol模型，该模型在编码、科学和网络安全等领域的能力显著增强。它同时配备了OpenAI迄今最先进的安全体系，以平衡性能与安全性。",
+        "en": "OpenAI has previewed its next-generation model, GPT-5.6 Sol, which features significantly stronger capabilities in coding, science, and cybersecurity. The model also comes with OpenAI's most advanced safety stack to balance performance and security."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "LLM",
+        "GPT-5",
+        "OpenAI"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通发布专为大语言模型优化的定制推理芯片",
+        "en": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI和博通联合推出了名为Jalapeño的定制AI芯片，专门为大语言模型推理设计。该芯片旨在显著提升AI系统的性能、能效和可扩展性，优化模型运行成本。",
+        "en": "OpenAI and Broadcom have jointly introduced Jalapeño, a custom AI chip specifically designed for LLM inference. The chip aims to significantly improve the performance, efficiency, and scalability of AI systems, optimizing model operation costs."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Chips",
+        "Inference",
+        "OpenAI",
+        "Broadcom"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "f30uvo",
+      "title": {
+        "zh": "广受欢迎的AI排行榜Arena已成为价值一亿美元的业务",
+        "en": "Arena, the AI leaderboard everyone uses, is now a $100M business"
+      },
+      "summary": {
+        "zh": "运营知名免费AI排行榜的创业公司Arena，在推出商业化服务仅9个月后，其业务估值已达1亿美元。这标志着AI评估和基准测试领域的商业模式趋于成熟。",
+        "en": "The startup that operates the popular free AI leaderboard, Arena, has reached a valuation of $100 million just 9 months after launching its commercial service. This signals the maturation of business models in the AI evaluation and benchmarking space."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "tags": [
+        "AI Evaluation",
+        "Leaderboards",
+        "Startups"
+      ],
+      "publishedAt": "Mon, 29 Jun 2026 17:39:17 +0000"
+    },
+    {
+      "id": "nhc9dx",
+      "title": {
+        "zh": "知名投资人Chamath为其AI编程初创公司融资1.35亿美元并出任CEO",
+        "en": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role"
+      },
+      "summary": {
+        "zh": "知名投资者Chamath Palihapitiya为其创立的AI编程初创公司成功募集了1.35亿美元的A轮融资，并亲自担任首席执行官。这表明风险资本对AI辅助编程工具的持续热情和巨大信心。",
+        "en": "Prominent investor Chamath Palihapitiya has raised a $135 million Series A round for his AI coding startup and taken on the role of CEO. This demonstrates the continued enthusiasm and strong confidence of venture capital in AI-assisted programming tools."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "tags": [
+        "AI Coding",
+        "Startups",
+        "VC"
+      ],
+      "publishedAt": "Mon, 29 Jun 2026 20:55:50 +0000"
+    },
+    {
+      "id": "1o03hi",
+      "title": {
+        "zh": "美国议员提议立法禁止AI公司出售用户健康数据",
+        "en": "Lawmakers want to ban AI companies from selling your health data"
+      },
+      "summary": {
+        "zh": "一项新的立法提案拟禁止将美国人的健康和位置信息出售给数据中介，该禁令涵盖用户向ChatGPT或Claude等AI聊天机器人透露的信息。此举旨在加强AI时代下的个人数据隐私保护。",
+        "en": "A new legislative proposal seeks to ban the sale of Americans' health and location information to data brokers, including information revealed to AI chatbots like ChatGPT or Claude. The move aims to strengthen personal data privacy protection in the AI era."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "tags": [
+        "AI Policy",
+        "Data Privacy",
+        "Health Data"
+      ],
+      "publishedAt": "2026-06-29T16:00:00.000Z"
+    },
+    {
+      "id": "iu54nb",
+      "title": {
+        "zh": "LongCat-2.0发布：总参数1.6万亿、活跃参数480亿的大型MoE模型",
+        "en": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active"
+      },
+      "summary": {
+        "zh": "LongCat-2.0作为一个大规模混合专家模型正式发布，其总参数高达1.6万亿，但每次推理时仅激活480亿参数。这种MoE架构旨在在强大能力的同时优化计算效率。",
+        "en": "LongCat-2.0 has been officially released as a large-scale Mixture-of-Experts model, featuring a massive 1.6 trillion total parameters while activating only 48 billion parameters per inference. This MoE architecture is designed to optimize computational efficiency alongside powerful capabilities."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://longcat.chat/blog/longcat-2.0/",
+      "tags": [
+        "LLM",
+        "MoE",
+        "Open Source"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 00:30:11 +0000"
+    },
+    {
+      "id": "842q8kczkug",
+      "title": {
+        "zh": "百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶",
+        "en": "Baidu's OCR model 'Unlimited OCR' tops four leaderboards on HuggingFace and GitHub"
+      },
+      "summary": {
+        "zh": "百度的OCR模型“Unlimited OCR”在HuggingFace和GitHub平台的四项关键性能排行榜上均位列第一，展示了其在光学字符识别领域的领先技术水平。这是中国AI公司在特定技术赛道取得突破的又一例证。",
+        "en": "Baidu's OCR model 'Unlimited OCR' has topped four key performance leaderboards on the HuggingFace and GitHub platforms, demonstrating its leading technical level in optical character recognition. This serves as another example of a Chinese AI company making breakthroughs in a specific technological track."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3873626425332743",
+      "tags": [
+        "OCR",
+        "AI Models",
+        "Baidu"
+      ]
+    },
+    {
+      "id": "9ew13omdxiw",
+      "title": {
+        "zh": "Moxy摸喜发布首款AI陪伴机器人，主打无对话纯触觉交互",
+        "en": "Moxy launches its first AI companion robot, focusing on non-verbal, pure haptic interaction"
+      },
+      "summary": {
+        "zh": "品牌Moxy摸喜推出了其首款AI陪伴机器人，核心特色是“无对话、无摄像头、纯触觉交互”。该产品首次将离电型柔性传感技术完整应用于消费级陪伴设备，探索情感交互的新范式。",
+        "en": "The brand Moxy has launched its first AI companion robot, with its core feature being 'no dialogue, no camera, pure haptic interaction'. This product is the first to fully apply electret-based flexible sensing technology in consumer-grade companion devices, exploring a new paradigm for emotional interaction."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3874015941645570",
+      "tags": [
+        "Robotics",
+        "AI Companions",
+        "Haptic Feedback"
+      ]
+    }
+  ]
+}
