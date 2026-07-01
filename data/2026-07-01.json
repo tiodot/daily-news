@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-01",
+  "articles": [
+    {
+      "id": "nxqz5z",
+      "title": {
+        "zh": "Anthropic推出Claude Sonnet 5模型",
+        "en": "Anthropic launches Claude Sonnet 5 as a cheaper alternative for agents"
+      },
+      "summary": {
+        "zh": "Anthropic发布了Claude Sonnet 5模型，具备更强的代理能力和更低的价格，适用于构建更复杂的AI代理。该模型旨在提供比Opus和GPT-5.5更经济的解决方案，同时提升安全性。",
+        "en": "Anthropic has released Claude Sonnet 5, featuring enhanced agentic capabilities and lower pricing, making it ideal for building more complex AI agents. This model aims to provide a cost-effective alternative to Opus and GPT-5.5 while improving safety."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "tags": [
+        "LLM",
+        "Anthropic",
+        "AI Agents"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 18:00:00 +0000"
+    },
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI预览GPT-5.6 Sol模型",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation AI model"
+      },
+      "summary": {
+        "zh": "OpenAI预览了GPT-5.6 Sol模型，在编码、科学和网络安全方面有更强的能力，并配备了最先进的安全栈。该模型代表了下一代AI的进展，适合需要高性能和安全的开发者。",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model with superior capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack. This represents a significant advancement for developers requiring high performance and safety."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "GPT",
+        "OpenAI",
+        "AI Model"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "tgexbe",
+      "title": {
+        "zh": "Google推出TabFM零样本表格数据基础模型",
+        "en": "Google introduces TabFM, a zero-shot foundation model for tabular data"
+      },
+      "summary": {
+        "zh": "Google发布了TabFM，一个零样本基础模型，专为表格数据设计，无需训练即可处理新任务。这为数据科学家和开发者提供了强大的工具，用于快速分析和预测。",
+        "en": "Google has introduced TabFM, a zero-shot foundation model designed for tabular data that can handle new tasks without training. This provides a powerful tool for data scientists and developers for quick analysis and predictions."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "tags": [
+        "AI Research",
+        "Foundation Model",
+        "Google"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 22:08:38 +0000"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与Broadcom推出LLM优化推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI与Broadcom合作推出了Jalapeño芯片，专为大型语言模型推理优化，提升性能和能效。该芯片旨在加速AI系统部署，对基础设施开发者具有重要意义。",
+        "en": "OpenAI and Broadcom have unveiled Jalapeño, a custom AI chip optimized for LLM inference, improving performance and efficiency. This chip is aimed at accelerating AI system deployment, crucial for infrastructure developers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Hardware",
+        "Inference Chip",
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "h5un2z",
+      "title": {
+        "zh": "AI代理如何变革工作方式",
+        "en": "How AI agents are transforming work"
+      },
+      "summary": {
+        "zh": "OpenAI的研究论文展示了AI代理如何改变工作模式，使任务更长、更复杂，并扩展生产力。这对开发者来说，意味着可以构建更自主的系统来提升效率。",
+        "en": "An OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity. For developers, this means opportunities to build more autonomous systems to enhance efficiency."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "AI Agents",
+        "Productivity",
+        "Research"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "id": "yyf68e",
+      "title": {
+        "zh": "OpenAI推出GeneBench-Pro基准测试",
+        "en": "OpenAI introduces GeneBench-Pro, an AI benchmark for genomics"
+      },
+      "summary": {
+        "zh": "OpenAI推出了GeneBench-Pro，一个新的基准测试，用于评估AI在基因组学和生物学研究中的性能。该测试使用复杂的真实数据集，帮助开发者优化AI在科学领域的应用。",
+        "en": "OpenAI has introduced GeneBench-Pro, a new benchmark testing AI performance in genomics and biology using complex, real-world datasets. This helps developers optimize AI applications in scientific research."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-genebench-pro",
+      "tags": [
+        "AI Benchmark",
+        "Genomics",
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "id": "icngcb",
+      "title": {
+        "zh": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制",
+        "en": "Department of Commerce lifts export controls on Claude Fable 5 and Mythos 5"
+      },
+      "summary": {
+        "zh": "美国商务部已解除对Anthropic的Claude Fable 5和Mythos 5模型的出口管制，允许这些AI模型在全球范围内使用。这为开发者提供了更多访问先进AI工具的机会。",
+        "en": "The U.S. Department of Commerce has lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 models, enabling global access to these AI tools. This provides developers with more opportunities to use advanced AI technologies."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "tags": [
+        "AI Policy",
+        "Export Controls",
+        "Anthropic"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 23:55:12 +0000"
+    },
+    {
+      "id": "ak66wk",
+      "title": {
+        "zh": "新攻击揭示AI浏览器安全风险",
+        "en": "New attack highlights security risks in AI browsers"
+      },
+      "summary": {
+        "zh": "一项新攻击表明，通过误导AI模型，可以使其忽略安全限制，执行非法指令。这提醒开发者需加强AI系统的安全防护，特别是在浏览器集成中。",
+        "en": "A new attack shows that misleading AI models can make them ignore safety restrictions and follow forbidden instructions. This warns developers to strengthen security in AI systems, especially when integrated into browsers."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "tags": [
+        "AI Security",
+        "Cybersecurity",
+        "LLM"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 20:03:14 +0000"
+    }
+  ]
+}
