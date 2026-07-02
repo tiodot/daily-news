@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-02",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI预览GPT-5.6 Sol：下一代AI模型发布",
+        "en": "OpenAI Previews GPT-5.6 Sol: A Next-Generation AI Model"
+      },
+      "summary": {
+        "zh": "OpenAI预览了GPT-5.6 Sol模型，该模型在编码、科学和网络安全方面能力更强，并配备了最先进的安全堆栈。这对开发者来说意味着更强大的工具来构建复杂应用。",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model with enhanced capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack. For developers, this offers more powerful tools for building complex applications."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "AI Model",
+        "GPT"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通推出针对LLM优化的推理芯片",
+        "en": "OpenAI and Broadcom Unveil LLM-Optimized Inference Chip"
+      },
+      "summary": {
+        "zh": "OpenAI和博通联合推出Jalapeño芯片，专为LLM推理设计，以提升性能和效率。这有望加速AI系统在硬件层面的优化，对AI基础设施开发者至关重要。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance and efficiency. This could accelerate hardware optimization for AI systems, crucial for AI infrastructure developers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Chip",
+        "OpenAI",
+        "Hardware",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "1l9rtd",
+      "title": {
+        "zh": "Anthropic AI模型通过安全测试后获全球发布许可",
+        "en": "Anthropic AI Models Get Global Release After Safety Testing"
+      },
+      "summary": {
+        "zh": "美国解除了对Anthropic高级AI模型的限制，允许其全球发布。这标志着AI安全监管的一个重要时刻，开发者可以更广泛地访问这些先进模型。",
+        "en": "The US lifts curbs on Anthropic's advanced AI models, allowing global release. This marks a significant moment for AI safety regulation, enabling developers to access these advanced models more widely."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "tags": [
+        "Anthropic",
+        "AI Policy",
+        "Safety",
+        "Models"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "id": "pejc7i",
+      "title": {
+        "zh": "Neocloud公司Together AI融资8亿美元，估值跃升至83亿",
+        "en": "Neocloud Together AI Raises $800M, Valuation Leaps to $8.3B"
+      },
+      "summary": {
+        "zh": "专注于托管开源模型的AI neocloud提供商Together AI在新一轮融资中获得8亿美元，估值大幅上升。这表明AI基础设施领域的投资热度持续高涨，对开发者来说意味着更多资源可用。",
+        "en": "AI neocloud provider Together AI, specializing in hosting open source models, raises $800M in funding with a significant valuation increase. This shows continued investment heat in AI infrastructure, meaning more resources for developers."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "tags": [
+        "AI Startup",
+        "Funding",
+        "Cloud",
+        "Open Source"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 18:29:14 +0000"
+    },
+    {
+      "id": "gzg7db",
+      "title": {
+        "zh": "Meta限制内部AI令牌支出，成本逼近数十亿美元",
+        "en": "Meta Caps Internal AI Token Spending as Costs Approach Billions"
+      },
+      "summary": {
+        "zh": "Meta在AI令牌支出接近数十亿美元后，对其内部使用进行了限制。这凸显了AI开发的成本挑战，开发者需要关注效率和资源管理。",
+        "en": "Meta caps internal AI token spending as costs approach billions in 2026. This highlights the cost challenges of AI development, urging developers to focus on efficiency and resource management."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "tags": [
+        "Meta",
+        "AI Costs",
+        "Tokenization",
+        "Efficiency"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 23:58:48 +0000"
+    },
+    {
+      "id": "e7rmq3",
+      "title": {
+        "zh": "SpaceX展示AI设备原型，外形类似手机",
+        "en": "SpaceX Shows AI Device Prototype That Sounds Phone-Like"
+      },
+      "summary": {
+        "zh": "SpaceX据报道向投资者展示了一款“手持式”AI设备原型，可能涉及无线扩展。这暗示SpaceX在AI硬件领域的野心，对开发者来说可能开辟新的应用场景。",
+        "en": "SpaceX reportedly showed investors a 'handset-like' AI device prototype, potentially involving wireless expansion. This hints at SpaceX's ambitions in AI hardware, possibly opening new application scenarios for developers."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "tags": [
+        "SpaceX",
+        "AI Hardware",
+        "Prototype",
+        "Wireless"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000"
+    },
+    {
+      "id": "wf8sph",
+      "title": {
+        "zh": "Cloudflare新政策要求AI公司为出版商内容付费",
+        "en": "Cloudflare's New Policy Pushes AI Companies to Pay for Publishers' Content"
+      },
+      "summary": {
+        "zh": "Cloudflare给予AI公司至9月15日的时间来区分搜索和AI训练的网络爬虫，否则将被默认封锁。这影响AI数据获取方式，开发者需调整策略以符合新规。",
+        "en": "Cloudflare gives AI companies until September 15 to separate web crawlers for search from those for AI training, or risk being blocked. This affects AI data acquisition methods, requiring developers to adjust strategies to comply with new rules."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "tags": [
+        "Cloudflare",
+        "AI Policy",
+        "Data Access",
+        "Crawling"
+      ],
+      "publishedAt": "Wed, 01 Jul 2026 17:48:37 +0000"
+    },
+    {
+      "id": "1n39po",
+      "title": {
+        "zh": "前大疆科学家创业，硅羽科技半年内获四轮数亿融资",
+        "en": "Former DJI Scientist's Startup, Silicon Wing Technology, Raises Hundreds of Millions in Four Rounds"
+      },
+      "summary": {
+        "zh": "硅羽科技专注于通用空中智能，半年内连续完成四轮数亿元融资，投资方包括阿里巴巴等。这显示了AI在机器人和航空领域的快速发展，为开发者提供了新的硬件和软件整合机会。",
+        "en": "Silicon Wing Technology, focusing on general aerial intelligence, secures hundreds of millions in four rounds of funding within half a year, with investors like Alibaba. This indicates rapid development in AI for robotics and aviation, offering developers new opportunities for hardware-software integration."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3877830625046535?f=rss",
+      "tags": [
+        "AI Startup",
+        "Robotics",
+        "Funding",
+        "Aerial Intelligence"
+      ],
+      "publishedAt": "2026-07-02 09:33:33  +0800"
+    }
+  ]
+}
