@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-03",
+  "articles": [
+    {
+      "id": "1hvnt",
+      "title": {
+        "zh": "扎克伯格承认AI智能体发展未达预期",
+        "en": "Mark Zuckerberg tells staff AI agents haven't progressed as quickly as hoped"
+      },
+      "summary": {
+        "zh": "Meta CEO扎克伯格在内部会议上表示，AI智能体的发展速度未达到此前的预期。这一表态反映了当前AI智能体技术落地面临的挑战，提示开发者在构建自主代理系统时需要更多耐心和更务实的路线图。",
+        "en": "Meta CEO Mark Zuckerberg reportedly told staff that AI agent development is not moving as quickly as anticipated. This signals challenges in bringing autonomous AI agents to production, suggesting developers should adopt more realistic timelines for agent-based systems."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "tags": [
+        "AI Agents",
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000"
+    },
+    {
+      "id": "zclfqr",
+      "title": {
+        "zh": "Anthropic与三星洽谈定制AI芯片",
+        "en": "Anthropic discussing new custom AI chip with Samsung"
+      },
+      "summary": {
+        "zh": "继OpenAI与博通合作推出定制AI芯片后，Anthropic正在与三星讨论开发自己的AI芯片。AI公司纷纷投入自研芯片，反映了对算力自主可控的战略需求，可能改变当前NVIDIA主导的AI芯片格局。",
+        "en": "Following OpenAI's custom chip announcement with Broadcom, Anthropic is in talks with Samsung to develop its own AI chip. This trend of AI companies building custom silicon reflects strategic needs for compute independence and could reshape the AI chip landscape."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "tags": [
+        "AI Chips",
+        "Anthropic",
+        "Samsung"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000"
+    },
+    {
+      "id": "dfiwak",
+      "title": {
+        "zh": "Meta推出AI游戏生成应用Pocket",
+        "en": "Meta launches Pocket - an AI app for generating interactive mini games"
+      },
+      "summary": {
+        "zh": "Meta悄然上线实验性AI应用Pocket，用户可通过文本提示生成并分享交互式小游戏。这展示了AI在创意内容生成领域的新应用，开发者可关注这种prompt-to-game的模式在用户体验和底层技术上的创新。",
+        "en": "Meta quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. This showcases new AI applications in creative content generation, demonstrating prompt-to-game workflows for developers to explore."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "tags": [
+        "Meta",
+        "AI Apps",
+        "Game Development",
+        "Generative AI"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000"
+    },
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI预览下一代模型GPT-5.6 Sol",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model"
+      },
+      "summary": {
+        "zh": "OpenAI预览了GPT-5.6 Sol模型，在编程、科学研究和网络安全方面能力显著增强，并配备了最先进的安全防护体系。这对开发者意味着更强的代码生成能力和更可靠的部署环境，值得持续关注其API发布计划。",
+        "en": "OpenAI previews GPT-5.6 Sol with enhanced capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack. This means stronger code generation and more reliable deployment for developers, with API availability worth monitoring closely."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "LLM",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通联合发布LLM专用推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom unveil Jalapeño LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI与博通联合推出Jalapeño定制AI芯片，专为LLM推理优化设计，旨在提升AI系统的性能、效率和可扩展性。这标志着大型AI公司正在从软件层向硬件层深度整合，开发者需要关注推理成本和延迟的潜在改善。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built specifically for LLM inference to improve performance, efficiency, and scalability. This signals deep hardware-software integration by major AI companies, potentially improving inference costs and latency."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "OpenAI",
+        "AI Chips",
+        "LLM",
+        "Broadcom"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "h5un2z",
+      "title": {
+        "zh": "OpenAI研究：AI智能体如何重塑工作方式",
+        "en": "OpenAI research: How AI agents are transforming work"
+      },
+      "summary": {
+        "zh": "OpenAI发布新研究论文，展示AI智能体如何改变工作模式，能够执行更长、更复杂的任务，并在多种岗位上扩展生产力。这对开发者来说意味着Agent框架和工具链的需求将持续增长，长任务执行能力是关键发展方向。",
+        "en": "OpenAI's new research paper shows how AI agents are enabling longer, more complex tasks and expanding productivity across roles. This signals growing demand for agent frameworks and toolchains, with long-task execution being a key development focus."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "AI Agents",
+        "OpenAI",
+        "Productivity",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "id": "yyf68e",
+      "title": {
+        "zh": "OpenAI发布基因组学AI基准测试GeneBench-Pro",
+        "en": "OpenAI introduces GeneBench-Pro for genomics and biology AI"
+      },
+      "summary": {
+        "zh": "OpenAI推出GeneBench-Pro，一个用于测试AI在基因组学、生物学和科学研究中表现的新基准，使用复杂的真实世界数据集。这为AI在生命科学领域的应用提供了标准化评估框架，对关注AI for Science的开发者具有重要参考价值。",
+        "en": "OpenAI introduces GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex real-world datasets. This provides a standardized evaluation framework for AI in life sciences, valuable for AI for Science developers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-genebench-pro",
+      "tags": [
+        "OpenAI",
+        "AI Benchmark",
+        "Biology",
+        "AI for Science"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "id": "g0sp96",
+      "title": {
+        "zh": "高盛报告：AI是否引发就业危机？",
+        "en": "Goldman Sachs report: An AI Job Apocalypse?"
+      },
+      "summary": {
+        "zh": "高盛发布研究报告分析AI对就业市场的潜在冲击。报告深入探讨了哪些岗位可能面临自动化替代，以及AI可能创造的新就业机会。对于技术从业者来说，理解AI对不同职业的影响有助于做出更好的职业规划。",
+        "en": "Goldman Sachs publishes research analyzing AI's potential impact on the job market, examining which roles may face automation and what new opportunities AI might create. Understanding these workforce shifts helps tech professionals make informed career decisions."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
+      "tags": [
+        "AI",
+        "Workforce",
+        "Economics",
+        "Automation"
+      ],
+      "publishedAt": "Fri, 03 Jul 2026 00:18:11 +0000"
+    },
+    {
+      "id": "iph0e0",
+      "title": {
+        "zh": "AI的真实代价：谷歌和亚马逊的碳中和困境",
+        "en": "A warning sign about AI's real cost, courtesy of Google and Amazon"
+      },
+      "summary": {
+        "zh": "AI的发展给谷歌和亚马逊的碳中和承诺带来了巨大挑战，AI训练和推理的能耗远超预期。这提醒开发者在构建AI应用时需要关注模型效率和能耗优化，绿色AI将成为重要议题。",
+        "en": "AI development is making it harder for Google and Amazon to deliver on their net-zero pledges, with AI training and inference consuming far more energy than expected. Developers should consider model efficiency and green AI practices when building applications."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "tags": [
+        "AI",
+        "Sustainability",
+        "Google",
+        "Amazon"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 19:14:46 +0000"
+    },
+    {
+      "id": "b130tsdry0o",
+      "title": {
+        "zh": "OpenAI拟向美国政府提供5%股权以化解监管压力",
+        "en": "OpenAI offers US government 5% stake to address AI concerns"
+      },
+      "summary": {
+        "zh": "据报道，OpenAI CEO Sam Altman正与特朗普政府积极谈判，提议给予美国政府5%的股权以应对AI监管压力。这反映了AI行业与政府之间日益复杂的关系，对AI公司的治理结构和政策合规具有深远影响。",
+        "en": "OpenAI CEO Sam Altman is reportedly in active talks with the Trump administration, offering a 5% stake to address regulatory concerns. This reflects the increasingly complex relationship between AI companies and governments, with significant implications for governance and compliance."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://arsstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "tags": [
+        "OpenAI",
+        "AI Policy",
+        "Regulation"
+      ]
+    }
+  ]
+}
