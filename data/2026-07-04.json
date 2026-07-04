@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-04",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6 Sol：编码与科学能力显著提升",
+        "en": "OpenAI Previews GPT-5.6 Sol: Next-Gen Model with Enhanced Coding and Science Capabilities"
+      },
+      "summary": {
+        "zh": "OpenAI预览了下一代模型GPT-5.6 Sol，在编码、科学和网络安全方面能力更强，并搭载了最先进的安全防护机制。这是OpenAI在大型语言模型领域的又一次重大升级。",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack. This represents another major leap in large language model development."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI联合博通推出专用LLM推理芯片Jalapeño",
+        "en": "OpenAI and Broadcom Unveil Jalapeño: Custom LLM-Optimized Inference Chip"
+      },
+      "summary": {
+        "zh": "OpenAI与博通合作推出Jalapeño定制AI芯片，专为LLM推理优化设计，旨在提升AI系统的性能、能效和扩展性。这标志着头部AI公司正加速布局自研AI硬件。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built specifically for LLM inference to improve performance, efficiency, and scale. This signals leading AI companies are accelerating custom AI hardware development."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Hardware",
+        "OpenAI",
+        "Inference",
+        "Chip"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "h5un2z",
+      "title": {
+        "zh": "OpenAI研究：AI Agent如何变革工作方式",
+        "en": "OpenAI Research Shows How AI Agents Are Transforming Work"
+      },
+      "summary": {
+        "zh": "OpenAI新发布的研究论文揭示AI Agent如何改变工作流程，使更长、更复杂的任务成为可能，并在多个岗位上扩展生产力。这对开发者理解和构建Agent应用有重要参考价值。",
+        "en": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles. This provides valuable insights for developers building agent-based applications."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "AI Agents",
+        "OpenAI",
+        "Productivity"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "id": "2kk1zk",
+      "title": {
+        "zh": "Anthropic推出Claude Science，进军AI药物研发",
+        "en": "Anthropic Launches Claude Science to Enter AI-Powered Drug Development"
+      },
+      "summary": {
+        "zh": "Anthropic发布Claude Science，一个面向科学家的AI工作台，将碎片化的工具和数据集整合到统一环境中，同时宣布进军AI药物开发领域。这展示了AI大模型在科学研究领域的深度应用。",
+        "en": "Anthropic announces Claude Science, an AI workbench for scientists that integrates fragmented tools and datasets, while entering AI drug development. This demonstrates deep applications of large AI models in scientific research."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "tags": [
+        "Anthropic",
+        "AI for Science",
+        "Drug Development"
+      ],
+      "publishedAt": "2026-07-03T13:56:52.000Z"
+    },
+    {
+      "id": "1hvnt",
+      "title": {
+        "zh": "扎克伯格承认AI Agent发展未达预期",
+        "en": "Zuckerberg Tells Staff AI Agents Haven't Progressed as Quickly as Expected"
+      },
+      "summary": {
+        "zh": "Meta CEO扎克伯格在内部会议上坦言，AI Agent的发展速度未达到此前预期。这一表态引发业界对AI Agent技术瓶颈的讨论，也为开发者提供了行业现状的参考。",
+        "en": "Meta CEO reportedly told staff that AI agent development has not moved as quickly as anticipated, sparking industry discussion about current bottlenecks in AI agent technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "tags": [
+        "AI Agents",
+        "Meta",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000"
+    },
+    {
+      "id": "vlze9m",
+      "title": {
+        "zh": "Midjourney医疗扫描仪幕后揭秘，技术细节引质疑",
+        "en": "Midjourney's Medical Scanner Behind-the-Scenes Raises More Questions Than Answers"
+      },
+      "summary": {
+        "zh": "Midjourney展示了其未来感十足的医疗超声扫描仪的更多技术细节，但幕后的演示视频反而引发了更多关于技术可行性的质疑。这反映了AI图像生成公司在硬件跨界上的挑战。",
+        "en": "Midjourney reveals more details about its futuristic medical ultrasound scanner, but the behind-the-scenes video raises more questions about technical feasibility. This reflects challenges AI image generation companies face when expanding into hardware."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "tags": [
+        "Midjourney",
+        "AI Healthcare",
+        "Computer Vision"
+      ],
+      "publishedAt": "2026-07-03T11:49:10.000Z"
+    },
+    {
+      "id": "b5ace9",
+      "title": {
+        "zh": "研究发现：分散损失可抵消小型语言模型的嵌入坍缩",
+        "en": "Research: Dispersion Loss Counteracts Embedding Collapse in Small Language Models"
+      },
+      "summary": {
+        "zh": "新研究发现，分散损失（dispersion loss）可以有效抵消小型语言模型中的嵌入坍缩现象。这一发现对优化小型LLM的训练具有重要意义，尤其在资源受限的场景下。",
+        "en": "New research shows that dispersion loss can effectively counteract embedding condensation in small language models. This finding is significant for optimizing small LLM training, especially in resource-constrained scenarios."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+      "tags": [
+        "LLM",
+        "ML Research",
+        "Training"
+      ],
+      "publishedAt": "Fri, 03 Jul 2026 22:35:47 +0000"
+    },
+    {
+      "id": "c2r2q4",
+      "title": {
+        "zh": "阿里内部全面禁用Claude Code，存在植入后门风险",
+        "en": "Alibaba Bans Claude Code Internally Due to Backdoor Security Risks"
+      },
+      "summary": {
+        "zh": "36氪获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里内部已全面禁用该工具。同时，微软砸25亿美元组建6000人AI新公司，科技巨头在AI领域持续加码。",
+        "en": "Alibaba has internally banned Claude Code due to reported backdoor security risks. Meanwhile, Microsoft invested $2.5 billion to form a new 6,000-person AI company, as tech giants continue heavy AI investments."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3880629882679301?f=rss",
+      "tags": [
+        "AI Security",
+        "Alibaba",
+        "Code Generation"
+      ],
+      "publishedAt": "2026-07-04 09:03:44  +0800"
+    },
+    {
+      "id": "x9t7re",
+      "title": {
+        "zh": "OpenAI发布GeneBench-Pro：基因组学AI性能基准测试",
+        "en": "OpenAI Introduces GeneBench-Pro: AI Benchmark for Genomics and Biology"
+      },
+      "summary": {
+        "zh": "OpenAI推出GeneBench-Pro，一个新的基准测试，使用复杂的真实世界数据集检验AI在基因组学、生物学和科学研究中的性能表现。这为评估AI在生命科学领域的应用提供了标准化工具。",
+        "en": "OpenAI introduces GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex real-world datasets. This provides a standardized tool for evaluating AI applications in life sciences."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/genebench-pro/case-studies",
+      "tags": [
+        "AI Benchmark",
+        "OpenAI",
+        "Genomics",
+        "AI for Science"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "id": "t5wqlu",
+      "title": {
+        "zh": "OpenAI数据：ChatGPT全球采用率持续扩大",
+        "en": "OpenAI Data Shows ChatGPT Adoption Expanding Globally"
+      },
+      "summary": {
+        "zh": "OpenAI Signals新数据显示，ChatGPT全球采用率持续增长，用户使用频率增加、探索更多功能，并在各地区和语言中推动增长。这对了解LLM应用市场趋势有重要参考价值。",
+        "en": "New OpenAI data shows ChatGPT adoption growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. This provides valuable insights into LLM market trends."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "LLM"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 09:00:00 GMT"
+    }
+  ]
+}
