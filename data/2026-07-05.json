@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-05",
+  "articles": [
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI 预告下一代模型 GPT-5.6 Sol",
+        "en": "OpenAI Previews GPT-5.6 Sol, a Next-Generation Model"
+      },
+      "summary": {
+        "zh": "OpenAI 预告了下一代模型 GPT-5.6 Sol，该模型在编程、科学和网络安全方面能力更强，并配备了迄今最先进的安全系统。这预示着基础模型能力的又一次重要飞跃。",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model with enhanced capabilities in coding, science, and cybersecurity, coupled with its most advanced safety stack. This signals another major leap in foundational model capabilities."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI 与博通联合发布 LLM 专用推理芯片 Jalapeño",
+        "en": "OpenAI and Broadcom Unveil LLM-Optimized Inference Chip, Jalapeño"
+      },
+      "summary": {
+        "zh": "OpenAI 与博通联手推出名为 Jalapeño 的定制 AI 芯片，专门优化用于大语言模型推理任务，旨在提升性能、能效和规模化部署能力。这标志着主要 AI 实验室在算力基础设施上的自主布局。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built specifically for LLM inference to enhance performance, efficiency, and scalability. This marks a significant step by a major AI lab in owning its compute infrastructure."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Chip",
+        "Inference",
+        "OpenAI",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "h5un2z",
+      "title": {
+        "zh": "研究显示 AI 智能体正在变革工作模式",
+        "en": "Research Shows How AI Agents Are Transforming Work"
+      },
+      "summary": {
+        "zh": "OpenAI 最新研究论文指出，AI 智能体正在变革工作方式，能够处理更长、更复杂的任务，并在不同岗位上扩大生产力。这为未来人机协作的工作流程提供了重要参考。",
+        "en": "A new OpenAI research paper shows that AI agents are transforming work by enabling longer, more complex tasks and expanding productivity across various roles. This provides key insights into future human-AI collaborative workflows."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "tags": [
+        "AI Agents",
+        "Future of Work",
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 25 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "id": "vl11py",
+      "title": {
+        "zh": "Midjourney 要求好莱坞制片厂公开其 AI 使用细节",
+        "en": "Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage"
+      },
+      "summary": {
+        "zh": "在与三家好莱坞制片厂的法律纠纷中，Midjourney 试图强制要求对方披露其自身使用 AI 的细节。此事件凸显了生成式 AI 在创意产业中引发的版权与商业实践冲突。",
+        "en": "As part of an ongoing legal dispute, Midjourney is seeking to compel Hollywood studios to reveal how they themselves use AI. This case highlights the growing conflicts over copyright and business practices in creative industries involving generative AI."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "tags": [
+        "Generative AI",
+        "Copyright",
+        "Midjourney",
+        "Legal"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000"
+    },
+    {
+      "id": "yyf68e",
+      "title": {
+        "zh": "OpenAI 推出生物学 AI 基准测试 GeneBench-Pro",
+        "en": "OpenAI Introduces GeneBench-Pro, a New AI Benchmark for Biology"
+      },
+      "summary": {
+        "zh": "OpenAI 推出 GeneBench-Pro 基准测试，利用复杂的真实世界数据集，评估 AI 在基因组学、生物学和科学研究任务中的表现。这将有助于推动 AI 在生命科学领域的可靠应用。",
+        "en": "OpenAI introduces GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets. This will help drive the reliable application of AI in the life sciences."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-genebench-pro",
+      "tags": [
+        "AI Benchmark",
+        "BioAI",
+        "OpenAI",
+        "Genomics"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "id": "rwc1to",
+      "title": {
+        "zh": "据报道，阿里巴巴内部全面禁用 Claude Code",
+        "en": "Alibaba Reportedly Bans Employees from Using Claude Code"
+      },
+      "summary": {
+        "zh": "阿里巴巴已将 Claude Code 列为高风险软件并禁止内部使用。此举反映了大型科技公司对 AI 编码工具安全性和数据泄露风险的高度警惕。",
+        "en": "Alibaba has reportedly classified Claude Code as high-risk software and banned its internal use. This move reflects the heightened caution within major tech companies regarding the security and data leakage risks of AI coding tools."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "tags": [
+        "AI Coding",
+        "Corporate Policy",
+        "Alibaba",
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000"
+    },
+    {
+      "id": "qzetiscgt7",
+      "title": {
+        "zh": "宇树科技科创板 IPO 获批，成为“具身智能第一股”",
+        "en": "Unitree Robotics Gets IPO Approval, Becoming the 'Embodied AI First Stock'"
+      },
+      "summary": {
+        "zh": "证监会同意宇树科技首次公开发行股票注册，意味着这家全球首家在 IPO 前实现人形机器人规模化量产和商业化落地的公司即将登陆科创板。这是具身智能赛道资本化的标志性事件。",
+        "en": "China's securities regulator has approved Unitree Robotics' IPO application, marking the imminent listing of a company that has achieved mass production and commercialization of humanoid robots pre-IPO. This is a landmark event for the embodied AI sector's capitalization."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3879158039834629",
+      "tags": [
+        "Robotics",
+        "Embodied AI",
+        "IPO",
+        "Unitree"
+      ]
+    },
+    {
+      "id": "rpzmt2",
+      "title": {
+        "zh": "GPT-5.5 Codex 推理 token 聚类可能导致性能下降",
+        "en": "GPT-5.5 Codex Reasoning-Token Clustering May Be Leading to Degraded Performance"
+      },
+      "summary": {
+        "zh": "GitHub 上的讨论指出，OpenAI Codex 中 GPT-5.5 的推理 token 聚类机制可能导致模型性能下降。这为开发者提供了关于最新模型潜在行为模式的第一手观察。",
+        "en": "A discussion on GitHub suggests that the reasoning-token clustering mechanism in OpenAI's GPT-5.5 Codex may be leading to degraded model performance. This offers developers firsthand observations of potential behavior patterns in the latest models."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/openai/codex/issues/30364",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "LLM",
+        "Bug Report"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 21:51:09 +0000"
+    }
+  ]
+}
