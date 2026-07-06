@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "id": "w5e783",
+      "title": {
+        "zh": "GPT-5.6 Sol Ultra将集成到Codex中",
+        "en": "GPT-5.6 Sol Ultra will be in Codex"
+      },
+      "summary": {
+        "zh": "OpenAI的下一代模型GPT-5.6 Sol Ultra计划集成到Codex中，提升编码和科学能力。开发者可以期待更强的性能和安全性改进。",
+        "en": "OpenAI's next-gen model GPT-5.6 Sol Ultra is set to be integrated into Codex, enhancing coding and science capabilities. Developers can expect improved performance and safety enhancements."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "tags": [
+        "GPT-5.6",
+        "OpenAI",
+        "Codex"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 01:04:03 +0000"
+    },
+    {
+      "id": "t5wqlu",
+      "title": {
+        "zh": "ChatGPT采用率持续扩大",
+        "en": "How ChatGPT adoption has expanded"
+      },
+      "summary": {
+        "zh": "OpenAI数据显示，ChatGPT全球采用率增长，用户使用频率增加，探索更多功能。这表明AI助手在各行业的应用正在深化，开发者可关注集成机会。",
+        "en": "OpenAI data shows global ChatGPT adoption is growing, with users increasing usage and exploring more capabilities. This indicates AI assistants are being integrated deeper across industries, offering integration opportunities for developers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "AI Adoption"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "预览GPT-5.6 Sol：新一代模型",
+        "en": "Previewing GPT-5.6 Sol: a next-generation model"
+      },
+      "summary": {
+        "zh": "OpenAI预览GPT-5.6 Sol模型，在编码、科学和网络安全方面能力更强，并配备先进安全栈。开发者应关注其新功能和潜在集成点。",
+        "en": "OpenAI previews GPT-5.6 Sol model with stronger capabilities in coding, science, and cybersecurity, paired with advanced safety. Developers should watch for new features and potential integration points."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "GPT-5.6",
+        "OpenAI",
+        "AI Model"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通推出LLM优化推理芯片",
+        "en": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI和博通联合推出Jalapeño芯片，专为LLM推理优化，提升性能和效率。这对AI基础设施和开发者工具链有重要影响，可加速模型部署。",
+        "en": "OpenAI and Broadcom introduce Jalapeño chip, optimized for LLM inference to improve performance and efficiency. This has significant implications for AI infrastructure and developer toolchains, potentially speeding up model deployment."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Chip",
+        "LLM",
+        "Inference",
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    },
+    {
+      "id": "5zme3a",
+      "title": {
+        "zh": "Mistral AI：OpenAI的竞争者全解析",
+        "en": "What is Mistral AI? Everything to know about the OpenAI competitor"
+      },
+      "summary": {
+        "zh": "Mistral AI提供开源AI模型，自2023年创立以来融资显著，目标是将前沿AI普及化。开发者可以关注其模型和开源生态，探索新工具。",
+        "en": "Mistral AI offers open-source AI models and has raised significant funding since 2023, aiming to democratize frontier AI. Developers should monitor its models and open-source ecosystem for new tools."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "tags": [
+        "Mistral AI",
+        "OpenAI",
+        "Open Source",
+        "LLM"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000"
+    },
+    {
+      "id": "rwc1to",
+      "title": {
+        "zh": "阿里巴巴据报禁用Claude Code",
+        "en": "Alibaba reportedly bans employees from using Claude Code"
+      },
+      "summary": {
+        "zh": "阿里巴巴将Claude Code列为高风险软件并禁止员工使用，原因是安全漏洞。这反映了企业对AI工具安全性的关注，开发者需注意工具风险。",
+        "en": "Alibaba has classified Claude Code as high-risk software and banned employee use due to security concerns. This reflects growing enterprise focus on AI tool security, reminding developers to be cautious."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "tags": [
+        "Claude Code",
+        "Alibaba",
+        "AI Security"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000"
+    },
+    {
+      "id": "vl11py",
+      "title": {
+        "zh": "Midjourney要求好莱坞工作室公开AI使用细节",
+        "en": "Midjourney wants Hollywood studios to reveal the details of their AI usage"
+      },
+      "summary": {
+        "zh": "在法律纠纷中，Midjourney要求好莱坞工作室披露AI使用情况，突显AI艺术领域的知识产权问题。开发者应关注AI生成内容的法律边界和合规要求。",
+        "en": "In a legal dispute, Midjourney seeks to compel Hollywood studios to reveal their AI usage, highlighting IP issues in AI art. Developers should be aware of legal boundaries and compliance for AI-generated content."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "tags": [
+        "Midjourney",
+        "AI Art",
+        "Legal",
+        "Intellectual Property"
+      ],
+      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000"
+    },
+    {
+      "id": "d8z8xj",
+      "title": {
+        "zh": "今年已诞生近90家新独角兽，AI驱动投资热潮",
+        "en": "Almost 90 new unicorns have been minted so far this year — here they are"
+      },
+      "summary": {
+        "zh": "AI点燃投资热潮，更多初创公司达到独角兽 status，每月都有新增。开发者可以关注AI领域的投资趋势和新兴机会，以把握市场动态。",
+        "en": "AI is igniting an investor frenzy, with more startups achieving unicorn status every month. Developers can track investment trends and emerging opportunities in AI to stay ahead."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "tags": [
+        "AI Startups",
+        "Venture Capital",
+        "Unicorns"
+      ],
+      "publishedAt": "Sun, 05 Jul 2026 12:47:39 +0000"
+    },
+    {
+      "id": "hm1hkz",
+      "title": {
+        "zh": "代码整洁性是否影响编码代理？",
+        "en": "Does Code Cleanliness Affect Coding Agents?"
+      },
+      "summary": {
+        "zh": "研究探讨代码整洁性对AI编码代理性能的影响，为开发者优化代码以配合AI工具提供见解。这有助于提升开发效率和工具集成。",
+        "en": "Research examines how code cleanliness affects AI coding agent performance, offering insights for developers to optimize code for AI tools. This can improve development efficiency and tool integration."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://arxiv.org/abs/2605.20049",
+      "tags": [
+        "Coding Agents",
+        "AI Tools",
+        "Software Development"
+      ],
+      "publishedAt": "Sun, 05 Jul 2026 23:03:55 +0000"
+    },
+    {
+      "id": "70zzxd",
+      "title": {
+        "zh": "忆生科技获数亿融资，为机器人构建记忆系统",
+        "en": "TranscEngram raises hundreds of millions to build memory systems for robots"
+      },
+      "summary": {
+        "zh": "忆生科技完成数亿元天使轮融资，专注于机器人AI记忆系统，基于感知-预测-交互闭环。这有望推动机器人智能的发展，开发者可关注其技术进展。",
+        "en": "TranscEngram completes hundreds of millions in angel funding, focusing on AI memory systems for robots with a perception-prediction-interaction loop. This could advance robotics intelligence, with developers monitoring its tech developments."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3882365879005186?f=rss",
+      "tags": [
+        "Robotics",
+        "AI Memory",
+        "Embodied AI"
+      ],
+      "publishedAt": "2026-07-05 14:27:30  +0800"
+    }
+  ]
+}
