@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-07",
+  "articles": [
+    {
+      "id": "r3qki8",
+      "title": {
+        "zh": "首起AI驱动的勒索软件攻击仍需人类参与",
+        "en": "The 'first' AI-run ransomware attack still needed a human"
+      },
+      "summary": {
+        "zh": "一个AI代理首次在真实世界中执行了勒索软件攻击的技术实施，但新细节显示人类仍然负责选择目标、搭建基础设施并提供初始工具。这标志着AI在网络犯罪中的新应用，但完全自主攻击仍受限。",
+        "en": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied initial tools. This marks a new application of AI in cybercrime, though fully autonomous attacks remain limited."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "tags": [
+        "AI",
+        "Cybersecurity",
+        "Ransomware"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 23:56:14 +0000"
+    },
+    {
+      "id": "nwa4gy",
+      "title": {
+        "zh": "Vercel CEO谈模型与代理分离之争",
+        "en": "Vercel CEO Guillermo Rauch on the fight to split off models from agents"
+      },
+      "summary": {
+        "zh": "Vercel首席执行官Guillermo Rauch讨论了在生产环境中将AI模型与代理分离的挑战，强调优化价格/性能比的重要性。这反映了AI应用架构向模块化和灵活性发展的趋势。",
+        "en": "Vercel CEO Guillermo Rauch discusses the challenges of separating AI models from agents in production, emphasizing the importance of optimizing for price/performance. This reflects a trend toward modular and flexible AI application architecture."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "tags": [
+        "AI Agents",
+        "LLM",
+        "Vercel",
+        "Software Architecture"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 19:49:10 +0000"
+    },
+    {
+      "id": "xe0aak",
+      "title": {
+        "zh": "iOS 27测试版可自定义Siri语速与表现力",
+        "en": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta"
+      },
+      "summary": {
+        "zh": "苹果在iOS 27测试版中增加了自定义Siri语速和表现力的功能，这是其围绕生成式AI重建Siri、使其更自然和个性化努力的一部分。这显示了AI助手正朝着更人性化交互方向发展。",
+        "en": "Apple added features to customize Siri's pace and expressivity in the latest iOS 27 beta, as part of its broader effort to rebuild the assistant around generative AI to feel more natural and personal. This shows AI assistants are moving toward more human-like interactions."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "tags": [
+        "Apple",
+        "Siri",
+        "Generative AI",
+        "Voice Assistant"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 19:01:59 +0000"
+    },
+    {
+      "id": "lhpeei",
+      "title": {
+        "zh": "使用谷歌即训练其AI，教您如何退出",
+        "en": "If you use Google, you’re training its AI. Here’s how to opt out."
+      },
+      "summary": {
+        "zh": "谷歌最近更改隐私设置，允许存储更多用户数据（包括图片、文件、音视频录制）用于AI训练。文章提供了退出此数据收集的方法，提醒用户注意数据使用控制。",
+        "en": "A recent change to Google's privacy settings allows the company to store more user data, including images, files, and audio/video recordings, for AI training. The article provides steps to opt out, reminding users about data usage controls."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "tags": [
+        "Google",
+        "AI Training",
+        "Data Privacy",
+        "User Data"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 17:04:58 +0000"
+    },
+    {
+      "id": "ygt05l",
+      "title": {
+        "zh": "Anthropic因秘密监控中国用户的Claude追踪器遭曝光",
+        "en": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance"
+      },
+      "summary": {
+        "zh": "Anthropic被曝使用一个Claude追踪器秘密监控中国用户，这与其公开的反监控立场相矛盾。该公司一名工程师称这一“实验”已经结束，引发了关于AI公司数据伦理的讨论。",
+        "en": "Anthropic was accused of secretly monitoring Chinese users with a Claude tracker, contradicting its public anti-surveillance stance. An engineer stated the 'experiment' is over, sparking discussions about data ethics in AI companies."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI Ethics",
+        "Surveillance",
+        "Data Privacy"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 16:44:18 +0000"
+    },
+    {
+      "id": "hr5apa",
+      "title": {
+        "zh": "小型AI模型在网络不稳定地区获得关注",
+        "en": "Small AI Models Gain Traction In places with unreliable networks"
+      },
+      "summary": {
+        "zh": "小型AI模型在网络不稳定地区越来越受欢迎，因为它们需要更少计算资源，可在本地运行，适合连接有限的区域。这些模型在制药等领域正展现出实际应用价值。",
+        "en": "Small AI models are gaining traction in regions with unreliable networks, as they require less computational resources and can run locally, making them suitable for areas with limited connectivity. These models are showing practical value in fields like pharmaceuticals."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "tags": [
+        "Small Language Models",
+        "Edge AI",
+        "Resource Efficiency",
+        "Pharmaceuticals"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 23:59:54 +0000"
+    },
+    {
+      "id": "woe519",
+      "title": {
+        "zh": "Ternlight：仅7MB的浏览器端嵌入模型（WASM）",
+        "en": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+      },
+      "summary": {
+        "zh": "Ternlight是一个仅7MB的嵌入模型，使用WebAssembly在浏览器中运行，实现了高效且保护隐私的AI能力，无需服务器依赖。这对于边缘计算和客户端AI应用具有重要意义。",
+        "en": "Ternlight is a 7 MB embedding model that runs in the browser using WebAssembly, enabling efficient and privacy-preserving AI capabilities without server dependency. This is significant for edge computing and client-side AI applications."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://ternlight-demo.vercel.app/",
+      "tags": [
+        "Embedding Model",
+        "WASM",
+        "Browser AI",
+        "Edge Computing"
+      ],
+      "publishedAt": "Mon, 06 Jul 2026 23:06:31 +0000"
+    },
+    {
+      "id": "t5wqlu",
+      "title": {
+        "zh": "ChatGPT采用率如何扩展",
+        "en": "How ChatGPT adoption has expanded"
+      },
+      "summary": {
+        "zh": "OpenAI新数据显示ChatGPT全球采用率增长，用户使用量增加，探索更多功能，推动各地区和语言的增长。这表明AI工具正快速融入日常工作和创意流程。",
+        "en": "New OpenAI data shows global growth in ChatGPT adoption, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. This indicates AI tools are rapidly integrating into daily work and creative workflows."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Adoption",
+        "Global Growth"
+      ],
+      "publishedAt": "Tue, 30 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "预览GPT-5.6 Sol：下一代模型",
+        "en": "Previewing GPT-5.6 Sol: a next-generation model"
+      },
+      "summary": {
+        "zh": "OpenAI预览GPT-5.6 Sol，这是一个下一代模型，在编码、科学和网络安全方面能力更强，并配备最先进的安全堆栈。这代表了大型语言模型持续的能力提升和安全改进。",
+        "en": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack. This represents continued capability enhancement and safety improvements in large language models."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "LLM",
+        "AI Safety",
+        "Next-Gen Model"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "y13ark",
+      "title": {
+        "zh": "OpenAI与博通联合推出LLM优化推理芯片",
+        "en": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+      },
+      "summary": {
+        "zh": "OpenAI和博通推出Jalapeño，这是一种为LLM推理优化的定制AI芯片，旨在提高AI系统的性能、效率和可扩展性。这反映了AI硬件专业化以支持大规模模型部署的趋势。",
+        "en": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems. This reflects a trend of AI hardware specialization to support large-scale model deployment."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "tags": [
+        "AI Chip",
+        "Inference",
+        "OpenAI",
+        "Hardware",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 GMT"
+    }
+  ]
+}
