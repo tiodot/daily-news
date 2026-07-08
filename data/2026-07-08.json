@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-08",
+  "articles": [
+    {
+      "id": "xd9dzy",
+      "title": {
+        "zh": "Meta 推出新AI图像生成模型 Muse Image，引发用户隐私争议",
+        "en": "Meta Launches Muse Image AI Model, Sparking User Privacy Backlash"
+      },
+      "summary": {
+        "zh": "Meta 推出了其超级智能实验室开发的首个AI图像生成模型 Muse Image，该模型已集成到 Meta AI 应用、Instagram 和 WhatsApp 中。尽管该模型有广告、装饰等多种用途，但用户已开始质疑其在未经明确同意的情况下使用个人照片进行训练或生成的做法。",
+        "en": "Meta has launched Muse Image, its first AI image generation model built by its Superintelligence Labs, now integrated into the Meta AI app, Instagram, and WhatsApp. While the model has various use cases, users are already pushing back over concerns about their photos being used without clear consent for training or generation."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "tags": [
+        "LLM",
+        "Meta",
+        "Generative AI",
+        "Privacy"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 22:18:10 +0000"
+    },
+    {
+      "id": "xnfxcv",
+      "title": {
+        "zh": "开源AI崛起为何尚未冲击Anthropic：两者或为同一生命周期的不同阶段",
+        "en": "Why Open-Source AI Isn't Hurting Anthropic Yet: Two Phases of the Same Lifecycle"
+      },
+      "summary": {
+        "zh": "分析指出，尽管开源AI模型取得成功，但并未直接损害像Anthropic这样的前沿实验室的市场份额。相反，开源模型与前沿实验室似乎各自占据了AI模型生命周期的不同阶段，满足不同的需求。",
+        "en": "Analysis indicates that the success of open-source AI models is not coming at the expense of frontier labs like Anthropic. Instead, they each seem to capture two phases of the same AI model lifecycle, serving different market needs and use cases."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "tags": [
+        "Open Source AI",
+        "Anthropic",
+        "LLM",
+        "Industry Trends"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 20:04:32 +0000"
+    },
+    {
+      "id": "2r19tc",
+      "title": {
+        "zh": "微软加入AI成本削减潮，更多依赖自研模型",
+        "en": "Microsoft Joins AI Cost-Cutting Trend, Relying More on Its Own Models"
+      },
+      "summary": {
+        "zh": "继其他硅谷巨头之后，微软也正通过更多地使用自研AI模型来减少AI支出，以应对高昂的计算和推理成本。这反映了行业从追求纯粹规模向注重成本效益和运营效率的转变。",
+        "en": "Following other Silicon Valley giants, Microsoft is cutting back on AI spending by relying more on its own models, aiming to reduce costs associated with high computation and inference. This reflects an industry shift from pure scale towards cost-efficiency and operational effectiveness."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "tags": [
+        "Microsoft",
+        "LLM",
+        "AI Cost",
+        "Industry Trends"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 19:58:20 +0000"
+    },
+    {
+      "id": "wdd97q",
+      "title": {
+        "zh": "Anthropic 将 Claude Cowork AI 平台扩展至移动端和网页端",
+        "en": "Anthropic Expands Claude Cowork AI Platform to Mobile and Web"
+      },
+      "summary": {
+        "zh": "Anthropic 的 Claude Cowork AI 编程助手现已推出移动和网页版本。用户现在可以从桌面开始任务，在手机上接收状态更新，并在之后继续完成工作，即使笔记本电脑处于关闭状态。",
+        "en": "Anthropic's Claude Cowork AI coding assistant is now available on mobile and web. Users can start a task from their desktop, receive status updates on their phone, and pick up the finished output later, even if their laptop is closed."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "tags": [
+        "Anthropic",
+        "AI Agent",
+        "Developer Tools",
+        "LLM"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 16:27:18 +0000"
+    },
+    {
+      "id": "vdosny",
+      "title": {
+        "zh": "面对美国出口管制，中国DeepSeek计划自研芯片以减少对Nvidia和华为的依赖",
+        "en": "Facing US Export Controls, China's DeepSeek Plans to Make Its Own Chips"
+      },
+      "summary": {
+        "zh": "为应对美国出口管制，中国AI公司DeepSeek计划自行研发芯片，以减少对英伟达（Nvidia）和华为等现有供应商的依赖。该计划尚处于早期阶段，但标志着中国AI产业在关键基础设施上寻求自主可控的重要一步。",
+        "en": "In response to US export controls, Chinese AI firm DeepSeek plans to develop its own chips to reduce dependency on suppliers like Nvidia and Huawei. While still early, this marks a significant step for China's AI industry in seeking self-sufficiency in critical infrastructure."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "tags": [
+        "DeepSeek",
+        "AI Chips",
+        "Geopolitics",
+        "Export Controls"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 16:14:53 +0000"
+    },
+    {
+      "id": "2dhpmk",
+      "title": {
+        "zh": "OpenAI 预览下一代模型 GPT-5.6 Sol：编程、科学和安全能力更强",
+        "en": "OpenAI Previews Next-Gen Model GPT-5.6 Sol with Enhanced Coding, Science, and Safety"
+      },
+      "summary": {
+        "zh": "OpenAI 预览了其下一代模型 GPT-5.6 Sol。该模型在编程、科学研究和网络安全方面的能力得到显著增强，并配备了迄今为止最先进的安全防护体系。",
+        "en": "OpenAI previews its next-generation model, GPT-5.6 Sol. The model demonstrates significantly stronger capabilities in coding, scientific research, and cybersecurity, paired with its most advanced safety stack to date."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "LLM",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 26 Jun 2026 10:00:00 GMT"
+    },
+    {
+      "id": "dn5f2y",
+      "title": {
+        "zh": "AI 与密码学结合：AI 在 Cloudflare 的 Circl 库中发现漏洞",
+        "en": "AI Meets Cryptography: AI Discovers Bugs in Cloudflare's Circl Library"
+      },
+      "summary": {
+        "zh": "研究人员利用AI技术对Cloudflare的密码学库Circl进行大规模分析，成功发现了其中存在的硬件故障和长期未被察觉的软件错误。这展示了AI在复杂系统漏洞挖掘方面的强大潜力。",
+        "en": "Researchers used AI techniques to perform large-scale analysis of Cloudflare's cryptographic library, Circl, successfully uncovering hardware faults and long-standing software bugs. This demonstrates AI's strong potential in vulnerability discovery for complex systems."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "tags": [
+        "AI",
+        "Cryptography",
+        "Security",
+        "Bug Bounty"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 18:36:35 +0000"
+    },
+    {
+      "id": "ewz9t5",
+      "title": {
+        "zh": "“我们每周收费1万美元来删除AI生成的代码”：讽刺AI编程乱象的服务引发关注",
+        "en": "We Charge $10k a Week to Delete AI-Generated Code: A Satirical Service Gains Traction"
+      },
+      "summary": {
+        "zh": "一个名为“Slopfix”的服务声称以每周1万美元的高价帮助清理AI生成的低质量代码，此举是对当前AI编程工具泛滥和代码质量问题的讽刺。这反映了开发者社区对AI生成代码可靠性和维护成本的担忧。",
+        "en": "A service called \"Slopfix\" claims to charge $10k per week to clean up low-quality AI-generated code, a satirical take on the proliferation of AI coding tools and resulting code quality issues. It reflects developer community concerns about the reliability and maintenance costs of AI-generated code."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://odra.dev/slopfix/",
+      "tags": [
+        "AI Coding",
+        "Developer Tools",
+        "Software Quality",
+        "Satire"
+      ],
+      "publishedAt": "Tue, 07 Jul 2026 20:35:42 +0000"
+    }
+  ]
+}
