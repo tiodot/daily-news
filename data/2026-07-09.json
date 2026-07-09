@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-09",
+  "articles": [
+    {
+      "id": "iunrqn",
+      "title": {
+        "zh": "SpaceXAI发布Grok 4.5，被Elon称为‘Opus级模型’",
+        "en": "SpaceXAI Releases Grok 4.5, Elon Calls It 'Opus-Class Model'"
+      },
+      "summary": {
+        "zh": "SpaceXAI发布了Grok 4.5新版本，Elon Musk称其为'Opus级模型'，旨在提供比其他强大AI模型更便宜、更高效的替代方案。该模型突出了在性能与成本优化方面的进展。",
+        "en": "SpaceXAI has released Grok 4.5, the latest version of its AI model, which Elon Musk describes as an 'Opus-class model.' It promises to be a cheaper and more efficient alternative to other powerful AI models, emphasizing advancements in performance and cost optimization."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "tags": [
+        "LLM",
+        "SpaceXAI",
+        "AI Model"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 19:30:16 +0000"
+    },
+    {
+      "id": "g9yfzz",
+      "title": {
+        "zh": "ChatGPT升级语音模式，更善于适时停止",
+        "en": "ChatGPT Upgraded Voice Mode Is Better at Not Interrupting"
+      },
+      "summary": {
+        "zh": "OpenAI正在全面升级ChatGPT的语音模式，引入新模型GPT-Live-1，使其更像与真人对话。新模型设计减少中断，并等待用户完成思考，提升了交互的自然性。",
+        "en": "OpenAI is updating ChatGPT's voice mode with a new model called GPT-Live-1, aiming to make interactions more natural. It's designed to interrupt less and wait for users to finish speaking, enhancing conversational flow."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Voice AI",
+        "LLM"
+      ],
+      "publishedAt": "2026-07-08T17:00:00.000Z"
+    },
+    {
+      "id": "p3dfjy",
+      "title": {
+        "zh": "谷歌深度伪造检测系统用于揭穿麦康奈尔恶搞图片",
+        "en": "Google's Deepfake Detector System Debunks McConnell Hoax Picture"
+      },
+      "summary": {
+        "zh": "谷歌的深度伪造检测系统成功识别了一张显示参议员米奇·麦康奈尔在病床上的虚假图片，该图片实为AI生成。这展示了AI在打击虚假信息方面的应用潜力。",
+        "en": "Google's deepfake detector system was used to identify a fake image of Senator Mitch McConnell in a hospital bed, which was AI-generated. This demonstrates the application of AI in combating misinformation."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "tags": [
+        "Deepfake",
+        "Google",
+        "AI Detection",
+        "Security"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 20:37:03 +0000"
+    },
+    {
+      "id": "xuv78c",
+      "title": {
+        "zh": "联邦政府要求自动驾驶汽车公司停止干扰急救人员",
+        "en": "Feds Demand Autonomous Vehicle Companies Stop Interfering with First Responders"
+      },
+      "summary": {
+        "zh": "美国国家公路交通安全管理局要求自动驾驶汽车公司停止干扰急救人员，强调紧急场景不是'边缘案例'。这凸显了自动驾驶技术在真实世界部署中的安全与合规挑战。",
+        "en": "The National Highway Traffic Safety Administration is demanding that autonomous vehicle companies stop interfering with first responders, stating that emergency scenes are not 'edge cases.' This highlights safety and compliance challenges in deploying AV technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "tags": [
+        "Autonomous Vehicles",
+        "Regulation",
+        "Safety",
+        "AI"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 21:49:33 +0000"
+    },
+    {
+      "id": "8c2b5x",
+      "title": {
+        "zh": "谷歌更新Android Bench基准测试，引入新LLM，但Gemini仍落后",
+        "en": "Google Updates Android Bench Benchmark with New LLMs, but Gemini Still Lags"
+      },
+      "summary": {
+        "zh": "谷歌更新了Android Bench基准测试，加入了新LLM如Fable 5等，旨在评估AI在Android开发中的表现。尽管更新，Gemini模型仍面临挑战，开发者可参与改进过程。",
+        "en": "Google has revamped the Android Bench benchmark by adding new LLMs like Fable 5, aiming to evaluate AI performance in Android development. Despite the updates, Gemini still lags, and developers can contribute to the process."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "tags": [
+        "Google",
+        "LLM",
+        "Benchmark",
+        "Android Development"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 16:39:48 +0000"
+    },
+    {
+      "id": "jk9yon",
+      "title": {
+        "zh": "介绍GPT-Live",
+        "en": "Introducing GPT-Live"
+      },
+      "summary": {
+        "zh": "OpenAI推出了GPT-Live，新一代语音模型，旨在实现更自然的人机交互。该模型已应用于ChatGPT语音功能，提升了对话的流畅性和准确性。",
+        "en": "OpenAI introduces GPT-Live, a new generation of voice models designed for natural human-AI interaction. It now powers ChatGPT Voice, enhancing conversational flow and accuracy."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live",
+      "tags": [
+        "OpenAI",
+        "GPT-Live",
+        "Voice AI",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "id": "1tez3a",
+      "title": {
+        "zh": "在编程评估中分离信号与噪声",
+        "en": "Separating Signal from Noise in Coding Evaluations"
+      },
+      "summary": {
+        "zh": "OpenAI的分析揭示了流行编程基准SWE-Bench Pro中的问题，对评估AI模型的可靠性和准确性提出了担忧。这强调了改进AI评估方法的重要性。",
+        "en": "OpenAI's analysis highlights issues in the SWE-Bench Pro coding benchmark, raising concerns about the reliability and accuracy of evaluating AI models. This underscores the need for improved AI evaluation methods."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "tags": [
+        "OpenAI",
+        "AI Benchmark",
+        "Coding Evaluation",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "id": "5r8stz",
+      "title": {
+        "zh": "AI视频全面成熟：Seedance 2.0领衔，6款主流工具深度横评",
+        "en": "AI Video Fully Mature: Seedance 2.0 Leads, In-Depth Review of 6 Mainstream Tools"
+      },
+      "summary": {
+        "zh": "2026年，AI视频生成技术已全面成熟，Seedance 2.0引领潮流，使AI视频创作变得普及。文章深度评测了6款主流AI视频工具，展示了从专业到业余用户的广泛应用。",
+        "en": "In 2026, AI video generation has fully matured, with Seedance 2.0 leading the way and making AI video creation mainstream. The article provides an in-depth review of 6 mainstream AI video tools, highlighting their applications from professional to amateur users."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3886403765596418?f=rss",
+      "tags": [
+        "AI Video",
+        "Generative AI",
+        "Creative Tools",
+        "Seedance"
+      ],
+      "publishedAt": "2026-07-08 11:03:34  +0800"
+    }
+  ]
+}
