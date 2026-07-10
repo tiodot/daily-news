@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-10",
+  "articles": [
+    {
+      "id": "jjdygy",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6模型并推出ChatGPT Work企业级智能代理",
+        "en": "OpenAI launches GPT-5.6 and unveils ChatGPT Work agent"
+      },
+      "summary": {
+        "zh": "OpenAI正式发布GPT-5.6模型，声称在多项基准测试中实现显著提升，并推出了面向企业用户的ChatGPT Work功能。ChatGPT Work是一款能够跨应用和文件执行任务、持续工作数小时的智能代理，标志着OpenAI在AI Agent领域的重要布局。",
+        "en": "OpenAI officially launched GPT-5.6 with significant benchmark improvements and introduced ChatGPT Work, an enterprise agent capable of taking actions across apps and files for extended periods. This marks a major step in OpenAI's AI Agent strategy."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5.6",
+        "AI Agent"
+      ],
+      "publishedAt": "2026-07-09T17:00:00.000Z"
+    },
+    {
+      "id": "gv8yjd",
+      "title": {
+        "zh": "GPT-5.6成为微软365 Copilot首选模型",
+        "en": "GPT-5.6 becomes preferred model for Microsoft 365 Copilot"
+      },
+      "summary": {
+        "zh": "OpenAI宣布GPT-5.6已成为微软365 Copilot的首选模型，为Word、Excel、PowerPoint等办公应用提供更强的AI能力。此次合作表明OpenAI与微软的联盟关系依然稳固，此前市场曾传闻双方可能出现合作裂痕。",
+        "en": "OpenAI announced GPT-5.6 as the preferred model for Microsoft 365 Copilot, enhancing AI capabilities across Word, Excel, PowerPoint and other Office apps. This partnership signals continued alliance between the two companies despite earlier breakup speculation."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "tags": [
+        "OpenAI",
+        "Microsoft",
+        "LLM",
+        "Enterprise AI"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "id": "xgmpff",
+      "title": {
+        "zh": "Meta推出Muse Spark 1.1进军AI编程赛道",
+        "en": "Meta enters AI coding competition with Muse Spark 1.1"
+      },
+      "summary": {
+        "zh": "Meta发布Muse Spark 1.1 AI编程工具，主打处理大型智能代理工作负载、自动修复Bug和大规模代码迁移能力。这标志着Meta正式加入竞争激烈的AI辅助编程市场，与GitHub Copilot等产品展开直接竞争。",
+        "en": "Meta launched Muse Spark 1.1, an AI coding tool focused on handling large agentic workloads, bug fixing, and large-scale code migrations. This marks Meta's official entry into the competitive AI-assisted coding market."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "tags": [
+        "Meta",
+        "AI Coding",
+        "LLM",
+        "Developer Tools"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 19:40:45 +0000"
+    },
+    {
+      "id": "pxy11u",
+      "title": {
+        "zh": "AI Agent初创公司用自家AI代理完成1亿美元融资",
+        "en": "AI agent startup lets its own agent run its $100M fundraise"
+      },
+      "summary": {
+        "zh": "企业级AI Agent初创公司Lyzr用自家AI代理完成了1亿美元融资，成为产品实力的最佳证明。这一案例展示了AI Agent在实际商业场景中的应用潜力，也为AI自动化在投资融资领域的应用提供了新思路。",
+        "en": "Enterprise AI agent startup Lyzr used its own AI agent to complete a $100M fundraising round, serving as proof that its product actually works. This case demonstrates the practical potential of AI agents in business scenarios."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "tags": [
+        "AI Agent",
+        "Startup",
+        "Automation"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000"
+    },
+    {
+      "id": "tb0p59",
+      "title": {
+        "zh": "OpenAI关闭Atlas浏览器，转向ChatGPT Work整合智能浏览功能",
+        "en": "OpenAI shuts down Atlas browser, integrates agentic features into ChatGPT"
+      },
+      "summary": {
+        "zh": "OpenAI在推出不到一年后宣布关闭AI浏览器Atlas，将智能浏览功能迁移至桌面应用和Chrome扩展。这一战略调整表明OpenAI正将资源集中于ChatGPT Work等更核心的AI Agent产品。",
+        "en": "OpenAI is shutting down its AI browser Atlas less than a year after launch, moving agentic browsing features to its desktop app and Chrome extension. This strategic pivot shows OpenAI focusing resources on core AI Agent products like ChatGPT Work."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "tags": [
+        "OpenAI",
+        "AI Browser",
+        "Product Strategy"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000"
+    },
+    {
+      "id": "nbyxbs",
+      "title": {
+        "zh": "为5岁儿童打造实时AI家教的挑战与实践",
+        "en": "Building a real-time AI tutor for 5-year-olds"
+      },
+      "summary": {
+        "zh": "开发团队分享了构建面向4-9岁儿童的AI家教产品的经验，该产品可教授阅读、数学、ESL等课程。让AI有效教导幼儿面临诸多挑战，包括响应延迟控制和内容适龄性等问题，展示了AI在教育领域的应用探索。",
+        "en": "A development team shares their experience building an AI tutor for children ages 4-9, teaching reading, math, and ESL. Effectively teaching young children with AI presents unique challenges around latency and age-appropriate content."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "tags": [
+        "AI Education",
+        "EdTech",
+        "LLM"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 20:51:06 +0000"
+    },
+    {
+      "id": "ggcrs6",
+      "title": {
+        "zh": "GLM 5.2在簿记任务中达到接近人类的准确率",
+        "en": "GLM 5.2 achieves near-human accuracy in bookkeeping tasks"
+      },
+      "summary": {
+        "zh": "最新基准测试显示，智谱AI的GLM 5.2模型在增值税簿记任务中的准确率已接近人类水平。这一结果表明大语言模型在专业财务领域的应用能力正在快速提升，可能对会计行业产生深远影响。",
+        "en": "New benchmarks show Zhipu AI's GLM 5.2 model achieves near-human accuracy in VAT bookkeeping tasks. This demonstrates rapid improvement in LLMs' professional financial capabilities, potentially impacting the accounting industry."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "tags": [
+        "LLM",
+        "GLM",
+        "AI Benchmark",
+        "FinTech"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 18:29:41 +0000"
+    },
+    {
+      "id": "rc5yk6",
+      "title": {
+        "zh": "AI生成内容在社交媒体上泛滥，LinkedIn尤为严重",
+        "en": "AI-generated content flooding social media, especially LinkedIn"
+      },
+      "summary": {
+        "zh": "研究显示AI生成内容在社交媒体上大量涌现，LinkedIn平台尤为突出。这一现象引发了关于内容真实性、信息质量以及AI对社交媒体生态影响的广泛讨论。",
+        "en": "Research reveals AI-generated content is flooding social media, with LinkedIn being particularly affected. This raises concerns about content authenticity and AI's impact on social media ecosystems."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.pangram.com/blog/ai-in-your-feed",
+      "tags": [
+        "AI Content",
+        "Social Media",
+        "Generative AI"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 15:50:09 +0000"
+    },
+    {
+      "id": "lngxs9",
+      "title": {
+        "zh": "外科医生操控人形机器人完成世界首例活猪手术",
+        "en": "Humanoid robots controlled by surgeons perform world-first operation on live pigs"
+      },
+      "summary": {
+        "zh": "研究人员在外科医生操控下使用人形机器人成功完成世界首例活猪手术，验证了人形机器人在手术领域的可行性。这项临床前试验为未来机器人辅助手术开辟了新方向。",
+        "en": "Researchers successfully performed the world-first surgery on live pigs using humanoid robots controlled by surgeons. This preclinical trial demonstrates the feasibility of humanoid robots in surgical applications."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "tags": [
+        "Robotics",
+        "Humanoid Robot",
+        "AI Surgery"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 20:12:03 +0000"
+    },
+    {
+      "id": "5vzot0",
+      "title": {
+        "zh": "自研焊接具身智能大脑模型，「昇视唯盛」完成数亿元B轮融资",
+        "en": "Industrial welding robot startup 3Srobotics raises massive Series B for embodied AI"
+      },
+      "summary": {
+        "zh": "工业制造领域具身智能机器人企业昇视唯盛完成数亿元B轮融资，资金将用于焊接具身智能大脑和自主运动控制系统的迭代升级。公司自研焊接AI模型，致力于推动工业制造场景的智能化落地。",
+        "en": "Industrial embodied AI robotics startup 3Srobotics raised a massive Series B round to upgrade its welding AI brain and autonomous motion control systems. The company develops proprietary welding AI models for smart manufacturing."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3887871679347208?f=rss",
+      "tags": [
+        "Robotics",
+        "Embodied AI",
+        "Manufacturing"
+      ],
+      "publishedAt": "2026-07-09 11:48:49  +0800"
+    }
+  ]
+}
