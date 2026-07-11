@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-11",
+  "articles": [
+    {
+      "id": "pm2mm4",
+      "title": {
+        "zh": "GPT-5.6发布：前沿智能模型，性能与成本双优化",
+        "en": "GPT-5.6: Frontier intelligence that scales with your ambition"
+      },
+      "summary": {
+        "zh": "OpenAI发布了新一代AI模型GPT-5.6，提供了更高的每token智能和更强的性价比。该模型能够灵活扩展，满足开发者在复杂任务中的需求。",
+        "en": "OpenAI has released GPT-5.6, a new AI model offering improved intelligence per token and better performance per dollar. It scales dynamically to meet developer demands for complex, ambitious tasks."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5.6"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "rxmfgb",
+      "title": {
+        "zh": "GPT-5.6 Sol Ultra证明数学猜想，展示AI推理能力",
+        "en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture"
+      },
+      "summary": {
+        "zh": "GPT-5.6 Sol Ultra模型成功证明了数学中的循环双覆盖猜想，凸显了AI在解决复杂数学问题上的潜力。这标志着AI在科学推理领域的重大进展。",
+        "en": "GPT-5.6 Sol Ultra has produced a proof for the Cycle Double Cover Conjecture, showcasing AI's potential in solving complex mathematical problems. This marks a significant advance in AI reasoning for scientific discovery."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "tags": [
+        "AI",
+        "Mathematics",
+        "OpenAI",
+        "Reasoning"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 18:29:19 +0000"
+    },
+    {
+      "id": "c6je84",
+      "title": {
+        "zh": "苹果起诉OpenAI涉嫌窃取硬件商业秘密",
+        "en": "Apple sues OpenAI over alleged trade secret theft"
+      },
+      "summary": {
+        "zh": "苹果公司对OpenAI提起诉讼，指控其窃取与硬件开发相关的商业秘密。据称，OpenAI的高级领导层涉嫌参与，凸显了AI行业的法律风险。",
+        "en": "Apple has sued OpenAI, alleging theft of trade secrets related to hardware development. The misconduct was reportedly directed by OpenAI's senior leadership, highlighting legal risks in the AI industry."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "Legal",
+        "Trade Secrets"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000"
+    },
+    {
+      "id": "st9op",
+      "title": {
+        "zh": "SK海力士IPO募资265亿美元，推动AI芯片制造",
+        "en": "SK Hynix raises $26.5B in IPO, urged to build US fabs for AI chips"
+      },
+      "summary": {
+        "zh": "SK海力士在AI芯片热潮下完成史上最大外资IPO，募资265亿美元。该公司被敦促在美国建厂，以满足全球对AI硬件的需求增长。",
+        "en": "SK Hynix raised $26.5 billion in the largest foreign IPO in US history, driven by the AI chip boom. The company is urged to build new US fabrication plants to meet growing global demand for AI hardware."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "tags": [
+        "AI Chips",
+        "Semiconductor",
+        "IPO",
+        "Manufacturing"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000"
+    },
+    {
+      "id": "qdz895",
+      "title": {
+        "zh": "德国电信携手OpenAI，用AI重塑电信服务",
+        "en": "How Deutsche Telekom is rewiring telecommunications with AI"
+      },
+      "summary": {
+        "zh": "德国电信与OpenAI合作，成为AI原生电信公司，利用AI改造客户服务、员工工作流程和网络运营。这展示了AI在传统行业中的实际应用和转型潜力。",
+        "en": "Deutsche Telekom is partnering with OpenAI to become an AI-native telco, transforming customer service, workflows, and network operations with AI. This demonstrates practical AI applications and transformation potential in traditional industries."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/deutsche-telekom",
+      "tags": [
+        "AI Application",
+        "Telecommunications",
+        "OpenAI",
+        "Digital Transformation"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "gd2fxj",
+      "title": {
+        "zh": "英伟达触觉仿真合作伙伴获数亿融资，AI机器人需求激增",
+        "en": "NVIDIA's tactile simulation partner secures funding, AI robotics demand surges"
+      },
+      "summary": {
+        "zh": "他山科技作为英伟达触觉仿真合作伙伴，完成数亿元B轮融资，专注于触觉传感器和AI机器人应用。其上半年订单同比增长四倍，反映AI在机器人领域的快速发展。",
+        "en": "Ta Shan Tech, NVIDIA's tactile simulation partner, has completed a B-round funding of hundreds of millions, focusing on tactile sensors and AI robotics. Its orders in the first half exceeded last year by four times, reflecting rapid growth in AI robotics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3889141540370949?f=rss",
+      "tags": [
+        "Robotics",
+        "AI Hardware",
+        "NVIDIA",
+        "Tactile Simulation"
+      ],
+      "publishedAt": "2026-07-10 09:19:37  +0800"
+    },
+    {
+      "id": "oqoglv",
+      "title": {
+        "zh": "GhostLock漏洞影响所有Linux系统长达15年，凸显安全风险",
+        "en": "GhostLock vulnerability affects all Linux systems for 15 years, highlighting security risks"
+      },
+      "summary": {
+        "zh": "GhostLock是一个存在于所有Linux发行版中长达15年的栈使用后释放漏洞。这一网络安全问题提醒开发者重视软件安全，尤其是在底层系统中。",
+        "en": "GhostLock is a stack-based use-after-free vulnerability that has existed in all Linux distributions for 15 years. This cybersecurity issue reminds developers to prioritize software security, especially in underlying systems."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://nebusec.ai/research/ionstack-part-2/",
+      "tags": [
+        "Cybersecurity",
+        "Linux",
+        "Vulnerability",
+        "Software Security"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 20:43:02 +0000"
+    },
+    {
+      "id": "kxfcce",
+      "title": {
+        "zh": "Vibe Coding时代：AI辅助编程为何不一定提升效率",
+        "en": "In the Vibe Coding era, why AI-assisted coding doesn't always boost efficiency"
+      },
+      "summary": {
+        "zh": "Vibe Coding利用AI快速生成代码，但仍无法替代问题定义、用户理解和架构设计等关键环节。开发者需谨慎使用AI工具，避免盲目依赖导致效率损失。",
+        "en": "Vibe Coding uses AI to generate code faster, but it cannot replace key aspects like problem definition, user understanding, and architectural design. Developers should use AI tools cautiously to avoid efficiency losses from over-reliance."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/111975",
+      "tags": [
+        "AI Programming",
+        "Software Development",
+        "Vibe Coding",
+        "AI Tools"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 10:50:28 +0800"
+    }
+  ]
+}
