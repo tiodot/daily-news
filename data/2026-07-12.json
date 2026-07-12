@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-12",
+  "articles": [
+    {
+      "id": "pm2mm4",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6：前沿智能模型，性能与性价比双提升",
+        "en": "OpenAI Releases GPT-5.6: Frontier Intelligence Model with Enhanced Performance and Cost-Effectiveness"
+      },
+      "summary": {
+        "zh": "OpenAI发布了其最新前沿模型GPT-5.6，宣称在处理复杂任务时能从每个token中提取更多智能，并提升了每美元的性能表现。该模型现已作为Microsoft 365 Copilot的首选模型集成，展示了其在实际生产力工具中的应用。",
+        "en": "OpenAI released its latest frontier model, GPT-5.6, claiming it extracts more intelligence from every token and offers improved performance per dollar. The model is now integrated as the preferred model in Microsoft 365 Copilot, demonstrating its application in real-world productivity tools."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5.6",
+        "AI Model"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "s3v1gh",
+      "title": {
+        "zh": "ChatGPT推出“Work”智能体，可跨应用长时间自主完成复杂任务",
+        "en": "ChatGPT Launches ‘Work’ Agent to Autonomously Complete Complex Tasks Across Apps"
+      },
+      "summary": {
+        "zh": "OpenAI为ChatGPT推出了名为“Work”的智能体功能，它能够跨用户的多个应用程序和文件采取行动，长时间持续工作，将一个目标转化为完成的成果。这标志着ChatGPT从对话助手向能执行复杂工作流程的自主助手的转变。",
+        "en": "OpenAI introduced a ‘Work’ agent feature for ChatGPT, capable of taking actions across users’ apps and files, sustaining work for hours if needed, and turning a goal into finished work. This marks a shift for ChatGPT from a conversational assistant to an autonomous agent handling complex workflows."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "ChatGPT",
+        "AI Agent"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "evy8c",
+      "title": {
+        "zh": "Mesh LLM：基于iroh的分布式AI计算方案",
+        "en": "Mesh LLM: Distributed AI Computing Built on iroh"
+      },
+      "summary": {
+        "zh": "文章介绍了“Mesh LLM”，一个利用iroh网络框架实现分布式大型语言模型推理的方案。它旨在通过连接分散的计算资源，使本地运行或协作进行AI推理变得更加可行，为去中心化AI应用提供了新思路。",
+        "en": "The article introduces ‘Mesh LLM,’ a scheme for distributed Large Language Model inference using the iroh networking framework. It aims to make local or collaborative AI inference more feasible by connecting scattered computing resources, offering a new approach for decentralized AI applications."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.iroh.computer/blog/mesh-llm",
+      "tags": [
+        "LLM",
+        "Distributed Computing",
+        "Open Source"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 22:38:57 +0000"
+    },
+    {
+      "id": "jk9yon",
+      "title": {
+        "zh": "OpenAI推出GPT-Live：用于自然人机交互的新一代语音模型",
+        "en": "OpenAI Introduces GPT-Live: Next-Gen Voice Models for Natural Human-AI Interaction"
+      },
+      "summary": {
+        "zh": "OpenAI发布了名为“GPT-Live”的新一代语音模型，旨在提供更自然、实时的人机语音交互体验。该技术现已为ChatGPT的语音功能提供支持，预示着AI对话将更加流畅和情境化。",
+        "en": "OpenAI released a new generation of voice models called “GPT-Live,” designed to enable more natural, real-time human-AI voice interaction. This technology now powers ChatGPT’s voice capabilities, suggesting a future for more fluid and contextual AI conversations."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live",
+      "tags": [
+        "AI",
+        "Voice AI",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "id": "l1ws4xn8ygq",
+      "title": {
+        "zh": "智谱创始人唐杰发内部信：市值万亿后，思考“更重要的事”",
+        "en": "Zhipu AI Founder Tang Jie’s Internal Letter: Pondering ‘What’s More Important’ After Reaching Trillion-Dollar Market Cap"
+      },
+      "summary": {
+        "zh": "智谱AI创始人唐杰发布内部信，回顾了公司市值突破万亿港元的高光时刻，并探讨未来更重要的战略方向。这封信反映了中国头部AI公司在快速发展后，对技术、应用和长期发展的深入思考。",
+        "en": "Zhipu AI founder Tang Jie issued an internal letter, reflecting on the company’s milestone of reaching a trillion HKD market cap and discussing more important future strategic directions. The letter offers insight into the deep reflection of a leading Chinese AI company on technology, applications, and long-term growth after rapid development."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3891132709206784",
+      "tags": [
+        "AI",
+        "Zhipu AI",
+        "China AI",
+        "Startup"
+      ]
+    },
+    {
+      "id": "5pn2g0zcr8c",
+      "title": {
+        "zh": "上交大00后博士创办公司，让仿生扑翼机器人“驾驭”流体",
+        "en": "Startup Founded by SJTU PhD Student Develops Biomimetic Flapping-Wing Robots That ‘Master’ Fluid Dynamics"
+      },
+      "summary": {
+        "zh": "具身智能公司“鹰瞰智翼”完成新一轮融资，专注于研发能理解并驾驭流体的仿生扑翼飞行机器人。公司计划推出消费级产品，并持续迭代其具身智能扑翼机器人与流体仿真引擎，展示了中国在机器人细分领域的创新。",
+        "en": "The embodied AI company ‘Yingkang Zhiyi’ secured new funding, focusing on developing biomimetic flapping-wing flying robots that can understand and navigate fluid dynamics. The company plans to launch a consumer product and continue iterating its embodied AI flapping-wing robot and fluid simulation engine, showcasing innovation in a specialized Chinese robotics field."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3889516712065799",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Embodied AI",
+        "Startup"
+      ]
+    },
+    {
+      "id": "hoos0ksz0rl",
+      "title": {
+        "zh": "英伟达全球首家触觉仿真合作伙伴再获数亿融资，订单激增",
+        "en": "NVIDIA’s First Global Tactile Simulation Partner Secures New Funding, Sees Surging Orders"
+      },
+      "summary": {
+        "zh": "北京他山科技（英伟达全球首家触觉仿真合作伙伴）完成数亿元B轮融资，资金将用于触觉传感器、芯片迭代及训练平台。其上半年订单量激增，显示了具身智能和机器人领域对高精度触觉感知的强劲需求。",
+        "en": "Beijing Tashan Technology (NVIDIA’s first global tactile simulation partner) completed a new B-round funding in the hundreds of millions. The funds will be used for tactile sensor and chip iteration and training platforms. Its surging order volume in the first half of the year highlights strong demand for high-precision tactile sensing in the embodied AI and robotics fields."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3889141540370949",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Haptics",
+        "Simulation",
+        "NVIDIA"
+      ]
+    },
+    {
+      "id": "kxfcce",
+      "title": {
+        "zh": "Vibe Coding 时代，为什么降本不一定增效？",
+        "en": "In the Age of Vibe Coding, Why Doesn’t Cost Reduction Always Mean Efficiency Gain?"
+      },
+      "summary": {
+        "zh": "文章探讨了“Vibe Coding”（凭感觉/氛围编程）的趋势，虽然AI可以快速生成代码，但它无法替代开发者定义问题、理解用户、设计架构和承担结果的核心职责。这提醒开发者需谨慎看待AI辅助编程的边界。",
+        "en": "The article explores the trend of ‘Vibe Coding,’ noting that while AI can generate code quickly, it cannot replace the core developer responsibilities of defining problems, understanding users, designing architecture, and bearing consequences. It serves as a reminder for developers to be mindful of the boundaries of AI-assisted programming."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/111975",
+      "tags": [
+        "AI",
+        "Software Development",
+        "LLM",
+        "Developer Tools"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 10:50:28 +0800"
+    },
+    {
+      "id": "ckzz07",
+      "title": {
+        "zh": "OpenAI押注家庭市场，为ChatGPT招聘产品经理开拓家居场景",
+        "en": "OpenAI Bets on Families, Hiring PM to Develop ChatGPT for Households"
+      },
+      "summary": {
+        "zh": "OpenAI正在招聘专门的产品经理，旨在为家庭、看护者和老年用户打造ChatGPT体验。这标志着ChatGPT正在从通用工具向更垂直的家庭生活场景渗透，探索新的用户增长和应用模式。",
+        "en": "OpenAI is hiring a dedicated product manager to build ChatGPT experiences for families, caregivers, and older adults. This signals ChatGPT’s expansion from a general-purpose tool into more vertical household scenarios, exploring new user growth and application models."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Product Strategy",
+        "Consumer AI"
+      ],
+      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000"
+    },
+    {
+      "id": "wgp80j",
+      "title": {
+        "zh": "因用户强烈反对，Meta下线Instagram有争议的AI功能",
+        "en": "Meta Removes Controversial AI Feature on Instagram After User Backlash"
+      },
+      "summary": {
+        "zh": "在收到用户反馈后，Meta决定下线Instagram中一个允许AI参考公共内容生成创意的有争议功能。此举反映了公司在推进AI功能时，对用户隐私和内容控制权问题的日益重视。",
+        "en": "After receiving user feedback, Meta decided to take down a controversial Instagram feature that allowed AI to reference public content for creative generation. This move reflects the company’s growing attention to user privacy and content control issues when rolling out AI features."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "tags": [
+        "AI",
+        "Meta",
+        "Instagram",
+        "Privacy",
+        "Content Moderation"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000"
+    }
+  ]
+}
