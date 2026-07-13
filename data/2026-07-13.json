@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-13",
+  "articles": [
+    {
+      "id": "c6je84",
+      "title": {
+        "zh": "苹果起诉OpenAI涉嫌窃取商业机密",
+        "en": "Apple Sues OpenAI Over Alleged Trade Secret Theft"
+      },
+      "summary": {
+        "zh": "苹果指控OpenAI高管团队涉嫌窃取其商业机密，其中包括一名长期前雇员。这起诉讼凸显了AI行业激烈的人才竞争和技术争夺战。",
+        "en": "Apple alleges OpenAI's senior leadership directed misconduct in stealing trade secrets, involving a longtime former employee. This lawsuit highlights the fierce talent competition and technology disputes in the AI industry."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "Lawsuit",
+        "AI Industry"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000"
+    },
+    {
+      "id": "pm2mm4",
+      "title": {
+        "zh": "GPT-5.6发布：前沿智能与可扩展性能",
+        "en": "GPT-5.6: Frontier Intelligence That Scales With Your Ambition"
+      },
+      "summary": {
+        "zh": "OpenAI发布GPT-5.6模型，号称每token产出更高智能，性能成本比更强，并能按需提供更强大的处理能力。该模型已部署到Microsoft 365 Copilot中成为首选模型。",
+        "en": "OpenAI releases GPT-5.6, claiming more intelligence per token, stronger performance per dollar, and more on-demand capability. The model is now the preferred model in Microsoft 365 Copilot."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "LLM",
+        "Microsoft"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "s3v1gh",
+      "title": {
+        "zh": "ChatGPT升级为智能体：可跨应用自主完成任务",
+        "en": "ChatGPT Work: An Agent That Takes Action Across Your Apps"
+      },
+      "summary": {
+        "zh": "ChatGPT Work是一款智能体，能够跨应用和文件执行操作，持续工作数小时，并将目标转化为完成的工作。这标志着ChatGPT从对话工具向自主工作助手的重大转型。",
+        "en": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours, and turn a goal into finished work. This marks a major shift from conversational tool to autonomous work assistant."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI Agent",
+        "Productivity"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "33ktbmg1cwn",
+      "title": {
+        "zh": "智谱创始人唐杰内部信：「GLM时刻」之后，什么是更重要的事",
+        "en": "Zhipu Founder Tang Jie's Internal Letter: What Comes After the GLM Moment"
+      },
+      "summary": {
+        "zh": "智谱创始人唐杰发布内部信，回顾公司半年来的高光时刻——市值较上市初期涨10倍，跻身万亿港元俱乐部。他指出这只是开始，需要思考如何在AI浪潮中持续创新。",
+        "en": "Zhipu founder Tang Jie releases internal letter reflecting on the company's milestone—market cap grew 10x since IPO, joining the trillion HKD club. He emphasizes this is just the beginning and the focus should be on sustained innovation in the AI wave."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3891132709206784",
+      "tags": [
+        "智谱",
+        "GLM",
+        "Chinese AI",
+        "LLM"
+      ]
+    },
+    {
+      "id": "73lkhpptqs4",
+      "title": {
+        "zh": "近百玩家涌入具身智能数据赛道：一年融资44.7亿，谁能在数据市场赚钱？",
+        "en": "Nearly 100 Players Enter Embodied AI Data Market: Who Can Profit from Selling Data?"
+      },
+      "summary": {
+        "zh": "具身智能数据采集赛道爆发，一年内融资44.7亿元，中国移动营业厅甚至挂牌数据采集店。行业探索多种创新采集模式，但能否真正靠卖数据盈利仍是核心问题。",
+        "en": "The embodied AI data collection market is booming with 4.7 billion yuan in funding over the past year. China Mobile stores are even repurposed as data collection sites. The industry explores innovative collection models, but profitability remains the core question."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3892027841362694",
+      "tags": [
+        "Robotics",
+        "Embodied AI",
+        "Data Collection",
+        "Chinese AI"
+      ]
+    },
+    {
+      "id": "uhpuyolu1nh",
+      "title": {
+        "zh": "全网吐槽Claude变笨，Anthropic官方揭秘：问题不在模型",
+        "en": "Users Complain Claude Got Dumber, Anthropic Reveals: The Problem Isn't the Model"
+      },
+      "summary": {
+        "zh": "大量Claude Code用户反映模型变笨，纷纷升级到更贵的版本但无效。Anthropic发文澄清，问题根源不在模型大小，而在于使用方式和其他因素。",
+        "en": "Many Claude Code users report the model getting dumber, upgrading to pricier versions without improvement. Anthropic clarifies the root cause isn't model size but usage patterns and other factors."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3892222176574211",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "LLM",
+        "AI Coding"
+      ]
+    },
+    {
+      "id": "jk9yon",
+      "title": {
+        "zh": "OpenAI发布GPT-Live：新一代语音模型驱动自然人机交互",
+        "en": "Introducing GPT-Live: Next-Gen Voice Models for Natural Human-AI Interaction"
+      },
+      "summary": {
+        "zh": "OpenAI推出GPT-Live，这是一代新的语音模型，旨在实现更自然的人机交互体验，目前已驱动ChatGPT的语音功能。",
+        "en": "OpenAI launches GPT-Live, a new generation of voice models designed for more natural human-AI interaction, now powering ChatGPT Voice capabilities."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-live",
+      "tags": [
+        "OpenAI",
+        "Voice AI",
+        "ChatGPT",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "id": "1tez3a",
+      "title": {
+        "zh": "OpenAI揭示SWE-Bench编程基准测试问题：评估AI模型需更谨慎",
+        "en": "OpenAI Reveals Issues in SWE-Bench: Separating Signal from Noise in AI Coding Evaluations"
+      },
+      "summary": {
+        "zh": "OpenAI分析发现流行的编程基准SWE-Bench Pro存在问题，质疑其可靠性和准确性。这对开发者如何评估和选择AI编程工具有重要参考意义。",
+        "en": "OpenAI's analysis reveals issues in the popular SWE-Bench Pro coding benchmark, raising concerns about reliability and accuracy. This has important implications for developers evaluating and selecting AI coding tools."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "tags": [
+        "OpenAI",
+        "AI Coding",
+        "Benchmarks",
+        "Evaluation"
+      ],
+      "publishedAt": "Wed, 08 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "id": "fm40vd",
+      "title": {
+        "zh": "量子纠错新突破：强化学习实现处理器持续自动校准",
+        "en": "Quantum Error Correction Breakthrough: Reinforcement Learning Enables Constant Processor Recalibration"
+      },
+      "summary": {
+        "zh": "研究人员利用强化学习，基于错误信息自动调整量子处理器的控制算法，实现持续校准。这项技术有望大幅提高量子计算的可靠性和实用性。",
+        "en": "Researchers use reinforcement learning to automatically adjust quantum processor control algorithms based on error information, enabling continuous recalibration. This could significantly improve quantum computing reliability and practicality."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "tags": [
+        "Quantum Computing",
+        "Reinforcement Learning",
+        "AI"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 23:02:30 +0000"
+    },
+    {
+      "id": "27k1cl",
+      "title": {
+        "zh": "苹果自动驾驶项目虽失败，却留下强大的AI芯片遗产",
+        "en": "Apple's Failed Self-Driving Car Program Left a Legacy of Powerful AI Chips"
+      },
+      "summary": {
+        "zh": "苹果的自动驾驶项目虽然未能成功，但其研发过程催生了强大的AI芯片技术，特别是M7 Ultra等处理器的AI性能直接源于该项目的技术积累。",
+        "en": "Apple's self-driving car program never took off, but its development process spawned powerful AI chip technology. The AI performance of processors like the M7 Ultra directly stems from the technical expertise gained during the project."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "tags": [
+        "Apple",
+        "Self-Driving",
+        "AI Chips",
+        "Hardware"
+      ],
+      "publishedAt": "2026-07-12T16:27:06.000Z"
+    }
+  ]
+}
