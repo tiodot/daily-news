@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-14",
+  "articles": [
+    {
+      "id": "pm2mm4",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6：前沿智能，随需扩展",
+        "en": "GPT-5.6: Frontier intelligence that scales with your ambition"
+      },
+      "summary": {
+        "zh": "OpenAI发布了新一代旗舰模型GPT-5.6，主打从每个Token中获取更强智能、更高的性价比以及按需处理更复杂任务的能力。该模型已集成到微软365 Copilot中，为企业和开发者提供更强大的AI服务。",
+        "en": "OpenAI has released its new flagship model, GPT-5.6, focusing on extracting more intelligence from every token, improved cost-effectiveness, and on-demand capability for more demanding workloads. The model is now integrated into Microsoft 365 Copilot, offering enhanced AI services for enterprises and developers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "hmdwrc",
+      "title": {
+        "zh": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资",
+        "en": "Humanoid robot company LimX Dynamics completes $200M Pre-IPO round"
+      },
+      "summary": {
+        "zh": "通用人形机器人公司逐际动力宣布完成近2亿美元Pre-IPO轮融资，投后估值达150亿元人民币。资金将用于产品量产、技术迭代和全球市场拓展，投资方包括IDG资本、蓝思科技等多家机构。",
+        "en": "Humanoid robot company LimX Dynamics announced the completion of a Pre-IPO funding round of nearly $200 million, with a post-investment valuation of 15 billion RMB. The funds will be used for product mass production, technology iteration, and global market expansion, with investors including IDG Capital and Lens Technology."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3893976502287618?f=rss",
+      "tags": [
+        "Robotics",
+        "Funding",
+        "China"
+      ],
+      "publishedAt": "2026-07-14 08:46:41  +0800"
+    },
+    {
+      "id": "s6tgqb",
+      "title": {
+        "zh": "字节跳动探索自动驾驶，由Seed世界模型团队负责",
+        "en": "ByteDance explores autonomous driving, led by Seed's world model team"
+      },
+      "summary": {
+        "zh": "据36氪报道，字节跳动正探索进入自动驾驶领域，该项目由旗下Seed大模型团队中负责世界模型的周畅团队主导。其技术路线与世界模型有交叠之处，初期可能聚焦无人物流等场景。",
+        "en": "According to 36Kr, ByteDance is exploring entry into the autonomous driving sector, with the project led by Zhou Chang's world model team under its Seed large model division. The technical path overlaps with world models, with an initial focus likely on scenarios like unmanned logistics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3893815451417347?f=rss",
+      "tags": [
+        "Autonomous Driving",
+        "ByteDance",
+        "AI Research"
+      ],
+      "publishedAt": "2026-07-13 16:34:05  +0800"
+    },
+    {
+      "id": "60z8ab",
+      "title": {
+        "zh": "Hermes智能体开发公司Nous Research正进行新一轮融资，估值达15亿美元",
+        "en": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation"
+      },
+      "summary": {
+        "zh": "开源AI模型及智能体开发者Nous Research正在进行一轮由Robot Ventures领投的新融资，估值达15亿美元。此轮融资凸显了市场对开源、可定制AI智能体（Agent）技术的高度关注和投资热情。",
+        "en": "Nous Research, a developer of open-source AI models and agents, is in talks for a new funding round led by Robot Ventures at a $1.5B valuation. This round highlights the high level of market attention and investment enthusiasm for open-source, customizable AI agent technologies."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "tags": [
+        "Open Source",
+        "AI Agent",
+        "Funding"
+      ],
+      "publishedAt": "Mon, 13 Jul 2026 23:31:18 +0000"
+    },
+    {
+      "id": "isr16j",
+      "title": {
+        "zh": "苹果称前员工离职加入OpenAI后利用罕见漏洞下载机密文件",
+        "en": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI"
+      },
+      "summary": {
+        "zh": "苹果公司起诉OpenAI，指控一名前工程师在离职加入OpenAI后，利用苹果系统中的一个罕见漏洞，长期非法下载了公司的敏感文件。此事件凸显了AI行业激烈的人才竞争与随之而来的知识产权安全风险。",
+        "en": "Apple has sued OpenAI, alleging that a former engineer, after leaving to join OpenAI, exploited a rare bug in Apple's systems to illicitly download sensitive company files for an extended period. This incident highlights the fierce talent competition in the AI industry and the associated intellectual property security risks."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "Legal",
+        "Cybersecurity"
+      ],
+      "publishedAt": "Mon, 13 Jul 2026 20:00:17 +0000"
+    },
+    {
+      "id": "1zr7v8",
+      "title": {
+        "zh": "Siri AI正在改变我使用iPhone的方式",
+        "en": "Siri AI is already changing how I use my iPhone"
+      },
+      "summary": {
+        "zh": "随着iOS 27公开测试版的发布，内置Siri AI的新版本已向公众开放。初步体验表明，升级后的Siri在理解上下文和执行复杂指令方面有显著提升，正在改变用户的使用习惯。",
+        "en": "With the release of the iOS 27 public beta, the new version with built-in Siri AI is now available to the public. Early experiences show that the upgraded Siri has significantly improved in understanding context and executing complex commands, changing user habits."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "tags": [
+        "Apple",
+        "Siri",
+        "iOS",
+        "AI Assistant"
+      ],
+      "publishedAt": "2026-07-13T20:43:20.000Z"
+    },
+    {
+      "id": "5clpev",
+      "title": {
+        "zh": "AI家庭智能硬件公司MOVA LINCO获数千万元天使轮融资",
+        "en": "AI home smart hardware company MOVA LINCO secures tens of millions yuan angel round"
+      },
+      "summary": {
+        "zh": "威联机器人科技（MOVA LINCO）完成数千万元天使轮融资，专注于AI智能语音路由器等家庭AI生态产品。公司计划将资金用于底层AI算法研发、产品量产及全球市场布局。",
+        "en": "Weilian Robot Technology (MOVA LINCO) has completed an angel funding round of tens of millions of yuan, focusing on products like AI smart voice routers for the home AI ecosystem. The company plans to use the funds for underlying AI algorithm R&D, product mass production, and global market deployment."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3879780282495236?f=rss",
+      "tags": [
+        "AI Hardware",
+        "Smart Home",
+        "Funding",
+        "China"
+      ],
+      "publishedAt": "2026-07-13 11:00:00  +0800"
+    },
+    {
+      "id": "kxev9k",
+      "title": {
+        "zh": "你这图「保真」吗？AI生图时代的信息防伪",
+        "en": "Is your image 'authentic'? Information authentication in the AI image generation era"
+      },
+      "summary": {
+        "zh": "在AI图像生成技术普及的当下，辨别信息的真伪变得至关重要。这篇文章探讨了人类对信息真实性需求的不变本质，以及在AI生成内容（AIGC）浪潮下，技术如何用于内容溯源和防伪。",
+        "en": "In an era where AI image generation technology is widespread, discerning the authenticity of information is crucial. This article explores the timeless human need for information authenticity and how technology can be used for content provenance and anti-counterfeiting amidst the wave of AIGC."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/112185",
+      "tags": [
+        "AIGC",
+        "AI Ethics",
+        "Digital Authenticity"
+      ],
+      "publishedAt": "Mon, 13 Jul 2026 10:52:47 +0800"
+    },
+    {
+      "id": "kxfcce",
+      "title": {
+        "zh": "Vibe Coding 时代，为什么降本不一定增效？",
+        "en": "In the Vibe Coding era, why cost reduction doesn't always mean efficiency gain?"
+      },
+      "summary": {
+        "zh": "“氛围编程”（Vibe Coding）虽然能加速代码生成，但其本身无法替代人类对问题的定义、用户的理解、架构的设计以及对结果的承担。文章探讨了在依赖AI辅助开发时，保持核心工程思维的重要性。",
+        "en": "While 'Vibe Coding' can accelerate code generation, it cannot replace human tasks such as defining problems, understanding users, designing architecture, and bearing responsibility for outcomes. The article discusses the importance of maintaining core engineering thinking when relying on AI-assisted development."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/111975",
+      "tags": [
+        "AI Programming",
+        "Software Development",
+        "Productivity"
+      ],
+      "publishedAt": "Fri, 10 Jul 2026 10:50:28 +0800"
+    }
+  ]
+}
