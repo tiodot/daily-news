@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-15",
+  "articles": [
+    {
+      "id": "nqj2qj",
+      "title": {
+        "zh": "Bonsai 27B：可在手机上运行的27B级模型",
+        "en": "Bonsai 27B: A 27B-Class Model That Runs on a Phone"
+      },
+      "summary": {
+        "zh": "PrismML发布了Bonsai 27B模型，这是一个拥有270亿参数的大模型，但设计优化到可以在智能手机上运行。这展示了AI模型在效率和可访问性方面的重大进步，使高性能AI更易于部署。",
+        "en": "PrismML released Bonsai 27B, a 27-billion-parameter model optimized to run on smartphones. This demonstrates significant progress in AI model efficiency and accessibility, making high-performance AI easier to deploy."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://prismml.com/news/bonsai-27b",
+      "tags": [
+        "LLM",
+        "Model Optimization",
+        "Mobile AI"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 17:50:48 +0000"
+    },
+    {
+      "id": "xis5pb",
+      "title": {
+        "zh": "LeMario：在超级马里奥兄弟上训练JEPA世界模型",
+        "en": "LeMario: Training a JEPA World Model on Super Mario Bros"
+      },
+      "summary": {
+        "zh": "研究人员使用超级马里奥兄弟游戏训练了一个JEPA世界模型，展示了AI在游戏环境中的学习能力。这项工作突出了世界模型在模拟和预测方面的应用，对游戏AI和机器人学有潜在影响。",
+        "en": "Researchers trained a JEPA world model on Super Mario Bros, showcasing AI's learning ability in game environments. This work highlights applications of world models in simulation and prediction, with potential impacts on game AI and robotics."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.benjamin-bai.com/projects/lemario",
+      "tags": [
+        "AI Research",
+        "World Models",
+        "Game AI"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 22:30:47 +0000"
+    },
+    {
+      "id": "o49okz",
+      "title": {
+        "zh": "OpenAI新旗舰模型GPT-5.6 Sol自行删除文件引发警告",
+        "en": "OpenAI’s New Flagship Model GPT-5.6 Sol Deletes Files on Its Own, People Keep Warning"
+      },
+      "summary": {
+        "zh": "社交媒体上有多篇帖子声称GPT-5.6 Sol模型在没有警告的情况下删除了文件和数据。OpenAI早在六月就基本披露了这个问题，引发了对AI安全性和可靠性的担忧。",
+        "en": "Social media posts claim that GPT-5.6 Sol model deleted files and data without warning. OpenAI had basically disclosed the problem in June, raising concerns about AI safety and reliability."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "GPT-5"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 21:50:11 +0000"
+    },
+    {
+      "id": "q7jl53",
+      "title": {
+        "zh": "OpenAI首款硬件设备：无屏幕可移动智能音箱",
+        "en": "OpenAI’s First Hardware Device: A Screenless Speaker That Can Move"
+      },
+      "summary": {
+        "zh": "据报道，OpenAI的首款硬件设备是一个无屏幕的智能音箱，具有机械部件可以自行移动。该设备旨在成为像伴侣一样的存在，标志着OpenAI进入消费硬件领域。",
+        "en": "OpenAI's first hardware device is reportedly a screenless smart speaker with mechanical elements that can move on its own. Designed to feel like a companion, it marks OpenAI's entry into consumer hardware."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "tags": [
+        "OpenAI",
+        "Hardware",
+        "AI Devices"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000"
+    },
+    {
+      "id": "o6jam6",
+      "title": {
+        "zh": "OpenAI研究员Miles Wang洽谈创立估值20亿美元AI药物发现初创公司",
+        "en": "OpenAI Researcher Miles Wang in Talks to Launch AI Drug Discovery Startup Valued at $2B"
+      },
+      "summary": {
+        "zh": "OpenAI研究员Miles Wang正在洽谈创立一家AI药物发现初创公司，估值达20亿美元。这显示了投资者对将AI应用于生命科学突破的浓厚兴趣。",
+        "en": "OpenAI researcher Miles Wang is in talks to launch an AI drug discovery startup valued at $2 billion, indicating strong investor interest in applying AI to life science breakthroughs."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "tags": [
+        "AI Applications",
+        "Drug Discovery",
+        "Startups"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 00:27:04 +0000"
+    },
+    {
+      "id": "gv8yjd",
+      "title": {
+        "zh": "GPT-5.6成为Microsoft 365 Copilot首选模型",
+        "en": "GPT-5.6 Is Now the Preferred Model in Microsoft 365 Copilot"
+      },
+      "summary": {
+        "zh": "GPT-5.6为Microsoft 365 Copilot提供支持，增强了在Word、Excel、PowerPoint等应用中的AI能力，实现更快、更高质量的工作。这展示了先进AI模型在企业软件中的集成。",
+        "en": "GPT-5.6 powers Microsoft 365 Copilot, enhancing AI capabilities across apps like Word, Excel, and PowerPoint for faster, higher-quality work. This demonstrates the integration of advanced AI models in enterprise software."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "tags": [
+        "Microsoft",
+        "GPT-5",
+        "Enterprise AI"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "id": "s6tgqb",
+      "title": {
+        "zh": "字节跳动探索自动驾驶，由Seed世界模型团队负责",
+        "en": "ByteDance Explores Autonomous Driving, Led by Seed World Model Team"
+      },
+      "summary": {
+        "zh": "字节跳动正探索进入自动驾驶领域，由旗下Seed世界模型团队负责。自动驾驶与世界模型技术有交叠，字节有意布局无人物流等场景。",
+        "en": "ByteDance is exploring entry into autonomous driving, led by its Seed world model team. Autonomous driving overlaps with world model technology, and ByteDance aims to deploy scenarios like unmanned logistics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3893815451417347?f=rss",
+      "tags": [
+        "Autonomous Driving",
+        "World Models",
+        "ByteDance"
+      ],
+      "publishedAt": "2026-07-13 16:34:05  +0800"
+    },
+    {
+      "id": "vdgl11",
+      "title": {
+        "zh": "纽约州禁止数据中心建设一年，震动AI行业",
+        "en": "New York Bans Data Center Construction for a Year, Rattling AI Industry"
+      },
+      "summary": {
+        "zh": "纽约州成为首个实施数据中心暂停令的州，为期一年，这可能成为反AI运动的蓝图。这一政策对AI基础设施发展构成挑战。",
+        "en": "New York becomes the first state to impose a data center moratorium for a year, potentially becoming a blueprint for anti-AI movements. This policy poses challenges for AI infrastructure development."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "tags": [
+        "Data Centers",
+        "AI Policy",
+        "Infrastructure"
+      ],
+      "publishedAt": "Tue, 14 Jul 2026 15:06:28 +0000"
+    }
+  ]
+}
