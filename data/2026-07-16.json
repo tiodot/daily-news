@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-16",
+  "articles": [
+    {
+      "id": "veswku",
+      "title": {
+        "zh": "微软培训销售人员贬低 OpenAI 与 Anthropic 竞争对手模型",
+        "en": "Microsoft Training Sales Staff to Downplay OpenAI and Anthropic Models"
+      },
+      "summary": {
+        "zh": "据报道，微软正在培训其销售人员，向客户推广其自研AI模型，称其比竞争对手 OpenAI 和 Anthropic 的模型更高效、成本更低。这标志着主要科技公司之间的AI模型竞争进入了销售和市场营销的新阶段。",
+        "en": "Microsoft is reportedly training its sales personnel to promote its in-house AI models to customers, claiming they are more efficient and cost-effective than those from competitors OpenAI and Anthropic. This marks a new phase in the AI model competition between major tech companies, extending into sales and marketing strategies."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "Anthropic",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000"
+    },
+    {
+      "id": "6j1rrb",
+      "title": {
+        "zh": "Thinking Machines 发布首个开源模型 Inkling，挑战通用型 AI",
+        "en": "Thinking Machines Releases First Open Model 'Inkling', Betting Against One-Size-Fits-All AI"
+      },
+      "summary": {
+        "zh": "初创公司 Thinking Machines 发布了其首个开源模型 Inkling，此举是其在私下建设AI基础设施一年半后的首次公开证明。该公司主张反对“一刀切”的通用AI，并通过发布专用模型来展示其技术路径。",
+        "en": "Startup Thinking Machines has released its first open-source model, Inkling, marking its first public proof point after spending a year and a half building AI infrastructure largely out of public view. The company champions a bet against 'one-size-fits-all' AI, demonstrating its approach through a specialized model release."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "tags": [
+        "Open Source",
+        "LLM",
+        "AI Startup"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 18:04:06 +0000"
+    },
+    {
+      "id": "3sx901",
+      "title": {
+        "zh": "NTSB 确认：得州致命车祸中特斯拉司机将油门踩到底",
+        "en": "NTSB Confirms Tesla Driver in Fatal Texas Crash Pressed Accelerator to 100%"
+      },
+      "summary": {
+        "zh": "美国国家运输安全委员会（NTSB）确认，在上个月发生的一起致命车祸中，司机将特斯拉车辆的加速踏板踩到了100%。这一调查结果与特斯拉公司早前公布的事故分析一致，再次引发了人们对驾驶辅助系统使用安全性的讨论。",
+        "en": "The U.S. National Transportation Safety Board (NTSB) has confirmed that in a fatal crash last month, the driver of a Tesla vehicle pressed the accelerator pedal to 100%. This finding aligns with Tesla's own account of the incident, reigniting discussions on the safe use of driver-assistance systems."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "tags": [
+        "Tesla",
+        "Autonomous Driving",
+        "Safety"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 20:22:52 +0000"
+    },
+    {
+      "id": "eb7tia",
+      "title": {
+        "zh": "硬件法律纠纷中，OpenAI 发布售价 230 美元的 Codex 专用键盘",
+        "en": "Amid Hardware Legal Battle, OpenAI Releases $230 Keyboard for Codex"
+      },
+      "summary": {
+        "zh": "OpenAI 发布了一款售价 230 美元的背光键盘，专为其智能体编程应用 Codex 设计。此举发生在公司正与苹果就硬件商业秘密盗窃指控进行法律诉讼的背景下，标志着 OpenAI 首次涉足品牌硬件产品。",
+        "en": "OpenAI has released a $230 backlit keyboard specifically designed for its agentic coding application, Codex. This move comes while the company is embroiled in a legal battle with Apple over allegations of hardware trade secret theft, marking OpenAI's first foray into branded hardware products."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "tags": [
+        "OpenAI",
+        "Hardware",
+        "Codex"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000"
+    },
+    {
+      "id": "3sx901",
+      "title": {
+        "zh": "xAI 起诉一名用户利用 Grok 生成儿童性虐待材料“深度伪造”",
+        "en": "xAI Sues User for Using Grok to Generate CSAM 'Deepfakes'"
+      },
+      "summary": {
+        "zh": "埃隆·马斯克旗下的 AI 公司 xAI 正在起诉一名南卡罗来纳州男子，指控其使用公司的 Grok AI 聊天机器人生成儿童性虐待材料（CSAM）。这起诉讼凸显了生成式 AI 技术被滥用进行非法和有害内容创作的严峻风险。",
+        "en": "Elon Musk's AI company xAI is suing a South Carolina man, alleging he used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). This lawsuit highlights the severe risks of generative AI technology being misused for creating illegal and harmful content."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "tags": [
+        "xAI",
+        "AI Safety",
+        "Grok",
+        "Legal"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 20:22:52 +0000"
+    },
+    {
+      "id": "pm2mm4",
+      "title": {
+        "zh": "OpenAI 发布 GPT-5.6：前沿智能随需求扩展",
+        "en": "OpenAI Releases GPT-5.6: Frontier Intelligence That Scales with Ambition"
+      },
+      "summary": {
+        "zh": "OpenAI 正式发布 GPT-5.6 模型，官方称其从每个 token 中汲取更多智能，具备更强的性价比，并能按需处理更复杂的任务。该模型将成为微软 365 Copilot 的首选模型，集成到 Word、Excel 等应用中。",
+        "en": "OpenAI has officially released the GPT-5.6 model, claiming it extracts more intelligence from every token, offers stronger performance per dollar, and can handle more complex tasks on demand. The model will become the preferred model for Microsoft 365 Copilot, integrated into apps like Word and Excel."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "LLM",
+        "Microsoft"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "s3v1gh",
+      "title": {
+        "zh": "ChatGPT 推出 Work 版本，成为可跨应用行动的智能体",
+        "en": "ChatGPT Launches 'Work' Version as an Agent That Can Take Action Across Apps"
+      },
+      "summary": {
+        "zh": "OpenAI 为 ChatGPT 推出了新的 Work 版本，定位为一个可以在用户应用程序和文件中执行操作的智能体。它能够长期跟进一个项目，并将目标转化为完成的工作，旨在处理用户最复杂、耗时的任务。",
+        "en": "OpenAI has launched a new 'Work' version of ChatGPT, positioning it as an agent that can take action across a user's apps and files. It can stay with a project for hours if needed and turn a goal into finished work, designed to handle a user's most ambitious and time-consuming tasks."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI Agent",
+        "Productivity"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "5qiemt",
+      "title": {
+        "zh": "自动驾驶重卡公司斯年智驾完成 3 亿元 C 轮融资",
+        "en": "Autonomous Trucking Company Sinian Raises 300 Million Yuan in Series C Funding"
+      },
+      "summary": {
+        "zh": "自动驾驶重卡公司斯年智驾完成 3 亿元 C 轮融资，资金将用于新一代车规级自动驾驶方案研发。2026年上半年，自动驾驶重卡赛道融资已近70亿人民币，显示资本对该领域商业化前景的持续看好。",
+        "en": "Autonomous trucking company Sinian has completed a 300 million yuan Series C funding round, with funds allocated for R&D on a new generation of automotive-grade autonomous driving solutions. In the first half of 2026, nearly 7 billion yuan has been invested in the autonomous trucking sector, indicating sustained capital confidence in its commercialization prospects."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3895721094842249?f=rss",
+      "tags": [
+        "Autonomous Driving",
+        "Robotics",
+        "China",
+        "Funding"
+      ],
+      "publishedAt": "2026-07-16 08:00:00  +0800"
+    },
+    {
+      "id": "r0c8su",
+      "title": {
+        "zh": "面壁智能端侧大模型将搭载三星手机上市",
+        "en": "ModelBest's On-Device LLM to Be Pre-installed on Samsung Phones"
+      },
+      "summary": {
+        "zh": "端侧大模型公司面壁智能已与三星达成合作，其 MiniCPM 系列端侧模型将搭载于三星旗舰手机上市。同期，包括苹果、华为、小米在内的多家厂商的端侧AI服务已完成备案，预示着端侧大模型在智能手机上的部署进入加速期。",
+        "en": "On-device LLM company ModelBest has partnered with Samsung, and its MiniCPM series on-device models will be pre-installed on Samsung's flagship phones. Concurrently, on-device AI services from multiple manufacturers including Apple, Huawei, and Xiaomi have completed regulatory filing, indicating an acceleration phase for deploying on-device LLMs on smartphones."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3896830362601351?f=rss",
+      "tags": [
+        "On-Device AI",
+        "LLM",
+        "Samsung",
+        "Smartphone"
+      ],
+      "publishedAt": "2026-07-15 19:47:14  +0800"
+    }
+  ]
+}
