@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-17",
+  "articles": [
+    {
+      "id": "jgr5wb",
+      "title": {
+        "zh": "xAI因Grok生成CSAM起诉用户，不再否认模型缺陷",
+        "en": "xAI files lawsuit against user over Grok-generated CSAM, no longer denies model flaw"
+      },
+      "summary": {
+        "zh": "埃隆·马斯克旗下xAI公司对一名被指控使用Grok生成儿童性虐待材料（CSAM）的用户提起了首次诉讼。这标志着该公司策略的转变，此前他们一直否认其AI模型存在此类问题。",
+        "en": "Elon Musk's xAI has filed its first lawsuit against a user accused of generating child sexual abuse material (CSAM) using Grok. This marks a strategic shift for the company, which previously denied its AI model had such capabilities."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "tags": [
+        "AI Ethics",
+        "Legal",
+        "Grok",
+        "xAI"
+      ],
+      "publishedAt": "Thu, 16 Jul 2026 20:26:23 +0000"
+    },
+    {
+      "id": "u5amru",
+      "title": {
+        "zh": "林纳斯·托瓦兹回击AI编码批评者：你可以分叉，或者离开",
+        "en": "Linus Torvalds to critics of AI coding in Linux: ‘Fork it. Or just walk away.’"
+      },
+      "summary": {
+        "zh": "Linux之父林纳斯·托瓦兹对开源社区中反对在Linux开发中使用AI工具的声音做出了强硬回应。他表示将“非常大声地忽略”那些要求禁止AI工具的人。",
+        "en": "Linus Torvalds has issued a strong response to critics within the open-source community opposing the use of AI tools in Linux development. He stated he will ‘very loudly ignore’ those arguing for a ban on AI tools."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "tags": [
+        "Open Source",
+        "AI Tools",
+        "Linux",
+        "Linus Torvalds"
+      ],
+      "publishedAt": "Thu, 16 Jul 2026 19:18:23 +0000"
+    },
+    {
+      "id": "o2sg84",
+      "title": {
+        "zh": "Ring-Zero：将零样本强化学习扩展至万亿参数以实现涌现推理",
+        "en": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning"
+      },
+      "summary": {
+        "zh": "一篇新论文探讨了将零样本强化学习（Zero RL）扩展到拥有万亿参数规模的模型，旨在研究其中的涌现推理能力。这项研究对理解和构建大规模自改进AI系统具有重要意义。",
+        "en": "A new paper explores scaling zero-shot reinforcement learning (Zero RL) to models with a trillion parameters, aiming to study emergent reasoning capabilities. This research is significant for understanding and building large-scale self-improving AI systems."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://arxiv.org/abs/2607.12395",
+      "tags": [
+        "Reinforcement Learning",
+        "AI Research",
+        "Scaling",
+        "Trillion Parameters"
+      ],
+      "publishedAt": "Thu, 16 Jul 2026 21:38:02 +0000"
+    },
+    {
+      "id": "2owdov",
+      "title": {
+        "zh": "OpenAI阐述青少年安全使用AI的理念与措施",
+        "en": "Why teens deserve access to safe AI, according to OpenAI"
+      },
+      "summary": {
+        "zh": "OpenAI详细介绍了为青少年使用ChatGPT所采取的安全措施，包括年龄适配保护、学习工具、家长控制以及与专家的合作。文章强调了在确保安全的同时，让青少年接触AI以学习和成长的重要性。",
+        "en": "OpenAI details the safety measures for teen use of ChatGPT, including age-appropriate protections, learning tools, parental controls, and expert partnerships. The article emphasizes the importance of allowing teens access to AI for learning while ensuring their safety."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "tags": [
+        "AI Safety",
+        "Teen Safety",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Thu, 16 Jul 2026 16:00:00 GMT"
+    },
+    {
+      "id": "6hmzwi",
+      "title": {
+        "zh": "GPT-Red：OpenAI通过自我博弈解锁AI安全的自我改进",
+        "en": "GPT-Red: Unlocking Self-Improvement for Robustness"
+      },
+      "summary": {
+        "zh": "OpenAI介绍了GPT-Red，一个自动化的红队测试系统。该系统利用自我博弈（self-play）来持续改进AI模型的安全性、对齐性和抵抗提示词注入的能力。",
+        "en": "OpenAI introduces GPT-Red, an automated red teaming system that uses self-play to continuously improve the safety, alignment, and prompt injection robustness of AI models."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "AI Safety",
+        "Red Teaming",
+        "Self-Improvement",
+        "GPT-Red"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "gv8yjd",
+      "title": {
+        "zh": "GPT-5.6成为微软365 Copilot首选模型",
+        "en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
+      },
+      "summary": {
+        "zh": "OpenAI宣布，GPT-5.6模型现已驱动微软365 Copilot，为Word、Excel、PowerPoint等应用提供更强大的AI能力，旨在提升工作效率和产出质量。",
+        "en": "OpenAI announces that the GPT-5.6 model now powers Microsoft 365 Copilot, delivering stronger AI capabilities across Word, Excel, PowerPoint, and more to improve work efficiency and output quality."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "tags": [
+        "GPT-5.6",
+        "Microsoft 365",
+        "Copilot",
+        "LLM Integration"
+      ],
+      "publishedAt": "Thu, 09 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "id": "dbkemleq6tu",
+      "title": {
+        "zh": "独家 | 智谱ARR达到10亿美元，半年增长15倍",
+        "en": "Exclusive | Zhipu AI's ARR reaches $1 billion, a 15-fold increase in half a year"
+      },
+      "summary": {
+        "zh": "据多位独立消息人士透露，中国AI公司智谱的年度经常性收入（ARR）已达到10亿美元，过去半年增长了15倍。这一增长主要得益于其AI编程和视频生成模型在商业上的成功。",
+        "en": "Multiple independent sources indicate that Chinese AI company Zhipu AI's annual recurring revenue (ARR) has reached $1 billion, marking a 15-fold increase in the past six months. This growth is largely attributed to the commercial success of its AI coding and video generation models."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3898662052693894",
+      "tags": [
+        "LLM",
+        "Revenue Growth",
+        "Zhipu AI",
+        "AI Market"
+      ]
+    },
+    {
+      "id": "hjvulbrzpor",
+      "title": {
+        "zh": "商汤001号员工创办AI角色引擎公司，获种子轮融资",
+        "en": "Founding employee of SenseTime starts AI avatar engine company, secures seed funding"
+      },
+      "summary": {
+        "zh": "由商汤科技创始员工徐持衡创办的AI角色硬件公司“酷奇奇科技”完成数千万元种子轮融资。该公司致力于将AI角色引擎打造为核心竞争力，应用于游戏、硬件等领域。",
+        "en": "Coolqq.com, an AI avatar hardware company founded by Xu Chiheng, SenseTime's first employee, has completed a multi-million yuan seed funding round. The company aims to build its core competitiveness around an AI avatar engine for applications in gaming, hardware, and more."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3898370289846153",
+      "tags": [
+        "AI Avatars",
+        "Game Development",
+        "Startup",
+        "Computer Vision"
+      ]
+    },
+    {
+      "id": "iiz8o2asmm",
+      "title": {
+        "zh": "中专生用AI拍出破亿爆款短片，改变人生轨迹",
+        "en": "Vocational school graduate creates viral short film with AI, changing his life"
+      },
+      "summary": {
+        "zh": "来自云南的中专生刘梓瑜利用AI工具创作的短片《丧尸清道夫》全网播放破亿，并因此获得好莱坞邀约。这个案例展示了AI技术如何赋能个人创作者，打破行业门槛。",
+        "en": "Liu Ziyu, a vocational school graduate from Yunnan, created the viral short film 'Zombie Scavenger' using AI tools, amassing over 100 million views and receiving offers from Hollywood. This case demonstrates how AI empowers individual creators and breaks down industry barriers."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3898151587890824",
+      "tags": [
+        "AI Video",
+        "Content Creation",
+        "Diversity in Tech",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "qfeqk031w38",
+      "title": {
+        "zh": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道持续升温",
+        "en": "Autonomous trucking startup Sineva secures 300M yuan Series C, as the sector heats up"
+      },
+      "summary": {
+        "zh": "自动驾驶重卡公司斯年智驾完成3亿元C轮融资，资金将用于研发新一代车规级方案。2026年上半年，该赛道融资频繁，表明资本对自动驾驶在物流等封闭场景的商业化前景持乐观态度。",
+        "en": "Autonomous trucking company Sineva has completed a 300 million yuan Series C funding round to develop new vehicle-grade solutions. The frequent financing in this sector in the first half of 2026 indicates capital optimism about the commercial prospects of autonomous driving in closed scenarios like logistics."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3895721094842249",
+      "tags": [
+        "Autonomous Driving",
+        "Self-driving Trucks",
+        "Logistics",
+        "Venture Capital"
+      ]
+    }
+  ]
+}
