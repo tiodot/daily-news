@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-18",
+  "articles": [
+    {
+      "id": "1rg18u",
+      "title": {
+        "zh": "Databricks估值达1880亿美元，延续其作为AI领域关键玩家的势头",
+        "en": "Databricks hits $188B valuation, solidifying its role as a key AI player"
+      },
+      "summary": {
+        "zh": "数据平台公司Databricks的估值达到1880亿美元，展现了其成功转型为AI公司的市场认可。该公司还发布了关于开源权重AI模型在编程任务中成本效益的研究报告。",
+        "en": "Data platform company Databricks has reached a $188B valuation, demonstrating strong market recognition of its successful transformation into an AI company. The firm also published research on the cost savings of open-weight AI models for coding tasks."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "tags": [
+        "AI Platform",
+        "Data Engineering",
+        "Open Source",
+        "Valuation"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000"
+    },
+    {
+      "id": "3cvvle",
+      "title": {
+        "zh": "Vertu推出售价6880美元的AI代理手机，实际性能如何？",
+        "en": "Vertu's $6,880 AI agent phone: how it actually performs"
+      },
+      "summary": {
+        "zh": "奢侈品牌Vertu为高管推出一款集成AI代理功能的高价折叠手机。评测重点关注其AI工作流程、电池续航和安全性能等日常使用体验。",
+        "en": "Luxury brand Vertu targets executives with a premium foldable phone featuring an integrated AI agent. The review focuses on its real-world performance in AI workflows, battery life, and security."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "tags": [
+        "AI Agent",
+        "Smartphone",
+        "Consumer AI",
+        "Luxury Tech"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000"
+    },
+    {
+      "id": "t82rac",
+      "title": {
+        "zh": "Agility Robotics在特斯拉大本营附近开设新机器人培训中心",
+        "en": "Agility Robotics opens new robot training center near Tesla's HQ"
+      },
+      "summary": {
+        "zh": "人形机器人公司Agility Robotics在加利福尼亚州弗里蒙特开设新的培训中心，用于其Digit机器人的训练。此举象征着在自动驾驶和AI硬件重镇的扩张。",
+        "en": "Humanoid robot company Agility Robotics is opening a new training center in Fremont, California, for its Digit robots. This move symbolizes expansion in a hub for autonomous driving and AI hardware."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "tags": [
+        "Robotics",
+        "Humanoid Robots",
+        "AI Training",
+        "Hardware"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000"
+    },
+    {
+      "id": "c1001l",
+      "title": {
+        "zh": "AI驱动的内存短缺冲击印度智能手机市场",
+        "en": "AI-driven memory crunch hits India's smartphone market"
+      },
+      "summary": {
+        "zh": "AI热潮导致的内存芯片需求激增和供应紧张，正在影响印度智能手机市场，波及产品定价、消费者需求和企业战略。",
+        "en": "Surging demand for memory chips from the AI boom is causing supply constraints that are impacting India's smartphone market, affecting pricing, consumer demand, and corporate strategies."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "tags": [
+        "AI Hardware",
+        "Semiconductors",
+        "Market Impact",
+        "Consumer Electronics"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 20:09:27 +0000"
+    },
+    {
+      "id": "fnnuhu",
+      "title": {
+        "zh": "苹果对OpenAI的诉讼可能扰乱其IPO计划",
+        "en": "Apple's lawsuit could disrupt OpenAI's IPO plans"
+      },
+      "summary": {
+        "zh": "苹果公司已对OpenAI提起商业秘密诉讼。这场备受瞩目的法律纠纷可能对OpenAI的未来发展，特别是其潜在的IPO计划，产生重大影响。",
+        "en": "Apple has filed a trade secrets lawsuit against OpenAI. This high-profile legal battle could significantly impact OpenAI's future, particularly its potential IPO plans."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "AI Ethics",
+        "Legal",
+        "IPO"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 17:45:46 +0000"
+    },
+    {
+      "id": "sosyjb",
+      "title": {
+        "zh": "TikTok正在测试AI形象检测工具以识别深度伪造",
+        "en": "TikTok is testing an AI likeness detection tool to spot deepfakes"
+      },
+      "summary": {
+        "zh": "TikTok开始测试一项新的AI工具，旨在自动扫描和识别由AI生成的用户形象（如深度伪造），并允许创作者进行举报。",
+        "en": "TikTok has begun testing a new AI tool designed to automatically scan for and identify AI-generated user likenesses, such as deepfakes, and allow creators to report them."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "tags": [
+        "AI Safety",
+        "Deepfakes",
+        "Content Moderation",
+        "Social Media"
+      ],
+      "publishedAt": "2026-07-17T19:34:30.000Z"
+    },
+    {
+      "id": "6hmzwi",
+      "title": {
+        "zh": "OpenAI发布GPT-Red：通过自我对弈提升AI安全性和鲁棒性",
+        "en": "OpenAI unveils GPT-Red: self-play for improving AI safety and robustness"
+      },
+      "summary": {
+        "zh": "OpenAI介绍了其自动化红队系统GPT-Red，该系统利用自我对弈（self-play）来持续改进AI模型的安全性、对齐性和抵御提示注入攻击的能力。",
+        "en": "OpenAI details its automated red-teaming system, GPT-Red, which uses self-play to continuously improve AI model safety, alignment, and resistance to prompt injection attacks."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Red Teaming",
+        "LLM",
+        "Alignment"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "xbujfb",
+      "title": {
+        "zh": "OpenAI提出面向AI时代的实用记分卡，用于衡量投资回报",
+        "en": "OpenAI proposes a practical scorecard for measuring AI ROI"
+      },
+      "summary": {
+        "zh": "OpenAI首席财务官提出一套AI时代记分卡框架，通过“有用工作量”、“单任务成本”、“可靠性”和“计算回报率”等指标来评估AI的实际投资回报。",
+        "en": "OpenAI's CFO introduces an AI-age scorecard framework to evaluate real-world ROI through metrics like 'useful work', 'cost per successful task', 'dependability', and 'return on compute'."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "tags": [
+        "AI Business",
+        "ROI",
+        "Enterprise AI",
+        "Metrics"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "1j1g6n",
+      "title": {
+        "zh": "阶跃星辰印奇在WAIC 2026演讲：当智能体走进物理世界",
+        "en": "StepFun CEO speaks at WAIC 2026: when AI agents enter the physical world"
+      },
+      "summary": {
+        "zh": "在世界人工智能大会上，阶跃星辰董事长印奇发表主题演讲，探讨AI智能体从虚拟世界走向物理世界的过程，并回顾了其15年的AI创业历程。",
+        "en": "At the World Artificial Intelligence Conference, StepFun CEO Yin Qi discussed the journey of AI agents from virtual to physical spaces, reflecting on his 15 years in AI entrepreneurship."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3900439867147909?f=rss",
+      "tags": [
+        "AI Agents",
+        "Embodied AI",
+        "Conference",
+        "China AI"
+      ],
+      "publishedAt": "2026-07-18 08:53:35  +0800"
+    },
+    {
+      "id": "nud6d8",
+      "title": {
+        "zh": "红杉、高瓴投资模感科技，研发机器人全身多模态触觉系统",
+        "en": "Sequoia and Hillhouse back MoSense for whole-body robotic tactile system"
+      },
+      "summary": {
+        "zh": "机器人触觉技术初创公司模感科技获得数千万元天使轮融资，由红杉中国、高瓴创投及智元机器人投资，用于研发机器人全身多模态触觉感知系统。",
+        "en": "Robotic tactile tech startup MoSense has secured tens of millions in angel funding from Sequoia China, Hillhouse Capital, and Zhiyuan Robotics to develop whole-body multimodal tactile perception systems."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899128277452681?f=rss",
+      "tags": [
+        "Robotics",
+        "Tactile Sensing",
+        "VC Funding",
+        "Hardware"
+      ],
+      "publishedAt": "2026-07-17 10:39:17  +0800"
+    }
+  ]
+}
