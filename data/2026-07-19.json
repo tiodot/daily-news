@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-19",
+  "articles": [
+    {
+      "id": "1rg18u",
+      "title": {
+        "zh": "Databricks估值达1880亿美元，巩固其AI领域领先地位",
+        "en": "Databricks Hits $188B Valuation, Cementing Its Position as AI's Leading Platform"
+      },
+      "summary": {
+        "zh": "Databricks已成功转型为AI公司，并发布了关于开源权重AI模型在编码领域成本节约的研究。该公司估值达到1880亿美元，成为AI领域最具价值的私营公司之一。这一里程碑凸显了数据平台与AI融合的巨大市场潜力。",
+        "en": "Databricks has remade its image as an AI company and published research on cost savings of open weight AI models for coding. The company's $188B valuation makes it one of the most valuable private companies in the AI space. This milestone highlights the massive market potential of data platforms converging with AI."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "tags": [
+        "Databricks",
+        "AI",
+        "Data Platform",
+        "Valuation"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000"
+    },
+    {
+      "id": "6hmzwi",
+      "title": {
+        "zh": "OpenAI发布GPT-Red：利用自我博弈实现AI安全自动改进",
+        "en": "GPT-Red: OpenAI's Automated Red Teaming System for Self-Improving AI Safety"
+      },
+      "summary": {
+        "zh": "GPT-Red是OpenAI开发的自动化红队测试系统，通过自我博弈机制提升AI的安全性、对齐性和提示注入防护能力。该系统能够自动发现和修复AI模型的漏洞，减少对人工红队的依赖。这是AI安全领域的重要突破。",
+        "en": "GPT-Red is OpenAI's automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness. The system can automatically discover and fix vulnerabilities in AI models, reducing reliance on manual red teams. This represents a significant breakthrough in AI safety research."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Red Teaming",
+        "LLM"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "kz9tut",
+      "title": {
+        "zh": "月之暗面发布Kimi新版本，引发AI竞争讨论",
+        "en": "Moonshot AI Releases New Kimi Model, Sparking AI Competition Debate"
+      },
+      "summary": {
+        "zh": "中国公司月之暗面发布了其Kimi模型的新版本，在国际AI社区引发关注和讨论。这一发布标志着中国AI公司在大语言模型领域的持续进步。文章探讨了全球AI竞争格局的变化及其影响。",
+        "en": "Chinese company Moonshot AI released a new version of its Kimi model, drawing attention and debate in the international AI community. This release signals continued progress from Chinese AI companies in the large language model space. The article explores the shifting dynamics of global AI competition."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "tags": [
+        "LLM",
+        "Moonshot AI",
+        "Kimi",
+        "AI Competition"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000"
+    },
+    {
+      "id": "hmdnyd49ix",
+      "title": {
+        "zh": "月之暗面开源Kimi K3模型，智谱ARR达10亿美元半年增长15倍",
+        "en": "Moonshot AI Open-Sources Kimi K3, Zhipu Reaches $1B ARR with 15x Growth"
+      },
+      "summary": {
+        "zh": "月之暗面正式推出开源模型Kimi K3，进一步降低开发者使用门槛。同时，智谱AI的年化收入（ARR）已达到10亿美元，半年内增长了15倍，展现了中国AI公司的强劲增长势头。这些里程碑反映了国内大模型生态的蓬勃发展。",
+        "en": "Moonshot AI officially released the open-source Kimi K3 model, further lowering barriers for developers. Meanwhile, Zhipu AI's annual recurring revenue has reached $1B with 15x growth in half a year, demonstrating strong momentum from Chinese AI companies. These milestones reflect the thriving domestic large model ecosystem."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3900449325287305",
+      "tags": [
+        "LLM",
+        "Open Source",
+        "Moonshot AI",
+        "Zhipu"
+      ]
+    },
+    {
+      "id": "zdgbdwfa6cc",
+      "title": {
+        "zh": "2026最受投资人关注AI/具身智能企业50榜单揭晓",
+        "en": "2026 Top 50 AI/Embodied Intelligence Companies for Investors Revealed"
+      },
+      "summary": {
+        "zh": "中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿。36氪研究院发布了最受投资人关注的AI和具身智能企业50强榜单，涵盖人形机器人、具身智能等前沿领域。该榜单反映了资本对AI硬件落地的强烈信心。",
+        "en": "China's embodied intelligence market has grown from 213.3B yuan in 2018 to 915B yuan in 2025, expected to exceed 1 trillion in 2026. 36Kr Research released the Top 50 AI and embodied intelligence companies for investors, covering humanoid robotics and embodied AI. The list reflects strong capital confidence in AI hardware commercialization."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3899597215745664",
+      "tags": [
+        "Robotics",
+        "Embodied AI",
+        "Investment",
+        "Humanoid"
+      ]
+    },
+    {
+      "id": "blc171c9kh",
+      "title": {
+        "zh": "港科大博士创业做机器人全身触觉系统，红杉瓴智智元共同押注",
+        "en": "HKUST PhD Startup Builds Robot Tactile Sensing System, Backed by Sequoia and Zhiyuan"
+      },
+      "summary": {
+        "zh": "模感科技（MoSense）完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。公司聚焦机器人全身多模态触觉感知系统研发，成立仅一个月便获得头部基金和人形机器人厂商的投资。这反映了具身智能赛道的热度和资本对机器人感知技术的看好。",
+        "en": "MoSense completed a multi-million angel round with backing from Sequoia China, Hillhouse Capital, and Zhiyuan Robotics. The company focuses on whole-body multimodal tactile sensing systems for robots and secured investment just one month after founding. This reflects the heat in embodied intelligence and capital confidence in robot perception technology."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://36kr.com/p/3899128277452681",
+      "tags": [
+        "Robotics",
+        "Tactile Sensing",
+        "Startup",
+        "Embodied AI"
+      ]
+    },
+    {
+      "id": "iwbxd9",
+      "title": {
+        "zh": "AI代理频繁配额重置背后的技术原因探讨",
+        "en": "Exploring the Technical Reasons Behind AI Agent Weekly Quota Resets"
+      },
+      "summary": {
+        "zh": "开发者社区讨论了近期AI代理服务频繁出现每周配额重置的现象。文章分析了这背后可能的技术和商业模式原因，包括资源分配、用户行为管理和成本控制等因素。这对依赖AI代理进行开发的工程师具有重要参考价值。",
+        "en": "The developer community discusses the recent phenomenon of frequent weekly quota resets in AI agent services. The article analyzes potential technical and business model reasons, including resource allocation, user behavior management, and cost control. This is valuable for engineers who rely on AI agents for development workflows."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "tags": [
+        "AI Agents",
+        "API",
+        "Developer Tools",
+        "LLM"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 19:06:23 +0000"
+    },
+    {
+      "id": "73vrm",
+      "title": {
+        "zh": "旧金山要求苹果谷歌下架AI脱衣应用",
+        "en": "San Francisco Orders Apple, Google to Remove AI Nudify Apps from App Stores"
+      },
+      "summary": {
+        "zh": "旧金山当局要求苹果和谷歌从应用商店中移除AI脱衣应用，估计两家公司从这些应用中获得了数百万美元的收入。这一举措反映了监管部门对AI生成有害内容的日益关注。这可能成为AI应用监管的重要先例。",
+        "en": "San Francisco authorities have ordered Apple and Google to remove AI nudify apps from their app stores, estimating the companies made millions in fees. This move reflects growing regulatory attention to AI-generated harmful content. It could become an important precedent for AI application regulation."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "tags": [
+        "AI Policy",
+        "App Store",
+        "Content Moderation",
+        "Ethics"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 16:10:05 +0000"
+    },
+    {
+      "id": "cgpz6x",
+      "title": {
+        "zh": "纽约市长：房东不得使用AI生成图像进行房产广告",
+        "en": "NYC Mayor: Landlords Cannot Secretly Use AI Images to Advertise Properties"
+      },
+      "summary": {
+        "zh": "纽约市长宣布房东不得在房产广告中秘密使用AI生成的图像。这项政策旨在保护消费者免受虚假房产宣传的欺骗。这反映了地方政府对AI技术滥用的监管趋势正在加速。",
+        "en": "The NYC mayor announced that landlords cannot secretly use AI-generated images in property advertisements. This policy aims to protect consumers from false property representations. It reflects accelerating regulatory trends at the local level against AI technology misuse."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "tags": [
+        "AI Regulation",
+        "Computer Vision",
+        "Policy",
+        "Ethics"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 22:13:39 +0000"
+    },
+    {
+      "id": "3cvvle",
+      "title": {
+        "zh": "Vertu推出6880美元AI助手手机，实测表现如何",
+        "en": "Vertu's $6,880 AI Agent Phone: How It Actually Performs in Practice"
+      },
+      "summary": {
+        "zh": "奢侈品牌Vertu推出售价6880美元的AI助手折叠手机，主打AI工作流和企业级安全功能。评测涵盖了AI功能的实际表现、电池续航和安全性等方面。这反映了高端市场对AI集成设备的探索。",
+        "en": "Luxury brand Vertu launched a $6,880 AI agent foldable phone targeting executives with AI workflows and enterprise security. The review covers real-world AI performance, battery life, and security features. This reflects the premium market's exploration of AI-integrated devices."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "tags": [
+        "AI Agent",
+        "Smartphone",
+        "Product Review",
+        "Luxury Tech"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000"
+    }
+  ]
+}
