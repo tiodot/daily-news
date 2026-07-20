@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-20",
+  "articles": [
+    {
+      "id": "jpxvzl",
+      "title": {
+        "zh": "Netflix以5.87亿美元收购Ben Affleck的AI电影制作初创公司",
+        "en": "Netflix Pays $587M for Ben Affleck's AI Filmmaking Startup"
+      },
+      "summary": {
+        "zh": "Netflix披露以5.87亿美元现金收购了由Ben Affleck联合创立的InterPositive公司。此举标志着娱乐行业对AI技术在内容创作和电影制作中应用的进一步投资。",
+        "en": "Netflix revealed it acquired InterPositive, co-founded by Ben Affleck, for $587 million in cash. This move signifies further investment by the entertainment industry in AI technology for content creation and filmmaking."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "tags": [
+        "AI",
+        "Netflix",
+        "Filmmaking",
+        "Acquisition"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 21:45:00 +0000"
+    },
+    {
+      "id": "cv8hm4",
+      "title": {
+        "zh": "黄仁勋日本之行后的看点",
+        "en": "What to Watch for After Jensen Huang’s Japan Visit"
+      },
+      "summary": {
+        "zh": "NVIDIA首席执行官黄仁勋离开东京时，已与日本整个科技生态系统达成了多项合作。这些交易可能涉及AI芯片、数据中心和机器人等领域的深度合作，将影响亚洲乃至全球的AI产业格局。",
+        "en": "NVIDIA CEO Jensen Huang left Tokyo having secured deals spanning Japan's entire tech ecosystem. These deals likely involve deep collaborations in AI chips, data centers, and robotics, impacting the AI industry landscape in Asia and globally."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "AI Chips",
+        "Japan"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 21:16:07 +0000"
+    },
+    {
+      "id": "ra6z6y",
+      "title": {
+        "zh": "苹果诉讼能否破坏OpenAI的硬件计划？",
+        "en": "Can an Apple Lawsuit Derail OpenAI’s Hardware Plans?"
+      },
+      "summary": {
+        "zh": "本期播客讨论了苹果的诉讼是否会影响OpenAI备受瞩目的硬件开发和公开上市计划。这凸显了AI巨头在拓展业务边界时可能面临的法律和知识产权挑战。",
+        "en": "This podcast episode debates whether Apple's lawsuit will cast a shadow over OpenAI's plans to enter hardware and go public. It highlights the potential legal and IP challenges AI giants face when expanding their business."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "Lawsuit",
+        "Hardware"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000"
+    },
+    {
+      "id": "9d0jq5",
+      "title": {
+        "zh": "TechCrunch出行专栏：围绕自动驾驶出租车规则的博弈",
+        "en": "TechCrunch Mobility: The Battle Over Robotaxi Rules"
+      },
+      "summary": {
+        "zh": "本期专栏聚焦于自动驾驶出租车领域的规则制定之争，以及AI在交通未来中日益重要的作用。文章探讨了技术发展与法规监管之间的紧张关系。",
+        "en": "This column focuses on the battle over rule-making in the robotaxi space and the increasingly important role of AI in the future of transportation. It explores the tension between technological advancement and regulatory oversight."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "tags": [
+        "Autonomous Driving",
+        "Robotaxi",
+        "Regulation",
+        "AI"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 16:05:00 +0000"
+    },
+    {
+      "id": "oi8xqi",
+      "title": {
+        "zh": "非营利组织Current AI正竞相构建一个面向所有人的AI万维网",
+        "en": "Nonprofit Current AI Is Racing to Build the World Wide Web of AI, Free for All"
+      },
+      "summary": {
+        "zh": "非营利组织Current AI致力于构建一个不让任何文化掉队的AI系统，并在设备、AI聊天等多个领域取得显著进展。其目标是创建一个开放、普惠的AI基础设施。",
+        "en": "The nonprofit Current AI, building AI that leaves no culture behind, has made remarkable progress across devices and AI chat. Its goal is to create an open and inclusive AI infrastructure."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "tags": [
+        "Open Source",
+        "AI",
+        "Nonprofit",
+        "Inclusive AI"
+      ],
+      "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000"
+    },
+    {
+      "id": "kz9tut",
+      "title": {
+        "zh": "Kimi：威胁还是公敌？",
+        "en": "Kimi: Threat or Menace?"
+      },
+      "summary": {
+        "zh": "中国公司月之暗面（Moonshot AI）本周发布了其Kimi模型的新版本，引发了关于“全面AI共产主义”的担忧。文章探讨了这一新兴AI模型的技术实力及其可能引发的地缘政治讨论。",
+        "en": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about 'full AI communism.' The article explores the technical capabilities of this emerging AI model and the geopolitical discussions it may spark."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "tags": [
+        "Kimi",
+        "Moonshot AI",
+        "LLM",
+        "China"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000"
+    },
+    {
+      "id": "l969in",
+      "title": {
+        "zh": "AI将修复还是恶化保险预授权流程？",
+        "en": "Will AI Fix Prior Authorization—or Make It Worse?"
+      },
+      "summary": {
+        "zh": "政府正在试点一个使用AI进行保险覆盖决策的项目，旨在优化繁琐的预授权流程。这引发了关于AI在医疗行政系统中的应用是提升效率还是带来新风险的讨论。",
+        "en": "The government is piloting a program that uses AI for insurance-coverage decisions to optimize the cumbersome prior authorization process. This raises discussions about whether AI in healthcare administration improves efficiency or introduces new risks."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "tags": [
+        "AI",
+        "Healthcare",
+        "Insurance",
+        "Automation"
+      ],
+      "publishedAt": "Sat, 18 Jul 2026 11:18:25 +0000"
+    },
+    {
+      "id": "xbujfb",
+      "title": {
+        "zh": "AI时代的记分卡",
+        "en": "A Scorecard for the AI Age"
+      },
+      "summary": {
+        "zh": "OpenAI首席财务官Sarah Friar提出了一套实用的AI记分卡，通过有用工作、单次成功任务成本、可靠性和计算回报来衡量AI的投资回报率。这为企业评估和管理AI项目提供了新的量化框架。",
+        "en": "OpenAI CFO Sarah Friar introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute. This provides enterprises with a new quantitative framework for evaluating and managing AI projects."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "tags": [
+        "OpenAI",
+        "ROI",
+        "AI Investment",
+        "Metrics"
+      ],
+      "publishedAt": "Fri, 17 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "6hmzwi",
+      "title": {
+        "zh": "GPT-Red：通过自我博弈实现鲁棒性自我改进",
+        "en": "GPT-Red: Unlocking Self-Improvement for Robustness"
+      },
+      "summary": {
+        "zh": "介绍了OpenAI的自动化红队测试系统GPT-Red，该系统利用自我博弈来提升AI的安全性、对齐性和对抗提示注入的鲁棒性。这是AI安全研究自动化的重要一步。",
+        "en": "Introduces GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness. This represents a significant step towards automation in AI safety research."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Red Teaming",
+        "Automation"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "qnjctw",
+      "title": {
+        "zh": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”拓展业务",
+        "en": "RedBear AI Completes Billion-Yuan A+ Round, Expanding Business Based on AI 'Memory Science'"
+      },
+      "summary": {
+        "zh": "红熊AI宣布完成数亿元A+轮融资，投后估值近30亿元，资金将用于深化AI记忆科学基础研究并加速其通用大模型与记忆系统的融合。该公司正从To B服务向To C应用拓展，覆盖智能客服等多个领域。",
+        "en": "RedBear AI announced the completion of a multi-hundred-million-yuan A+ round of financing, valuing the company at nearly 3 billion yuan. The funds will be used to deepen basic research in AI memory science and accelerate the integration of its general model with memory systems."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899612612494976?f=rss",
+      "tags": [
+        "AI",
+        "Startup",
+        "Funding",
+        "Memory Science"
+      ],
+      "publishedAt": "2026-07-20 09:00:00  +0800"
+    }
+  ]
+}
