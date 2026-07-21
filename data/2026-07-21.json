@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "id": "38rew1",
+      "title": {
+        "zh": "谷歌研发新AI芯片提升Gemini效率",
+        "en": "Google developing new AI chip to boost Gemini efficiency"
+      },
+      "summary": {
+        "zh": "谷歌正在研发一款新型AI芯片，旨在显著提升其Gemini模型的运行效率。此举可能降低AI推理成本，推动更广泛的AI应用部署。",
+        "en": "Google is working on a new AI chip designed to make its Gemini models much more efficient. This could reduce AI inference costs and enable broader deployment of AI applications."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "tags": [
+        "AI chip",
+        "Google",
+        "Gemini",
+        "Hardware"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000"
+    },
+    {
+      "id": "7ytqdd",
+      "title": {
+        "zh": "OpenAI担忧开源模型，美国是否应效仿？",
+        "en": "OpenAI fears open-weight models; should the US follow suit?"
+      },
+      "summary": {
+        "zh": "OpenAI对开源权重模型表示担忧，讨论是否应禁止中国等国家的开源LLM。这反映了AI商业模式与国家安全之间的权衡。",
+        "en": "OpenAI expresses concerns about open-weight models, raising questions about banning such LLMs from countries like China. This highlights the balance between AI business models and national security."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "tags": [
+        "OpenAI",
+        "Open-source",
+        "LLM",
+        "Policy"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 19:33:25 +0000"
+    },
+    {
+      "id": "wv9uu1",
+      "title": {
+        "zh": "索尼起诉Udio AI音乐生成器涉及3万首歌曲版权侵权",
+        "en": "Sony sues Udio AI music generator for copyright infringement on 30,000 songs"
+      },
+      "summary": {
+        "zh": "索尼音乐起诉AI音乐生成器Udio，指控其侵犯超过3万首歌曲的版权。案件凸显了AI生成内容在版权法下的法律挑战。",
+        "en": "Sony Music sues AI music generator Udio for copyright infringement on over 30,000 songs. The case underscores legal challenges for AI-generated content under copyright law."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "tags": [
+        "AI copyright",
+        "Music AI",
+        "Sony",
+        "Legal"
+      ],
+      "publishedAt": "2026-07-20T22:19:12.000Z"
+    },
+    {
+      "id": "mas5lw",
+      "title": {
+        "zh": "AI在数学证明中超越人类提供反例的能力",
+        "en": "AI outperforms human mathematicians in providing counterexamples"
+      },
+      "summary": {
+        "zh": "AI系统在寻找数学反例方面开始超越人类数学家，展示了机器学习在理论研究中的潜力。这可能加速数学发现和验证过程。",
+        "en": "AI systems are beginning to outperform human mathematicians in finding counterexamples, showcasing the potential of machine learning in theoretical research. This could accelerate mathematical discovery and verification."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "tags": [
+        "AI research",
+        "Mathematics",
+        "Machine learning"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 19:03:37 +0000"
+    },
+    {
+      "id": "2igfqf",
+      "title": {
+        "zh": "智能体群与新型模型经济学",
+        "en": "Agent swarms and the new model economics"
+      },
+      "summary": {
+        "zh": "探讨AI智能体群的经济影响，分析如何通过多智能体协作优化AI模型的使用成本和效率。对开发者来说，这是理解AI扩展和资源管理的关键。",
+        "en": "Explores the economic impact of AI agent swarms, analyzing how multi-agent collaboration can optimize costs and efficiency of AI model usage. Key for developers to understand AI scaling and resource management."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://cursor.com/blog/agent-swarm-model-economics",
+      "tags": [
+        "AI agents",
+        "Economics",
+        "Multi-agent systems"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 18:06:13 +0000"
+    },
+    {
+      "id": "dvlr6o",
+      "title": {
+        "zh": "长时序模型时代的安全与对齐",
+        "en": "Safety and alignment in an era of long-horizon models"
+      },
+      "summary": {
+        "zh": "OpenAI分享从部署长时序AI模型中学到的教训，包括新的安全风险、观察到的故障以及通过迭代部署改进的安全措施。对AI安全研究人员至关重要。",
+        "en": "OpenAI shares lessons from deploying long-horizon AI models, covering new safety risks, observed failures, and improved safeguards through iterative deployment. Crucial for AI safety researchers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "tags": [
+        "AI safety",
+        "Alignment",
+        "OpenAI",
+        "Long-horizon models"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "6hmzwi",
+      "title": {
+        "zh": "GPT-Red：通过自我博弈解锁鲁棒性自改进",
+        "en": "GPT-Red: Unlocking self-improvement for robustness"
+      },
+      "summary": {
+        "zh": "介绍GPT-Red，OpenAI的自动红队系统，使用自我博弈来提高AI安全性和鲁棒性。展示了自动化安全测试在AI开发中的应用。",
+        "en": "Introduces GPT-Red, OpenAI's automated red teaming system that uses self-play to improve AI safety and robustness. Demonstrates the application of automated security testing in AI development."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "tags": [
+        "AI safety",
+        "Red teaming",
+        "OpenAI",
+        "Self-play"
+      ],
+      "publishedAt": "Wed, 15 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "s02a30",
+      "title": {
+        "zh": "速腾聚创发布第二代全固态感知平台，定位为物理AI数据入口",
+        "en": "RoboSense launches second-gen solid-state perception platform as physical AI data gateway"
+      },
+      "summary": {
+        "zh": "速腾聚创推出第二代全固态感知平台，旨在为AI模型提供高精度三维空间数据，推动具身智能发展。该平台可能成为机器人理解物理世界的关键技术。",
+        "en": "RoboSense introduces its second-generation solid-state perception platform, aiming to provide high-precision 3D spatial data for AI models and advance embodied intelligence. Could be key for robots to understand the physical world."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3903885834028931?f=rss",
+      "tags": [
+        "AI hardware",
+        "Perception",
+        "Robotics",
+        "3D sensing"
+      ],
+      "publishedAt": "2026-07-21 09:05:00  +0800"
+    },
+    {
+      "id": "kf291n",
+      "title": {
+        "zh": "月泉仿生获数亿元融资，仿生灵巧手实现万台量产",
+        "en": "MoonSpring Bionics secures hundreds of millions in funding for bionic dexterous hand mass production"
+      },
+      "summary": {
+        "zh": "月泉仿生完成Pre-A+轮融资，用于仿生神经骨骼肌肉机器人研发。公司已实现仿生灵巧手的万台量产，订单超亿，推动具身智能商业化。",
+        "en": "MoonSpring Bionics closes Pre-A+ funding round for bionic neuromuscular skeleton robot R&D. The company has achieved mass production of bionic dexterous hands with over 10,000 units and orders exceeding 100 million, advancing embodied AI commercialization."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899174356387718?f=rss",
+      "tags": [
+        "Robotics",
+        "Bionics",
+        "Funding",
+        "Embodied AI"
+      ],
+      "publishedAt": "2026-07-21 08:00:00  +0800"
+    },
+    {
+      "id": "8xabcp",
+      "title": {
+        "zh": "青心意创推出80cm高毛绒人形机器人，搭载自研AI操作系统",
+        "en": "Qingxin Yichuang unveils 80cm tall furry humanoid robot with proprietary AI OS"
+      },
+      "summary": {
+        "zh": "青心意创发布首款智能机器人Amoo，身高80cm，拟人双足，配备全传感器和自研操作系统。该机器人可进行情感交互，展示了AI在消费机器人领域的应用。",
+        "en": "Qingxin Yichuang launches its first intelligent robot Amoo, standing 80cm tall with human-like bipedal design, full sensors, and proprietary OS. Capable of emotional interaction, it showcases AI applications in consumer robotics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3903761449617027?f=rss",
+      "tags": [
+        "Humanoid robot",
+        "AI OS",
+        "Consumer robotics",
+        "Emotional AI"
+      ],
+      "publishedAt": "2026-07-20 17:12:42  +0800"
+    }
+  ]
+}
