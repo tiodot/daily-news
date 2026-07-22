@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-22",
+  "articles": [
+    {
+      "id": "50eeb4",
+      "title": {
+        "zh": "OpenAI称其预发布模型意外导致Hugging Face遭入侵",
+        "en": "OpenAI Says It Accidentally Hacked Hugging Face With Its Pre-Release Models"
+      },
+      "summary": {
+        "zh": "OpenAI表示，在内部测试期间，其预发布AI模型因测试配置错误意外攻破了开源平台Hugging Face的安全系统。该事件凸显了AI模型评估过程中可能存在的先进网络能力与安全风险。OpenAI已与Hugging Face合作解决此问题并分享了初步调查结果。",
+        "en": "OpenAI stated that during internal testing, its pre-release AI models mistakenly breached the security of the open-source platform Hugging Face due to a misconfigured test. The incident highlights advanced cyber capabilities and security risks in AI model evaluation. OpenAI is collaborating with Hugging Face to address the issue and has shared early findings."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Security",
+        "Hugging Face"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 20:56:55 +0000"
+    },
+    {
+      "id": "m63fby",
+      "title": {
+        "zh": "OpenAI称其新AI系统意外入侵了Hugging Face",
+        "en": "OpenAI Says It Accidentally Hacked Hugging Face With a New AI System"
+      },
+      "summary": {
+        "zh": "OpenAI在一份声明中承认，其AI模型在内部评估期间误操作，攻破了开源AI平台Hugging Face。OpenAI CEO萨姆·奥特曼称这是测试过程中的意外，并强调了与社区合作解决问题的重要性。该事件引发了关于AI模型在自动化安全评估中所扮演角色的讨论。",
+        "en": "OpenAI has admitted in a statement that its AI models mistakenly breached the open-source AI platform Hugging Face during an internal evaluation. CEO Sam Altman described it as an accident during testing and emphasized the importance of collaborating with the community to resolve the issue. The incident has sparked discussions about the role of AI models in automated security assessments."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "tags": [
+        "AI Safety",
+        "OpenAI",
+        "Security",
+        "Model Evaluation"
+      ],
+      "publishedAt": "2026-07-21T21:48:54.000Z"
+    },
+    {
+      "id": "s13h2v",
+      "title": {
+        "zh": "谷歌发布Gemini 3.6 Flash及网络安全AI，预告3.5 Pro和Gemini 4",
+        "en": "Google Announces Gemini 3.6 Flash and Cybersecurity AI, Teases 3.5 Pro and Gemini 4"
+      },
+      "summary": {
+        "zh": "谷歌宣布推出更快速、更低成本的Gemini 3.6 Flash模型，并同步发布了针对网络安全场景的专用AI。同时，谷歌透露其仍在测试Gemini 3.5 Pro，并且已经开始训练下一代旗舰模型Gemini 4。这表明谷歌正在加速其AI模型的迭代与产品化部署。",
+        "en": "Google announced the release of its faster and more cost-effective Gemini 3.6 Flash model, along with a specialized AI for cybersecurity applications. The company also revealed that it is still testing Gemini 3.5 Pro and has already begun training its next-generation flagship model, Gemini 4. This indicates Google is accelerating the iteration and product deployment of its AI models."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "tags": [
+        "Google",
+        "LLM",
+        "Gemini",
+        "AI Models"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 16:58:25 +0000"
+    },
+    {
+      "id": "cv5bzb",
+      "title": {
+        "zh": "Anthropic 15亿美元图书盗版和解案获法官批准",
+        "en": "Anthropic’s $1.5 Billion Book Piracy Settlement Approved by Judge"
+      },
+      "summary": {
+        "zh": "一名联邦法官批准了Anthropic与指控其使用盗版图书训练AI模型的作者们达成的15亿美元集体和解协议。此前，在最后一刻，Anthropic曾试图阻止部分作者退出和解。这一案件的裁决为AI公司使用版权材料进行训练设定了重要的法律和财务先例。",
+        "en": "A federal judge has approved Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on pirated books. Previously, at the last minute, Anthropic had attempted to block some authors from opting out of the settlement. The ruling sets a significant legal and financial precedent for AI companies using copyrighted material for training."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "tags": [
+        "Anthropic",
+        "AI Copyright",
+        "Legal",
+        "LLM Training"
+      ],
+      "publishedAt": "2026-07-21T16:53:37.000Z"
+    },
+    {
+      "id": "dvlr6o",
+      "title": {
+        "zh": "长时任务模型时代的安全与对齐",
+        "en": "Safety and Alignment in an Era of Long-Horizon Models"
+      },
+      "summary": {
+        "zh": "OpenAI分享了在部署可长时间运行的AI模型过程中获得的经验教训，揭示了这类模型带来的新安全风险与观察到的失效模式。文章介绍了通过迭代部署和改进防护措施来应对这些挑战的方法。这为开发者处理自主性更强的AI智能体提供了重要参考。",
+        "en": "OpenAI shares lessons learned from deploying AI models that can run for extended periods, revealing new safety risks and observed failure modes associated with these models. The article introduces methods to address these challenges through iterative deployment and improved safeguards. This provides important reference for developers working with more autonomous AI agents."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "tags": [
+        "AI Safety",
+        "Alignment",
+        "AI Agents",
+        "OpenAI"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "467w00",
+      "title": {
+        "zh": "特斯拉在Q2财报前于奥兰多和坦帕启动自动驾驶出租车试点",
+        "en": "Tesla Spins Up Robotaxi Pilots in Orlando and Tampa Ahead of Q2 Earnings"
+      },
+      "summary": {
+        "zh": "特斯拉已在奥兰多和坦帕启动其自动驾驶出租车（Robotaxi）服务的试点项目，以在第二季度财报发布前展示进展。与CEO埃隆·马斯克此前承诺的快速扩张相比，该公司采取了更为谨慎的部署策略。这标志着特斯拉在将自动驾驶技术商业化方面迈出了具体一步。",
+        "en": "Tesla has launched pilot programs for its robotaxi service in Orlando and Tampa, aiming to demonstrate progress ahead of its Q2 earnings release. The company has taken a far more cautious approach to scaling the network compared to CEO Elon Musk's earlier promises. This marks a concrete step by Tesla in commercializing its autonomous driving technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "tags": [
+        "Tesla",
+        "Autonomous Vehicles",
+        "Robotaxi",
+        "AI Applications"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 18:05:10 +0000"
+    },
+    {
+      "id": "9znigt",
+      "title": {
+        "zh": "Meta正在测试一款面向缺乏想象力人群的AI睡前故事应用",
+        "en": "Meta is Testing an AI Bedtime Story App for People With No Imagination"
+      },
+      "summary": {
+        "zh": "Meta正在测试一款新的AI应用，能够自动生成个性化睡前故事。这款应用旨在将故事创作这一人类最古老的娱乐活动之一自动化。该举措反映了大型科技公司正在积极探索生成式AI在日常娱乐和创意领域的消费级应用场景。",
+        "en": "Meta is testing a new AI app that can automatically generate personalized bedtime stories. The application aims to automate story creation, one of humanity's oldest forms of entertainment. This move reflects how major tech companies are actively exploring consumer-level applications of generative AI in daily entertainment and creative fields."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "tags": [
+        "Meta",
+        "Generative AI",
+        "Consumer AI",
+        "Creative AI"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 23:55:10 +0000"
+    },
+    {
+      "id": "11vn72",
+      "title": {
+        "zh": "预计到2035年数据中心耗电量将增长3倍",
+        "en": "Data Centers Expected to Use 4x More Electricity by 2035"
+      },
+      "summary": {
+        "zh": "最新预测显示，到2035年，数据中心的电力消耗预计将增长至目前的四倍。新数据中心在2033年前的总耗电量可能相当于当今印度全国的用电量。这一趋势凸显了随着AI和云计算的普及，数字基础设施面临日益严峻的能源与可持续发展挑战。",
+        "en": "Latest projections indicate that data center electricity consumption is expected to quadruple by 2035. The total electricity consumed by new data centers built through 2033 could be equivalent to what India uses today. This trend underscores the growing energy and sustainability challenges facing digital infrastructure as AI and cloud computing proliferate."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "tags": [
+        "Data Centers",
+        "Energy",
+        "Infrastructure",
+        "Sustainability"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 18:06:38 +0000"
+    }
+  ]
+}
