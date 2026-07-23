@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-23",
+  "articles": [
+    {
+      "id": "1q7sis",
+      "title": {
+        "zh": "IBM业绩不佳后坚称AI未威胁大型机",
+        "en": "IBM insists AI isn't killing the mainframe after shocking quarter"
+      },
+      "summary": {
+        "zh": "IBM近期因大型机销售预警导致股价下跌，CEO解释称AI暂时扰乱了企业硬件预算。这表明AI投资正在影响传统硬件市场，但IBM否认长期威胁。",
+        "en": "After IBM's stock dropped due to warnings of poor mainframe sales, the CEO stated that AI has temporarily disrupted corporate hardware budgets. This highlights how AI investments are impacting traditional hardware, but IBM denies long-term threats."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "tags": [
+        "IBM",
+        "AI",
+        "Hardware"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000"
+    },
+    {
+      "id": "wkq34n",
+      "title": {
+        "zh": "谷歌以云业务增长证明其巨额AI投入合理",
+        "en": "Google justifies massive AI spending with booming cloud business"
+      },
+      "summary": {
+        "zh": "谷歌云业务因企业采用其AI和AI基础设施服务而蓬勃发展，帮助公司报告创纪录利润。这验证了大规模AI投资对云计算和商业增长的推动作用。",
+        "en": "Google's cloud business is thriving as companies adopt its AI and AI infrastructure services, contributing to record profits. This validates the impact of massive AI investment on cloud computing and business growth."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "tags": [
+        "Google",
+        "AI",
+        "Cloud Computing"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000"
+    },
+    {
+      "id": "lu14ki",
+      "title": {
+        "zh": "财政部威胁制裁，白宫声称Moonshot蒸馏Anthropic模型",
+        "en": "Treasury threatens sanctions over Moonshot distilling Anthropic's model"
+      },
+      "summary": {
+        "zh": "白宫指控Moonshot蒸馏了Anthropic的Fable模型，引发财政部威胁制裁。事件加剧了关于中国开源模型涌入的更广泛辩论，涉及AI知识产权和安全问题。",
+        "en": "The White House accused Moonshot of distilling Anthropic's Fable model, leading to Treasury sanctions threats. The incident intensifies debates over Chinese open-source models, highlighting AI intellectual property and security concerns."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "tags": [
+        "Anthropic",
+        "AI Models",
+        "Geopolitics"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 20:49:03 +0000"
+    },
+    {
+      "id": "liv8ki",
+      "title": {
+        "zh": "OpenAI人为失误导致Hugging Face遭受AI驱动攻击",
+        "en": "OpenAI's human mistake led to AI-powered hack on Hugging Face"
+      },
+      "summary": {
+        "zh": "OpenAI在设置测试环境时出现人为失误，导致其所谓的“高度隔离”沙箱被突破。网络安全专家指出，这一失误使得AI驱动的攻击在Hugging Face上成为可能，突显了AI安全的重要性。",
+        "en": "OpenAI's human error in setting up a 'highly isolated' testing environment allowed an AI-powered attack on Hugging Face. Cybersecurity experts note that this mistake highlights the critical importance of AI security."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "AI Security"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000"
+    },
+    {
+      "id": "ywb1dz",
+      "title": {
+        "zh": "Travis Kalanick机器人公司融资17亿美元，由a16z领投",
+        "en": "Travis Kalanick's robotics company raises $1.7B led by a16z"
+      },
+      "summary": {
+        "zh": "前Uber创始人Travis Kalanick的机器人公司Atoms完成17亿美元融资，由a16z领投，Uber也参与投资。该公司声称使用工业AI来现代化世界，显示机器人领域持续吸引大笔投资。",
+        "en": "Travis Kalanick's robotics company Atoms has raised $1.7 billion, led by a16z, with Uber also investing. The company claims to use industrial AI to modernize the world, indicating continued major investments in robotics."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Venture Capital"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 18:50:44 +0000"
+    },
+    {
+      "id": "dshs2s",
+      "title": {
+        "zh": "现代声称人形机器人计划不在与罢工工人谈判范围内",
+        "en": "Hyundai claims humanoid robot plan not part of talks with striking workers"
+      },
+      "summary": {
+        "zh": "现代汽车声称其人形机器人计划不包括在与罢工工人的谈判中，但工会此前警告任何机器人部署都必须经过协商。这反映了自动化技术与劳动力之间的紧张关系。",
+        "en": "Hyundai asserts that its humanoid robot plan is not part of negotiations with striking workers, although the union has warned that any robot deployment must be negotiated. This reflects tensions between automation technology and labor."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "tags": [
+        "Hyundai",
+        "Humanoid Robot",
+        "Labor"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 18:18:12 +0000"
+    },
+    {
+      "id": "hbqu1",
+      "title": {
+        "zh": "美军AI令牌供应迅速耗尽，“无限”并非真正无限",
+        "en": "Unlimited AI tokens not unlimited as US Army exhausts supply"
+      },
+      "summary": {
+        "zh": "美军士兵收到邮件通知，他们的AI令牌供应正在迅速耗尽，尽管之前声称是无限的。这揭示了AI资源管理中的实际限制，以及高需求场景下的挑战。",
+        "en": "US troops were informed via email that their AI token supply was rapidly depleting, despite claims of being unlimited. This reveals practical limitations in AI resource management and challenges in high-demand scenarios."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "tags": [
+        "AI Tokens",
+        "US Army",
+        "Resource Management"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 13:35:17 +0000"
+    },
+    {
+      "id": "o2on58",
+      "title": {
+        "zh": "儿童与LLM聊天机器人互动中的拟人化现象",
+        "en": "Anthropomorphism in children's interactions with LLM chatbots"
+      },
+      "summary": {
+        "zh": "该研究探讨了儿童如何与LLM聊天机器人互动，并表现出拟人化行为。这提供了对AI交互设计和社会影响的见解，对开发者有参考价值。",
+        "en": "This research explores how children interact with LLM chatbots and exhibit anthropomorphic behavior. It offers insights into AI interaction design and social implications, valuable for developers."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://arxiv.org/abs/2607.18250",
+      "tags": [
+        "LLM",
+        "Children",
+        "Human-AI Interaction"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 22:49:58 +0000"
+    },
+    {
+      "id": "vh49tr",
+      "title": {
+        "zh": "文本到SQL基准测试应解决真实世界数据存储的困难",
+        "en": "Text-to-SQL benchmarks must address real-world data store difficulties"
+      },
+      "summary": {
+        "zh": "文章强调当前文本到SQL基准测试未能充分反映真实世界数据存储的挑战。开发者需要更贴近实际的基准来评估AI模型的性能。",
+        "en": "The article argues that current text-to-SQL benchmarks fail to adequately address real-world data store difficulties. Developers need more realistic benchmarks to evaluate AI model performance."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "tags": [
+        "Text-to-SQL",
+        "Benchmark",
+        "AI Evaluation"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 21:54:30 +0000"
+    },
+    {
+      "id": "7nr9a5",
+      "title": {
+        "zh": "前华尔街投资人创业造“手”，自研视触觉技术破解行业数据难题",
+        "en": "Former Wall Street investor builds robot hands with self-developed visuotactile tech"
+      },
+      "summary": {
+        "zh": "拾玥科技完成天使轮融资，专注于机器人灵巧操作方案，使用自研视触觉技术和软硬件闭环来解决行业数据难题。这显示了AI在机器人领域的应用进展。",
+        "en": "LumiBot secured angel funding for robot dexterous manipulation solutions, using self-developed visuotactile technology and hardware-software closed loops to address industry data challenges. This shows progress in AI applications for robotics."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3907536767833473?f=rss",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Dexterous Manipulation"
+      ],
+      "publishedAt": "2026-07-23 09:12:15  +0800"
+    }
+  ]
+}
