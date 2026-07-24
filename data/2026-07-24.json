@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-24",
+  "articles": [
+    {
+      "id": "8cljuf",
+      "title": {
+        "zh": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "en": "How AI guardrails are impeding the work of offensive cybersecurity researchers"
+      },
+      "summary": {
+        "zh": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "tags": [],
+      "publishedAt": "Fri, 24 Jul 2026 01:00:00 +0000"
+    },
+    {
+      "id": "debiee",
+      "title": {
+        "zh": "Meet the judges who will crown Australia’s next breakout startup",
+        "en": "Meet the judges who will crown Australia’s next breakout startup"
+      },
+      "summary": {
+        "zh": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+        "en": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "tags": [],
+      "publishedAt": "Fri, 24 Jul 2026 00:05:00 +0000"
+    },
+    {
+      "id": "xzbne9",
+      "title": {
+        "zh": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "en": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics"
+      },
+      "summary": {
+        "zh": "Shashua has been invited to take the chairman of the board seat.",
+        "en": "Shashua has been invited to take the chairman of the board seat."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "tags": [],
+      "publishedAt": "Thu, 23 Jul 2026 22:40:08 +0000"
+    },
+    {
+      "id": "16iwqi",
+      "title": {
+        "zh": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "en": "AMD takes on Nvidia with its Helios AI rack-scale system"
+      },
+      "summary": {
+        "zh": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "en": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "tags": [],
+      "publishedAt": "Thu, 23 Jul 2026 20:33:02 +0000"
+    },
+    {
+      "id": "4x4qau",
+      "title": {
+        "zh": "Patreon lays off 20% of its workforce",
+        "en": "Patreon lays off 20% of its workforce"
+      },
+      "summary": {
+        "zh": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+        "en": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "tags": [],
+      "publishedAt": "Thu, 23 Jul 2026 20:30:07 +0000"
+    }
+  ]
+}
