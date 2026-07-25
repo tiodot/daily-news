@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-25",
+  "articles": [
+    {
+      "id": "o2ss8d",
+      "title": {
+        "zh": "Reid Hoffman与Mark Pincus联合创立的新AI实验室Prentis寻求1亿美元融资",
+        "en": "New AI lab Prentis co-founded by Reid Hoffman seeks $100M funding"
+      },
+      "summary": {
+        "zh": "新AI实验室Prentis由Reid Hoffman和Mark Pincus联合创立，正在寻求1亿美元融资。该公司致力于自动化日常计算机任务，认为这将成为AI最大的应用领域。",
+        "en": "Prentis, a new AI lab co-founded by Reid Hoffman and Mark Pincus, is in talks to raise $100 million. The company focuses on automating routine computer tasks, betting that this will outpace coding as AI's biggest use case."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "tags": [
+        "AI Lab",
+        "Startup",
+        "Funding",
+        "Automation"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 22:25:58 +0000"
+    },
+    {
+      "id": "p0thkn",
+      "title": {
+        "zh": "Anthropic发布Opus 5模型，性能接近Fable 5",
+        "en": "Anthropic releases Opus 5 model with near Fable 5 capabilities"
+      },
+      "summary": {
+        "zh": "Anthropic发布了其最新AI模型Opus 5，在性能上接近Fable 5。这一发布紧随OpenAI的安全事件之后，显示了AI模型的快速进步。",
+        "en": "Anthropic has released its newest AI model, Opus 5, with capabilities close to Fable 5. This release comes after an OpenAI security incident, highlighting rapid advancements in AI models."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "tags": [
+        "LLM",
+        "Anthropic",
+        "AI Model"
+      ],
+      "publishedAt": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "id": "whrlri",
+      "title": {
+        "zh": "团队利用AlphaFold AI重新设计基因编辑蛋白质以提高安全性",
+        "en": "Team uses AlphaFold AI to redesign gene-editing proteins for safety"
+      },
+      "summary": {
+        "zh": "研究人员使用Google的AlphaFold AI来识别基因编辑蛋白质中的错误部分，并进行重新设计以提高安全性。这展示了AI在生物技术领域的应用潜力。",
+        "en": "Researchers used Google's AlphaFold AI to identify and redesign parts of gene-editing proteins to make them safer. This demonstrates the potential of AI in biotechnology applications."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "tags": [
+        "AlphaFold",
+        "AI in Biology",
+        "Gene Editing"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 17:31:26 +0000"
+    },
+    {
+      "id": "6n0jrt",
+      "title": {
+        "zh": "AI不按预期行事，这是一个问题",
+        "en": "AIs don't act as intended, which is problematic"
+      },
+      "summary": {
+        "zh": "这篇文章讨论了AI系统不按人类预期行为的问题，强调了AI对齐和安全性的重要性。对于开发者来说，理解这些挑战至关重要。",
+        "en": "This article discusses how AI systems often don't behave as intended, highlighting the importance of AI alignment and safety. For developers, understanding these challenges is crucial."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://rewardhacking.org",
+      "tags": [
+        "AI Safety",
+        "AI Alignment",
+        "Ethics"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 22:24:08 +0000"
+    },
+    {
+      "id": "gbk62b",
+      "title": {
+        "zh": "OpenAI推出Presence企业AI代理平台",
+        "en": "OpenAI introduces Presence enterprise AI agent platform"
+      },
+      "summary": {
+        "zh": "OpenAI推出了Presence，这是一个企业AI代理平台，帮助组织部署语音和聊天代理。该平台旨在支持客户和内部工作流程的自动化。",
+        "en": "OpenAI has launched Presence, an enterprise AI agent platform that helps organizations deploy voice and chat agents. It aims to automate customer and internal workflows."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-openai-presence",
+      "tags": [
+        "AI Agents",
+        "OpenAI",
+        "Enterprise AI"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 05:30:00 GMT"
+    },
+    {
+      "id": "gl0q1e",
+      "title": {
+        "zh": "OpenAI与Hugging Face合作应对模型评估中的安全事件",
+        "en": "OpenAI and Hugging Face partner on security incident during model evaluation"
+      },
+      "summary": {
+        "zh": "OpenAI和Hugging Face分享了在AI模型评估期间发生的安全事件的早期发现。这突显了AI模型的高级网络能力以及对防御者的启示。",
+        "en": "OpenAI and Hugging Face shared early findings from a security incident during AI model evaluation. It highlights advanced cyber capabilities and lessons for defenders."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "tags": [
+        "AI Security",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "dvlr6o",
+      "title": {
+        "zh": "长时域模型时代的安全与对齐",
+        "en": "Safety and alignment in long-horizon AI models"
+      },
+      "summary": {
+        "zh": "OpenAI分享了在部署长时间运行AI模型时的经验教训，强调了新的安全风险和改进的保障措施。对于处理长时域任务的开发者，这些见解非常有价值。",
+        "en": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks and improved safeguards. These insights are valuable for developers working on long-horizon tasks."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "tags": [
+        "AI Safety",
+        "AI Alignment",
+        "Long-horizon Models"
+      ],
+      "publishedAt": "Mon, 20 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "id": "x68tjs",
+      "title": {
+        "zh": "AI面试官：招聘流程中的智能自动化",
+        "en": "AI interviewers: intelligent automation in recruitment"
+      },
+      "summary": {
+        "zh": "AI正在改变招聘流程，例如元企AI推出的超级数字员工可以像同事一样处理招聘任务。这展示了AI在人力资源领域的应用，提高了效率和客观性。",
+        "en": "AI is transforming recruitment processes, with tools like Yuanqi AI's super digital employees handling tasks like screening and interviews. This demonstrates AI applications in HR, improving efficiency and objectivity."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3909499179767169?f=rss",
+      "tags": [
+        "AI in HR",
+        "Automation",
+        "Recruitment"
+      ],
+      "publishedAt": "2026-07-24 18:34:07  +0800"
+    },
+    {
+      "id": "cv8pzv",
+      "title": {
+        "zh": "WAIC 2026回顾：AI技术转向实际场景与商业价值",
+        "en": "WAIC 2026 review: AI shifts to real-world applications and business value"
+      },
+      "summary": {
+        "zh": "2026世界人工智能大会展示了AI叙事重心的变化，从技术展示转向真实场景和系统交付。这反映了AI行业正更加注重商业价值和实际应用。",
+        "en": "The 2026 World Artificial Intelligence Conference showed a shift in AI narrative from technology demos to real-world scenarios and system delivery. It reflects the industry's focus on business value and practical applications."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3909033052722310?f=rss",
+      "tags": [
+        "AI Conference",
+        "WAIC",
+        "AI Trends"
+      ],
+      "publishedAt": "2026-07-24 10:37:12  +0800"
+    },
+    {
+      "id": "rv2pnu",
+      "title": {
+        "zh": "Cognition收购Poke：AI人格成为竞争优势",
+        "en": "Cognition acquires Poke: AI personality as competitive advantage"
+      },
+      "summary": {
+        "zh": "Cognition收购了Poke，以将Poke的对话风格整合到其编程代理Devin中。这表明AI助手的交互方式正变得与其功能一样重要。",
+        "en": "Cognition acquired Poke to integrate its conversational style into the coding agent Devin. This shows that how AI assistants interact with users is becoming as important as their capabilities."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "tags": [
+        "AI Personality",
+        "Cognition",
+        "Acquisition"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 18:07:32 +0000"
+    }
+  ]
+}
