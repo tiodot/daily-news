@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-26",
+  "articles": [
+    {
+      "id": "h500yb",
+      "title": {
+        "zh": "Claude 5 代模型的上下文工程新规则",
+        "en": "Context Engineering Rules for Claude 5 Models"
+      },
+      "summary": {
+        "zh": "这篇文章探讨了Anthropic为Claude 5代模型制定的上下文工程新规则，帮助开发者优化模型性能和效率。它强调了在AI开发中管理上下文的重要性，以提升模型输出质量。",
+        "en": "This blog post discusses new context engineering rules for Claude 5 models, aiding developers in optimizing model performance and efficiency. It highlights the importance of context management in AI development to improve output quality."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "tags": [
+        "LLM",
+        "Anthropic",
+        "Context Engineering"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 20:42:35 +0000"
+    },
+    {
+      "id": "313r2r",
+      "title": {
+        "zh": "Anthropic的Opus 5注重令牌效率而非能力飞跃",
+        "en": "Anthropic's Opus 5 Prioritizes Token Efficiency Over Capability Leap"
+      },
+      "summary": {
+        "zh": "Anthropic发布Opus 5，重点改进令牌效率而非重大能力提升，这反映了AI模型向成本效益方向发展的趋势。开发者可以利用更高效的模型来降低应用成本。",
+        "en": "Anthropic releases Opus 5 with a focus on token efficiency rather than major capability gains, reflecting a trend towards cost-effective AI models. Developers can leverage more efficient models to reduce application costs."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "tags": [
+        "AI Model",
+        "Anthropic",
+        "Efficiency"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 21:05:51 +0000"
+    },
+    {
+      "id": "6luxuo",
+      "title": {
+        "zh": "OpenAI的新AI键盘：对程序员有趣，对其他人略显神秘",
+        "en": "OpenAI's New AI Keypad: Fun for Coders, Mystifying for Others"
+      },
+      "summary": {
+        "zh": "OpenAI推出了一款新的AI键盘，旨在辅助程序员提高编码效率。评测显示它对开发者很有趣，但可能对普通用户来说功能不够直观。",
+        "en": "OpenAI has launched a new AI keypad designed to assist coders in improving coding efficiency. Reviews suggest it's enjoyable for developers but may not be intuitive for general users."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "tags": [
+        "OpenAI",
+        "Developer Tools",
+        "AI Hardware"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000"
+    },
+    {
+      "id": "z5lv4h",
+      "title": {
+        "zh": "Kimi K3 AI在浏览器中构建Windows XP环境",
+        "en": "Kimi K3 AI Builds Windows XP Environment in Browser"
+      },
+      "summary": {
+        "zh": "Kimi K3 AI模型展示了其能力，在浏览器中成功构建了一个功能性的Windows XP环境。这演示了AI在代码生成和模拟方面的先进技能，对开发者有启发意义。",
+        "en": "Kimi K3 AI model demonstrates its capability by building a functional Windows XP environment in a browser. This showcases advanced AI skills in code generation and simulation, offering insights for developers."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://windows-xp.kimi.site/",
+      "tags": [
+        "AI Demo",
+        "Kimi",
+        "Code Generation"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 22:03:22 +0000"
+    },
+    {
+      "id": "8apss9",
+      "title": {
+        "zh": "DeepSeek因泄露关于美国计算差距的言论而暂停融资",
+        "en": "DeepSeek Pauses Fundraising After Leaked Comments on US Compute Gap"
+      },
+      "summary": {
+        "zh": "AI公司DeepSeek在关于与美国计算差距的内部言论泄露后暂停了融资，这凸显了AI基础设施和全球竞争中的挑战。开发者应关注AI算力资源对项目发展的影响。",
+        "en": "AI company DeepSeek pauses fundraising after internal comments about the compute gap with the US were leaked, highlighting challenges in AI infrastructure and global competition. Developers should monitor AI compute resources' impact on project development."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "tags": [
+        "DeepSeek",
+        "AI Funding",
+        "Compute Infrastructure"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 23:32:50 +0000"
+    },
+    {
+      "id": "phknyq",
+      "title": {
+        "zh": "Cloudflare为客户推出新的AI流量管理选项",
+        "en": "Cloudflare Introduces New AI Traffic Management Options"
+      },
+      "summary": {
+        "zh": "Cloudflare推出了新的AI流量管理选项，帮助客户优化AI应用的性能和安全性。这对开发者来说，可以更有效地部署和监控AI服务。",
+        "en": "Cloudflare launches new AI traffic management options to help customers optimize AI application performance and security. This enables developers to more effectively deploy and monitor AI services."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "tags": [
+        "Cloudflare",
+        "AI Infrastructure",
+        "Traffic Management"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 22:50:49 +0000"
+    },
+    {
+      "id": "ii69qr",
+      "title": {
+        "zh": "成为大型LLM实验室研究工程师的指南",
+        "en": "Guide to Becoming a Research Engineer at a Large LLM Lab"
+      },
+      "summary": {
+        "zh": "这篇博客文章提供了成为大型LLM实验室研究工程师的实用建议，包括所需技能和职业发展路径。它帮助开发者了解AI研究领域的就业机会和准备方法。",
+        "en": "This blog post offers practical advice on becoming a Research Engineer at a large LLM lab, covering required skills and career paths. It helps developers understand job opportunities and preparation in the AI research field."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "tags": [
+        "LLM",
+        "Career",
+        "AI Research"
+      ],
+      "publishedAt": "Sat, 25 Jul 2026 21:19:42 +0000"
+    },
+    {
+      "id": "pakrek",
+      "title": {
+        "zh": "OpenAI在ChatGPT中推出健康功能",
+        "en": "OpenAI Launches Health Feature in ChatGPT"
+      },
+      "summary": {
+        "zh": "OpenAI在ChatGPT中引入健康功能，允许美国用户连接医疗记录以获得个性化健康见解。这扩展了AI在医疗保健领域的应用，为开发者提供了新的集成机会。",
+        "en": "OpenAI introduces a Health feature in ChatGPT, enabling U.S. users to connect medical records for personalized health insights. This expands AI's application in healthcare, offering developers new integration opportunities."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/health-in-chatgpt",
+      "tags": [
+        "OpenAI",
+        "Healthcare AI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "id": "gbk62b",
+      "title": {
+        "zh": "介绍OpenAI Presence企业AI代理平台",
+        "en": "Introducing OpenAI Presence, an Enterprise AI Agent Platform"
+      },
+      "summary": {
+        "zh": "OpenAI推出Presence平台，用于在企业工作流中部署可信的AI语音和聊天代理。这为企业开发者提供了自动化客户服务和内部流程的强大工具。",
+        "en": "OpenAI launches Presence, a platform for deploying trusted AI voice and chat agents in enterprise workflows. This provides business developers with powerful tools to automate customer service and internal processes."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-openai-presence",
+      "tags": [
+        "OpenAI",
+        "Enterprise AI",
+        "AI Agents"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 05:30:00 GMT"
+    },
+    {
+      "id": "5i1uya",
+      "title": {
+        "zh": "眸深智能完成近亿元融资，开发端侧具身大脑",
+        "en": "Motion Brain Raises Nearly 100M Yuan for On-Device Embodied AI Brain"
+      },
+      "summary": {
+        "zh": "眸深智能，一家专注于具身AI的公司，完成了近亿元的Pre-A轮融资，用于开发端侧AI大脑。由前英特尔首席科学家联合创立，该项目对机器人和边缘AI开发者具有重要参考价值。",
+        "en": "Motion Brain, an AI company focused on embodied AI, raises nearly 100 million yuan in Pre-A funding to develop on-device AI brains. Co-founded by a former Intel chief scientist, it offers significant insights for robotics and edge AI developers."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3911162147640456?f=rss",
+      "tags": [
+        "AI Robotics",
+        "Embodied AI",
+        "Funding"
+      ],
+      "publishedAt": "2026-07-26 09:00:00  +0800"
+    }
+  ]
+}
