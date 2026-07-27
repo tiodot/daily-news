@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-27",
+  "articles": [
+    {
+      "id": "5pt5mx",
+      "title": {
+        "zh": "脑电波：物理AI的下一个突破口？",
+        "en": "Are Brain Waves the Next Unlock for Physical AI?"
+      },
+      "summary": {
+        "zh": "物理AI模型需要多角度摄像头数据和密集注释，未来可能还需脑电波读数。这为AI在真实世界交互中提供了新的数据维度，推动机器人感知技术发展。",
+        "en": "Physical AI models require multiple camera angles and dense annotation, and soon may need brain wave readings. This offers a new data dimension for AI interacting in the real world, advancing robotic perception technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "tags": [
+        "Physical AI",
+        "Brain-Computer Interface",
+        "Data Collection"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000"
+    },
+    {
+      "id": "45pmij",
+      "title": {
+        "zh": "解读中国AI引发的恐慌",
+        "en": "Making Sense of the Panic Over Chinese AI"
+      },
+      "summary": {
+        "zh": "月之暗面AI的Kimi模型似乎引发了硅谷和华尔街的恐慌，本文探讨了中国AI的崛起及其对全球科技格局的影响。",
+        "en": "Moonshot AI's Kimi model seemed to panic Silicon Valley and Wall Street. This article explores the rise of Chinese AI and its implications for the global tech landscape."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "tags": [
+        "Chinese AI",
+        "Market Impact",
+        "LLM"
+      ],
+      "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000"
+    },
+    {
+      "id": "p36dl9",
+      "title": {
+        "zh": "Hugging Face CEO呼吁‘激进透明度’以应对OpenAI前所未有的黑客攻击",
+        "en": "Hugging Face CEO Calls for 'Radical Transparency' After Unprecedented OpenAI Hack"
+      },
+      "summary": {
+        "zh": "首次自主代理网络攻击是前所未有的事件，Hugging Face CEO呼吁采取前所未有的应对措施，强调透明度对AI安全至关重要。",
+        "en": "The first autonomous agent cyberattack is an unprecedented event, requiring an unprecedented response. Hugging Face CEO stresses the importance of transparency for AI security."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "tags": [
+        "AI Security",
+        "OpenAI",
+        "Cyberattack"
+      ],
+      "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000"
+    },
+    {
+      "id": "313r2r",
+      "title": {
+        "zh": "Anthropic的Opus 5聚焦token效率而非能力飞跃",
+        "en": "Anthropic's Opus 5 is About Token Efficiency, Not a Capability Leap"
+      },
+      "summary": {
+        "zh": "Anthropic发布Opus 5模型，重点在于提高token效率而非大幅增强能力。这表明AI模型优化正转向成本效益，开发者可关注更经济的推理方案。",
+        "en": "Anthropic releases Opus 5 model focusing on token efficiency rather than major capability gains. This indicates a shift towards cost-effectiveness in AI model optimization, with developers encouraged to explore more economical inference solutions."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "tags": [
+        "Anthropic",
+        "LLM",
+        "Token Efficiency"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 21:05:51 +0000"
+    },
+    {
+      "id": "vlyhg9",
+      "title": {
+        "zh": "Wattage：AI代理的token消耗分析工具",
+        "en": "Wattage: A Token-Spend Profiler for AI Agents"
+      },
+      "summary": {
+        "zh": "Wattage是一个开源工具，用于分析和监控AI代理的token消耗，帮助开发者优化成本和性能。它通过回归测试防止成本意外增长。",
+        "en": "Wattage is an open-source tool for profiling and monitoring token spend in AI agents, helping developers optimize cost and performance. It uses regression testing to prevent unexpected cost increases."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/faizannraza/wattage",
+      "tags": [
+        "AI Agents",
+        "Cost Optimization",
+        "Open Source"
+      ],
+      "publishedAt": "Sun, 26 Jul 2026 23:27:35 +0000"
+    },
+    {
+      "id": "pakrek",
+      "title": {
+        "zh": "ChatGPT推出健康功能",
+        "en": "Launching Health in ChatGPT"
+      },
+      "summary": {
+        "zh": "健康功能允许美国用户安全连接医疗记录和Apple Health，以获取个性化健康见解。这扩展了ChatGPT在医疗领域的应用，展示了AI在健康管理中的潜力。",
+        "en": "Health features allow eligible U.S. users to securely connect medical records and Apple Health for personalized health insights. This expands ChatGPT's applications in healthcare, demonstrating AI's potential in health management."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/health-in-chatgpt",
+      "tags": [
+        "ChatGPT",
+        "Healthcare AI",
+        "Personalization"
+      ],
+      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "id": "gl0q1e",
+      "title": {
+        "zh": "OpenAI与Hugging Face合作应对模型评估中的安全事件",
+        "en": "OpenAI and Hugging Face Partner to Address Security Incident During Model Evaluation"
+      },
+      "summary": {
+        "zh": "OpenAI和Hugging Face分享了一个AI模型评估期间安全事件的早期发现，突出了高级网络能力和防御者的教训。这强调了AI部署中安全合作的重要性。",
+        "en": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders. This underscores the importance of security collaboration in AI deployment."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "tags": [
+        "AI Safety",
+        "Model Evaluation",
+        "Partnership"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "5i1uya",
+      "title": {
+        "zh": "复旦教授和前英特尔首席科学家开发端侧具身大脑",
+        "en": "Fudan Professor and Former Intel Chief Scientist Develop Edge-Side Embodied Brain"
+      },
+      "summary": {
+        "zh": "眸深智能完成近亿元Pre-A轮融资，致力于开发端侧具身大脑技术，推动机器人在本地设备上的智能决策能力。",
+        "en": "Motion Brain secures nearly 100 million yuan Pre-A funding, focusing on edge-side embodied brain technology to advance robotic intelligence for local device decision-making."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3911162147640456?f=rss",
+      "tags": [
+        "Embodied AI",
+        "Robotics",
+        "Edge Computing"
+      ],
+      "publishedAt": "2026-07-26 09:00:00  +0800"
+    },
+    {
+      "id": "x68tjs",
+      "title": {
+        "zh": "你的下一位面试官可能不是人类",
+        "en": "Your Next Interviewer May Not Be Human"
+      },
+      "summary": {
+        "zh": "AI驱动的招聘工具如元企AI的超级数字员工，正在自动化简历筛选和面试流程，提高HR效率。这展示了AI在人力资源领域的落地应用。",
+        "en": "AI-driven recruitment tools like Yuanqi AI's super digital employees are automating resume screening and interview processes to improve HR efficiency. This demonstrates AI's practical applications in human resources."
+      },
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/p/3909499179767169?f=rss",
+      "tags": [
+        "AI in HR",
+        "Automation",
+        "Recruitment"
+      ],
+      "publishedAt": "2026-07-24 18:34:07  +0800"
+    },
+    {
+      "id": "kxerkw",
+      "title": {
+        "zh": "Acrab发布边缘AI芯片GELIX 1和个人AI系统Agent Box",
+        "en": "Acrab Releases Edge AI Chip GELIX 1 and Personal AI System Agent Box"
+      },
+      "summary": {
+        "zh": "Acrab推出边缘AI芯片和集成AI系统，旨在提升个人设备的AI处理能力，支持本地化AI应用。这反映了AI硬件和软件的集成趋势。",
+        "en": "Acrab launches an edge AI chip and integrated AI system to enhance AI processing capabilities in personal devices, supporting localized AI applications. This reflects trends in AI hardware and software integration."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/112677",
+      "tags": [
+        "Edge AI",
+        "AI Chip",
+        "Personal AI"
+      ],
+      "publishedAt": "Fri, 24 Jul 2026 08:33:05 +0800"
+    }
+  ]
+}
