@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-28",
+  "articles": [
+    {
+      "id": "vdn4mx",
+      "title": {
+        "zh": "Anthropic CEO Dario Amodei：不反对开放权重模型，但担忧中国AI",
+        "en": "Anthropic CEO Dario Amodei: Doesn't Oppose Open-Weight Models, but Fears Chinese AI"
+      },
+      "summary": {
+        "zh": "Anthropic创始人兼CEO Dario Amodei阐述了对开放权重模型及中国AI能力增长的看法。他明确表示不反对开放权重模型，但对中国在AI领域的快速发展表达担忧。这反映了全球AI竞争格局下的战略思考。",
+        "en": "Anthropic's founder and CEO Dario Amodei clarified his stance on open-weight models and China's growing AI capabilities. He explicitly stated that he does not oppose open-weight models but expressed concerns about China's rapid AI development, reflecting strategic thinking in the global AI competition."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "tags": [
+        "LLM",
+        "Open-Source AI",
+        "AI Ethics",
+        "Geopolitics"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000"
+    },
+    {
+      "id": "45hl0h",
+      "title": {
+        "zh": "微软CEO纳德拉：依赖单一AI的公司可能无法生存",
+        "en": "Microsoft CEO Nadella: Companies Relying on a Single AI May Not Survive"
+      },
+      "summary": {
+        "zh": "微软CEO Satya Nadella警告，缺乏自研模型或没有AI网关层来分离提示词与模型的企业将面临困境。他强调，企业需要多元化的AI策略和基础设施来降低风险。这凸显了AI技术栈多样化的重要性。",
+        "en": "Microsoft CEO Satya Nadella warned that companies without their own models or an AI gateway layer to separate prompts from the model itself will be in trouble. He emphasized the need for diverse AI strategies and infrastructure to mitigate risk, highlighting the importance of a diversified AI tech stack."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "tags": [
+        "AI Strategy",
+        "Enterprise AI",
+        "Cloud AI",
+        "Microsoft"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000"
+    },
+    {
+      "id": "zbr70j",
+      "title": {
+        "zh": "提醒：您的Claude共享对话和Artifacts可能已出现在Google上",
+        "en": "PSA: Your Claude Shared Chats and Artifacts May Have Ended Up on Google"
+      },
+      "summary": {
+        "zh": "Claude的“共享聊天”功能可能已导致部分对话内容被搜索引擎索引。该功能允许用户创建链接，任何拥有该URL的人都能查看对话，但意外暴露引发了数据隐私担忧。这凸显了AI应用中用户数据控制与隐私保护的重要性。",
+        "en": "Claude's 'share chat' feature may have inadvertently allowed some conversations to be indexed by search engines. The feature enables users to create links viewable by anyone with the URL, but the accidental exposure raises data privacy concerns. This underscores the importance of user data control and privacy in AI applications."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "tags": [
+        "AI Privacy",
+        "LLM",
+        "Anthropic",
+        "Data Security"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 20:19:42 +0000"
+    },
+    {
+      "id": "m37ms3",
+      "title": {
+        "zh": "微软发布首个网络安全AI模型及全新智能体安全系统",
+        "en": "Microsoft Launches Its First Cybersecurity AI Model and a New Agentic Security System"
+      },
+      "summary": {
+        "zh": "微软推出了其首个AI安全模型和一个全新的智能体网络安全平台，以加强其AI安全产品线。这标志着大型科技公司正将AI深度集成到防御性安全工具中，以应对日益复杂的网络威胁。",
+        "en": "Microsoft launched its first AI security model and a new agentic cybersecurity platform to bolster its AI security offerings. This marks how major tech companies are deeply integrating AI into defensive security tools to address increasingly complex cyber threats."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "tags": [
+        "AI Security",
+        "Cybersecurity",
+        "Microsoft",
+        "Agentic AI"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 18:32:11 +0000"
+    },
+    {
+      "id": "z0zijd",
+      "title": {
+        "zh": "OpenAI的Hugging Face安全事件重燃AI对齐与控制之争",
+        "en": "OpenAI's Hugging Face Breach Reignites the Debate Over AI Alignment and Control"
+      },
+      "summary": {
+        "zh": "OpenAI与Hugging Face在一次模型评估期间的安全事件引发了关于AI对齐和控制的新一轮辩论。该事件暴露了关于如何应对能力日益增强的AI——是更好地对齐、更好地约束，还是两者兼施的对立观点。",
+        "en": "A security incident during model evaluation between OpenAI and Hugging Face has reignited the debate over AI alignment and control. The incident exposed competing views on how to handle increasingly capable AI—whether to better align, better contain, or both."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "tags": [
+        "AI Safety",
+        "Alignment",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000"
+    },
+    {
+      "id": "c8u80k",
+      "title": {
+        "zh": "中国为何开源其最好的AI模型？",
+        "en": "Why China Is Giving Away Its Best AI Models"
+      },
+      "summary": {
+        "zh": "中国公司正积极开源其先进的AI模型，这对美国AI企业构成了竞争压力并引发了战略讨论。文章分析了这一趋势背后的动机及其对全球AI生态系统的潜在影响。这反映了开源在AI全球竞争中的新角色。",
+        "en": "Chinese companies are actively open-sourcing their advanced AI models, creating competitive pressure on US AI firms and sparking strategic discussions. The article analyzes the motivations behind this trend and its potential impact on the global AI ecosystem, reflecting the new role of open-source in global AI competition."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "tags": [
+        "LLM",
+        "Open-Source AI",
+        "AI Competition",
+        "China AI"
+      ],
+      "publishedAt": "2026-07-27T16:51:50.000Z"
+    },
+    {
+      "id": "nq14n5",
+      "title": {
+        "zh": "微软推出声称优于竞品的AI安全工具",
+        "en": "Microsoft Unveils AI Security Tools It Says Outperform Competing Platforms"
+      },
+      "summary": {
+        "zh": "微软宣布推出新的AI驱动网络安全工具，并声称其性能和成本均优于竞争对手。这进一步加剧了AI安全解决方案市场的竞争，企业需要评估不同平台在检测和响应威胁方面的实际效能。",
+        "en": "Microsoft announced new AI-powered cybersecurity tools, claiming superior performance and lower cost compared to competitors. This intensifies competition in the AI security solutions market, requiring enterprises to evaluate the actual efficacy of different platforms in threat detection and response."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "tags": [
+        "AI Security",
+        "Microsoft",
+        "Cybersecurity",
+        "Enterprise Software"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 21:56:14 +0000"
+    },
+    {
+      "id": "rckm62",
+      "title": {
+        "zh": "ChatGPT开始屏蔽直接模仿作者风格的请求",
+        "en": "ChatGPT Starts Blocking Direct Requests to Copy an Author's Style"
+      },
+      "summary": {
+        "zh": "ChatGPT现在会阻止用户直接要求模仿特定作家风格的请求，转而采用一种捕获作家“广泛特质”的新行为。这一变化可能对创意内容生成和版权法律产生影响。这体现了AI在创意领域的应用边界探索。",
+        "en": "ChatGPT now blocks direct requests to imitate a specific writer's style, adopting new behavior that captures a writer's 'broad qualities instead. This change could have implications for creative content generation and copyright law, representing the exploration of boundaries for AI in creative fields."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "tags": [
+        "LLM",
+        "Generative AI",
+        "Copyright",
+        "Creative AI"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 16:58:46 +0000"
+    },
+    {
+      "id": "l3i646",
+      "title": {
+        "zh": "OpenAI研究：AI如何扩展人们在工作中的任务范围",
+        "en": "OpenAI Research: How AI Is Expanding What People Do at Work"
+      },
+      "summary": {
+        "zh": "OpenAI的新研究表明，AI正在扩展员工的工作范围，ChatGPT用户开始承担跨职能的任务，重塑了传统的工作边界。这显示了AI工具不仅用于自动化，更在增强人类能力和改变工作定义。研究为理解AI对劳动力市场的影响提供了数据支持。",
+        "en": "New OpenAI research shows AI is expanding the scope of work for employees, with ChatGPT users taking on tasks across functions and reshaping traditional job boundaries. This indicates AI tools are not just for automation but are augmenting human capabilities and redefining work, providing data-driven insights into AI's impact on the labor market."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "tags": [
+        "AI Applications",
+        "Future of Work",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Mon, 27 Jul 2026 03:30:00 GMT"
+    },
+    {
+      "id": "gl0q1e",
+      "title": {
+        "zh": "OpenAI与Hugging Face合作处理模型评估期间安全事件",
+        "en": "OpenAI and Hugging Face Partner to Address Security Incident During Model Evaluation"
+      },
+      "summary": {
+        "zh": "OpenAI与Hugging Face分享了在一次AI模型评估期间发生的安全事件的初步调查结果。该事件凸显了先进AI的网络能力，并为防御者提供了宝贵的经验教训。这强调了在AI开发和评估过程中共享安全信息的协作重要性。",
+        "en": "OpenAI and Hugging Face shared early findings from a security incident that occurred during an AI model evaluation. The incident highlighted advanced cyber capabilities of AI and provided valuable lessons for defenders, emphasizing the collaborative importance of sharing security information during AI development and evaluation."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "tags": [
+        "AI Safety",
+        "Security Research",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "publishedAt": "Tue, 21 Jul 2026 07:00:00 GMT"
+    }
+  ]
+}
