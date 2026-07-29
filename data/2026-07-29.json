@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-29",
+  "articles": [
+    {
+      "id": "fa9dss",
+      "title": {
+        "zh": "OpenAI CEO Sam Altman 称已准备好为AI发展“减速”",
+        "en": "OpenAI CEO Sam Altman says he is ready to decelerate AI development"
+      },
+      "summary": {
+        "zh": "OpenAI创始人兼CEO Sam Altman 表示，在经历了一次切身感受到的安全事件后，他对AI的发展速度持更谨慎态度，并准备减速。这一立场转变可能影响整个行业的研发节奏和安全投入重点。",
+        "en": "After a security incident he felt deeply, OpenAI founder and CEO Sam Altman has expressed readiness to slow down AI development. This shift in stance could significantly impact the industry's development pace and focus on safety investments."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "AI Ethics",
+        "Industry Trends"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 20:17:08 +0000"
+    },
+    {
+      "id": "ws9evd",
+      "title": {
+        "zh": "AI行业领袖联名呼吁美国政府应对自动化AI带来的风险",
+        "en": "AI leaders sign statement urging the US government to address risks of automated AI"
+      },
+      "summary": {
+        "zh": "来自OpenAI、Anthropic、Google、Meta等顶级AI实验室的员工联名致信美国政府，支持对自动化AI系统制定潜在的安全减速措施。这反映了AI行业内部对前沿模型不可控风险的普遍担忧。",
+        "en": "Employees from leading AI labs like OpenAI, Anthropic, Google, and Meta have signed a statement to the US government supporting potential safety slowdowns for automated AI systems. This reflects widespread industry concern about uncontrollable risks from frontier models."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "tags": [
+        "AI Safety",
+        "AI Policy",
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-07-28T19:46:43.000Z"
+    },
+    {
+      "id": "wkdaaj",
+      "title": {
+        "zh": "详细披露：OpenAI如何利用零日漏洞黑入Hugging Face",
+        "en": "Detailed disclosure: How OpenAI exploited a 0-day to hack into Hugging Face"
+      },
+      "summary": {
+        "zh": "安全研究人员披露，OpenAI利用JFrog Artifactory的一个零日漏洞，在长达10天的时间里渗透了开源AI平台Hugging Face。此次事件凸显了AI供应链和开源模型生态面临严峻的网络安全挑战。",
+        "en": "Security researchers disclosed that OpenAI exploited a 0-day vulnerability in JFrog Artifactory to infiltrate the open-source AI platform Hugging Face over a 10-day period. This incident highlights severe cybersecurity challenges facing the AI supply chain and open-source model ecosystem."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "tags": [
+        "AI Security",
+        "Cybersecurity",
+        "Open-source",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 21:36:39 +0000"
+    },
+    {
+      "id": "cqt432",
+      "title": {
+        "zh": "App Store“隐藏宝藏”证明：AI时代仍有传统优质软件的空间",
+        "en": "App Store 'hidden gems' prove there’s still room for great traditional software in the AI era"
+      },
+      "summary": {
+        "zh": "尽管有预测认为AI代理可能使传统应用过时，但开发者推出新软件的速度比以往更快。文章列举了从智能书签工具到数字市场等一系列创新应用，证明在AI时代，优秀的软件产品依然拥有市场。",
+        "en": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. The article highlights a range of innovative apps, from smarter bookmarking tools to digital marketplaces, proving that great software still thrives in the AI era."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "tags": [
+        "App Development",
+        "Software Engineering",
+        "AI Impact",
+        "Developer Tools"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 18:16:39 +0000"
+    },
+    {
+      "id": "h2dg8x",
+      "title": {
+        "zh": "谷歌数据分析：尽管AI火热，但工人并未“自动化”掉自己的工作",
+        "en": "Google's data analysis: Despite AI hype, workers aren't automating themselves away"
+      },
+      "summary": {
+        "zh": "谷歌对1500万次真实AI交互的分析显示，大多数工作岗位的大多数任务并未受到AI的影响。这为评估AI对劳动力市场的实际影响提供了基于数据的务实视角，与部分炒作形成对比。",
+        "en": "An analysis of 15 million real AI interactions by Google reveals that most tasks at most jobs remain unaffected by AI. This provides a data-driven, pragmatic perspective on AI's actual impact on the labor market, contrasting with some of the hype."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "tags": [
+        "AI Research",
+        "Labor Market",
+        "Google",
+        "Data Analysis"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 20:20:20 +0000"
+    },
+    {
+      "id": "og41mo5qsh",
+      "title": {
+        "zh": "Hubbele：一款面向你和AI代理的开源笔记应用",
+        "en": "Hubbele: An open-source notetaking app for you and your AI agents"
+      },
+      "summary": {
+        "zh": "Hubbele是一款新开源笔记应用，其设计理念是让用户与AI代理能够协同工作和管理知识。这代表了个人生产力工具向“人机协同”范式演进的一个有趣方向。",
+        "en": "Hubbele is a new open-source notetaking app designed for users and AI agents to collaborate and manage knowledge together. It represents an interesting evolution of personal productivity tools towards a 'human-AI collaboration' paradigm."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49091730",
+      "tags": [
+        "Open Source",
+        "Productivity Tools",
+        "AI Agents",
+        "Notetaking"
+      ]
+    },
+    {
+      "id": "vzg0ur",
+      "title": {
+        "zh": "实践指南：如何在苹果M1 Max芯片上本地运行月之暗面Kimi K3模型",
+        "en": "Practical guide: Running the Moonshot AI Kimi K3 model locally on an Apple M1 Max"
+      },
+      "summary": {
+        "zh": "本文分享了在消费级硬件（苹果M1 Max）上成功运行大型语言模型Kimi K3的经验和工具。这为开发者探索在边缘设备上本地部署和测试前沿AI模型提供了有价值的参考。",
+        "en": "This article shares the experience and tools for successfully running the large language model Kimi K3 on consumer-grade hardware (Apple M1 Max). It offers a valuable reference for developers exploring local deployment and testing of frontier AI models on edge devices."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/gavamedia/deltafin",
+      "tags": [
+        "LLM",
+        "Local Deployment",
+        "Apple Silicon",
+        "Moonshot AI",
+        "Developer Tutorial"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 21:35:19 +0000"
+    },
+    {
+      "id": "fpo017",
+      "title": {
+        "zh": "OpenAI发布Codex安全工具，强化代码生成安全性",
+        "en": "OpenAI releases Codex Security tool to strengthen code generation safety"
+      },
+      "summary": {
+        "zh": "OpenAI发布了名为“Codex Security”的工具，旨在帮助开发者安全地使用AI代码生成模型。该工具关注于识别和缓解生成代码中的安全漏洞，是AI辅助编程走向成熟的重要一步。",
+        "en": "OpenAI released a tool called 'Codex Security' aimed at helping developers use AI code generation models safely. The tool focuses on identifying and mitigating security vulnerabilities in generated code, marking an important step in the maturation of AI-assisted programming."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/openai/codex-security",
+      "tags": [
+        "OpenAI",
+        "Code Generation",
+        "AI Security",
+        "Developer Tools",
+        "Codex"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 20:52:55 +0000"
+    },
+    {
+      "id": "h4c5ob",
+      "title": {
+        "zh": "OpenAI报告：代理AI如何革新科学计算领域",
+        "en": "OpenAI report: How agentic AI is revolutionizing scientific computing"
+      },
+      "summary": {
+        "zh": "一份新的实地报告显示，科学家正使用AI编码代理来现代化科学计算，在基因组学等领域加速软件开发和科学发现。这展示了AI作为“研究伙伴”在专业领域释放的巨大潜力。",
+        "en": "A new field report shows scientists are using AI coding agents to modernize scientific computing, accelerating software development and discovery in fields like genomics. This demonstrates the enormous potential of AI as a 'research partner' in specialized domains."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+      "tags": [
+        "AI for Science",
+        "Agentic AI",
+        "Scientific Computing",
+        "Genomics",
+        "OpenAI"
+      ],
+      "publishedAt": "Tue, 28 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "id": "gbk62b",
+      "title": {
+        "zh": "OpenAI推出企业级AI代理平台“Presence”",
+        "en": "OpenAI launches enterprise AI agent platform 'Presence'"
+      },
+      "summary": {
+        "zh": "OpenAI发布了一个经过验证的企业AI代理平台“Presence”，旨在帮助组织部署可信的语音和聊天代理，用于客户服务和内部工作流程。这标志着OpenAI将其模型能力产品化、企业化的又一关键举措。",
+        "en": "OpenAI launched a proven enterprise AI agent platform called 'Presence,' designed to help organizations deploy trusted voice and chat agents for customer and internal workflows. This marks another key move by OpenAI to productize and commercialize its model capabilities for businesses."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-openai-presence",
+      "tags": [
+        "OpenAI",
+        "Enterprise AI",
+        "AI Agents",
+        "Chatbots",
+        "Platform"
+      ],
+      "publishedAt": "Wed, 22 Jul 2026 05:30:00 GMT"
+    }
+  ]
+}
