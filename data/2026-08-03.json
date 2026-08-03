@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "id": "u9pp8g",
+      "title": {
+        "zh": "The global memory shortage hits the MacBook Air",
+        "en": "The global memory shortage hits the MacBook Air"
+      },
+      "summary": {
+        "zh": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+        "en": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 21:33:59 +0000"
+    },
+    {
+      "id": "hd9pct",
+      "title": {
+        "zh": "Sam Altman and AI’s decel debate",
+        "en": "Sam Altman and AI’s decel debate"
+      },
+      "summary": {
+        "zh": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "en": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000"
+    },
+    {
+      "id": "p5zjx1",
+      "title": {
+        "zh": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+        "en": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School"
+      },
+      "summary": {
+        "zh": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+        "en": "Let's see how this \"frontier community for techno-optimists\" is doing ..."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 17:05:07 +0000"
+    },
+    {
+      "id": "fgg2jz",
+      "title": {
+        "zh": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+        "en": "TechCrunch Mobility: Two roads diverged — for robotaxis"
+      },
+      "summary": {
+        "zh": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 16:05:00 +0000"
+    },
+    {
+      "id": "mprmz7",
+      "title": {
+        "zh": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "en": "These App Store hidden gems prove there’s still room for great software in the AI era"
+      },
+      "summary": {
+        "zh": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ",
+        "en": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital "
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "tags": [],
+      "publishedAt": "Sun, 02 Aug 2026 15:23:19 +0000"
+    }
+  ]
+}
