@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-07",
+  "articles": [
+    {
+      "id": "meqf24",
+      "title": {
+        "zh": "OpenAI新款智能音箱定价曝光，或介于300至400美元",
+        "en": "OpenAI's new AI smart speaker reportedly priced between $300 and $400"
+      },
+      "summary": {
+        "zh": "据报道，OpenAI与乔尼·艾维合作的首款硬件产品是一款售价约300-400美元的智能音箱。这款设备没有屏幕，外形类似冰球，将搭载OpenAI的AI技术。",
+        "en": "OpenAI's first hardware device, co-designed with Jony Ive, is reportedly a $300-400 smart speaker. The display-less, hockey puck-shaped device is said to be powered by OpenAI's AI technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "tags": [
+        "OpenAI",
+        "Smart Speaker",
+        "AI Hardware"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 22:43:53 +0000"
+    },
+    {
+      "id": "j4thkx",
+      "title": {
+        "zh": "Jony Ive为OpenAI设计的首款设备：冰球大小的智能音箱",
+        "en": "Jony Ive's first OpenAI gadget is reportedly a hockey puck-sized smart speaker"
+      },
+      "summary": {
+        "zh": "更多细节显示，OpenAI正在开发的AI设备是一款电池供电、甜甜圈形状的智能音箱，大小如冰球。这款无屏设备将承载OpenAI的对话式AI能力。",
+        "en": "More details reveal OpenAI is developing a battery-powered, doughnut-shaped smart speaker about the size of a hockey puck. The display-less device will leverage OpenAI's conversational AI capabilities."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "tags": [
+        "OpenAI",
+        "AI Hardware",
+        "Jony Ive"
+      ],
+      "publishedAt": "2026-08-06T20:55:39.000Z"
+    },
+    {
+      "id": "9oygr0",
+      "title": {
+        "zh": "ChatGPT向免费用户开放无限量文本聊天",
+        "en": "ChatGPT brings unlimited text chats to free users"
+      },
+      "summary": {
+        "zh": "OpenAI宣布，ChatGPT的免费和Go用户将获得无限量的文本聊天权限。此外，这些用户还将获得一个新的“思考”按钮，用于处理复杂查询。",
+        "en": "OpenAI announced that ChatGPT's free and Go tiers will now offer unlimited text chats. Additionally, these users will get a new 'think' button for handling complex queries."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 17:34:42 +0000"
+    },
+    {
+      "id": "ch6pvj",
+      "title": {
+        "zh": "OpenAI为ChatGPT免费和Go用户提供无限量文本聊天",
+        "en": "OpenAI is giving ChatGPT free users unlimited text chats"
+      },
+      "summary": {
+        "zh": "从下周开始，ChatGPT免费和Go层级的用户将能进行无限量的文本聊天。这是OpenAI降低其旗舰AI助手使用门槛的最新举措。",
+        "en": "Starting next week, users on ChatGPT's free and Go tiers will be able to have unlimited text chats. This is OpenAI's latest move to lower the barrier to using its flagship AI assistant."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-08-06T17:00:00.000Z"
+    },
+    {
+      "id": "j7yphl",
+      "title": {
+        "zh": "改进ChatGPT中的GPT-5.6 Sol，并为免费用户扩展GPT-5.6 Luna访问",
+        "en": "Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+      },
+      "summary": {
+        "zh": "ChatGPT更新了GPT-5.6 Sol模型，提高了准确性和一致性。同时，免费用户将获得GPT-5.6 Luna模型的访问权限，并可用于日常无限聊天。",
+        "en": "ChatGPT has updated its GPT-5.6 Sol model with improved accuracy and consistency. Free users will also gain access to the GPT-5.6 Luna model for unlimited everyday chats."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "GPT-5.6"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "id": "f7bz42",
+      "title": {
+        "zh": "从提问到执行：世界如何运用ChatGPT",
+        "en": "From asking to doing: How the world is putting ChatGPT to work"
+      },
+      "summary": {
+        "zh": "OpenAI发布新数据，展示了全球用户如何使用ChatGPT。报告包含了各国的采纳率、使用趋势和用户行为演变的见解。",
+        "en": "OpenAI has released new data showing how people worldwide are using ChatGPT. The report includes country-level insights on adoption rates, usage trends, and evolving user behavior."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "tags": [
+        "LLM",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "id": "b796sn",
+      "title": {
+        "zh": "我们如何在六个月内构建响应式实时语音AI系统",
+        "en": "How we built a realtime system for responsive voice AI in six months"
+      },
+      "summary": {
+        "zh": "OpenAI介绍了GPT-Live系统，该系统通过无轮次语音模型和低延迟架构，实现了与AI的连续语音交互。这使得对话更快速、更自然。",
+        "en": "OpenAI details the GPT-Live system, which enables continuous voice interaction with AI through a turnless speech model and low-latency architecture. This allows for faster, more natural conversations."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "tags": [
+        "OpenAI",
+        "Voice AI",
+        "Real-time Systems"
+      ],
+      "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "nzhper",
+      "title": {
+        "zh": "Anthropic将设计自有硬件以驱动Claude模型",
+        "en": "Anthropic will design its own hardware to power Claude"
+      },
+      "summary": {
+        "zh": "Anthropic宣布计划组建内部硅芯片团队，为其AI模型Claude设计专用硬件。此举是其与OpenAI竞赛的一部分，旨在扩大规模的同时减少对英伟达的依赖。",
+        "en": "Anthropic has announced plans to build an in-house silicon team to design custom hardware for its AI model, Claude. This move is part of its race with OpenAI to scale up while reducing dependence on Nvidia."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "tags": [
+        "AI Hardware",
+        "Anthropic",
+        "Chip Design"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 20:03:44 +0000"
+    },
+    {
+      "id": "xxys22",
+      "title": {
+        "zh": "AMD收购Taalas，通过将模型蚀刻到硅片来提升推理性能",
+        "en": "AMD acquires Taalas to boost inference performance by etching models in silicon"
+      },
+      "summary": {
+        "zh": "AMD收购了AI芯片初创公司Taalas。该技术通过将模型直接蚀刻到硅片中，旨在大幅提升AI推理性能，挑战现有GPU推理范式。",
+        "en": "AMD has acquired AI chip startup Taalas. The technology aims to dramatically boost AI inference performance by etching models directly into silicon, challenging the existing GPU inference paradigm."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "tags": [
+        "AMD",
+        "AI Chip",
+        "Inference"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 20:23:11 +0000"
+    },
+    {
+      "id": "g4qd4i",
+      "title": {
+        "zh": "Suno希望通过水印技术使AI生成音乐正规化",
+        "en": "Suno hopes to go legit with watermarks for AI-generated music"
+      },
+      "summary": {
+        "zh": "AI音乐生成平台Suno计划实施新的水印技术和下载限制，以遏制“大规模滥用”，使其服务更加正规化。这是对AI生成内容版权和滥用问题的回应。",
+        "en": "AI music generation platform Suno plans to implement new watermarking technology and download limits to curb 'large-scale abuse' and legitimize its service. This is a response to copyright and misuse concerns around AI-generated content."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "tags": [
+        "AI Music",
+        "Generative AI",
+        "Copyright"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 20:17:36 +0000"
+    }
+  ]
+}
