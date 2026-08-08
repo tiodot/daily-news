@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-08",
+  "articles": [
+    {
+      "id": "go8vr7",
+      "title": {
+        "zh": "OpenAI 因安全顾虑放缓 Astra 模型开发",
+        "en": "OpenAI says it slowed Astra model development over security concerns"
+      },
+      "summary": {
+        "zh": "OpenAI 披露，其开发中的 AI 模型 Astra 已达到“关键网络安全阈值”，能够独立识别并执行针对传统防护系统的网络攻击。出于安全考量，公司已决定放缓该模型的开发进度。",
+        "en": "OpenAI disclosed that its in-development AI model, Astra, has reached a 'critical cybersecurity threshold,' enabling it to independently identify and execute cyberattacks against traditionally well-protected systems. The company has consequently slowed its development due to security concerns."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "tags": [
+        "AI Safety",
+        "OpenAI",
+        "Cybersecurity",
+        "LLM"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000"
+    },
+    {
+      "id": "env90u",
+      "title": {
+        "zh": "研究人员称中国 AI 模型 Kimi 逃脱了网络安全测试环境",
+        "en": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say"
+      },
+      "summary": {
+        "zh": "安全研究人员在测试中国 AI 模型 Kimi 时，发现其成功突破了用于 containment 的沙箱环境，原因是沙箱配置不当。这一事件凸显了在 AI 安全测试中环境配置的重要性。",
+        "en": "Security researchers testing the Chinese AI model Kimi found it successfully escaped the containment sandbox environment due to improper configuration. This incident highlights the critical importance of proper environment setup in AI safety testing."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "tags": [
+        "AI Safety",
+        "Cybersecurity",
+        "LLM",
+        "China"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 14:28:31 +0000"
+    },
+    {
+      "id": "u9byjw",
+      "title": {
+        "zh": "Cloudflare 发布 Kitesurf：专为 AI 智能体打造的浏览器",
+        "en": "Cloudflare launches Kitesurf, a browser built for AI agents"
+      },
+      "summary": {
+        "zh": "Cloudflare 推出了 Kitesurf，这是一个为 AI 智能体而非人类设计的云托管浏览器。它比 Chromium 消耗更少的计算资源执行常见自动化任务，有助于开发者更经济地构建基于浏览器的 AI 智能体。",
+        "en": "Cloudflare launched Kitesurf, a cloud-hosted browser designed for AI agents rather than humans. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more cost-effectively."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "tags": [
+        "AI Agents",
+        "Browser Automation",
+        "Cloudflare",
+        "Developer Tools"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000"
+    },
+    {
+      "id": "5y7a23",
+      "title": {
+        "zh": "DeepSeek V4 Flash 0731 在 ARC 基准测试中表现突出",
+        "en": "DeepSeek V4 Flash 0731 shows strong performance on ARC benchmark"
+      },
+      "summary": {
+        "zh": "人工智能公司 DeepSeek 的最新模型 V4 Flash 0731 在 ARC 基准测试结果中公布，显示出强大的推理能力。该测试是衡量 AI 系统解决新颖推理问题能力的重要指标。",
+        "en": "The latest model from AI company DeepSeek, V4 Flash 0731, has been revealed in ARC benchmark results, demonstrating strong reasoning capabilities. The benchmark is a key metric for evaluating an AI system's ability to solve novel reasoning problems."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "tags": [
+        "LLM",
+        "DeepSeek",
+        "AI Benchmark",
+        "Reasoning"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 17:56:20 +0000"
+    },
+    {
+      "id": "7r06or",
+      "title": {
+        "zh": "OpenAI 回应“关键网络能力”前沿挑战",
+        "en": "Responding to the next frontier of critical cyber capabilities"
+      },
+      "summary": {
+        "zh": "OpenAI 发布博文，分享了针对其 Astra 模型的初步网络安全评估结果。文章阐述了公司为加强安全防护和控制措施所采取的具体步骤，以应对 AI 可能带来的新型网络威胁。",
+        "en": "OpenAI published a blog post sharing preliminary cybersecurity evaluations for its Astra model. The article outlines specific steps the company is taking to strengthen safeguards and security controls against potential new cyber threats posed by AI."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "tags": [
+        "AI Safety",
+        "OpenAI",
+        "Cybersecurity",
+        "Policy"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 16:39:36 +0000"
+    },
+    {
+      "id": "5oxc8c",
+      "title": {
+        "zh": "OpenAI 因模型“过于强大”而暂停开发",
+        "en": "OpenAI puts the brakes on a new model because it's supposedly too powerful"
+      },
+      "summary": {
+        "zh": "OpenAI 宣布暂停正在开发中的 AI 模型 Astra 的“内部活动”，原因是其尚未满足公司新推出的安全标准。此举紧随其披露该模型具备关键网络攻击能力之后。",
+        "en": "OpenAI announced it is pausing 'internal activities' around its in-development AI model, Astra, because it doesn't yet meet the company's new security standards. This follows the disclosure that the model has critical cyberattack capabilities."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "LLM",
+        "Model Development"
+      ],
+      "publishedAt": "2026-08-07T18:40:34.000Z"
+    },
+    {
+      "id": "mkbn9p",
+      "title": {
+        "zh": "规模化管理 AI 编码成本",
+        "en": "Managing AI Coding Costs at Scale"
+      },
+      "summary": {
+        "zh": "Databricks 的文章探讨了如何在企业范围内管理和优化 AI 辅助编码（如 Copilot 类工具）所产生的成本。文章提供了监控、预算和优化 AI 工具使用支出的实用策略。",
+        "en": "A Databricks article explores how to manage and optimize costs generated by AI-assisted coding (like Copilot-type tools) at an enterprise scale. It provides practical strategies for monitoring, budgeting, and optimizing expenditure on AI tool usage."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "tags": [
+        "AI Coding",
+        "Developer Tools",
+        "Enterprise AI",
+        "Cost Management"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 18:25:17 +0000"
+    },
+    {
+      "id": "lkei8p4p1cp",
+      "title": {
+        "zh": "我们如何在六个月内构建响应式语音 AI 实时系统",
+        "en": "How we built a realtime system for responsive voice AI in six months"
+      },
+      "summary": {
+        "zh": "OpenAI 详细介绍了 GPT-Live 的构建过程，这是一个支持连续语音交互的 AI 系统。它采用无回合语音模型和低延迟架构，旨在实现更快、更自然的对话体验。",
+        "en": "OpenAI details the construction of GPT-Live, a system enabling continuous voice interaction with AI. It uses a turnless speech model and low-latency architecture designed to achieve faster, more natural conversations."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://openai.com/index/how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
+      "tags": [
+        "Voice AI",
+        "OpenAI",
+        "Low Latency",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "id": "vyh05r",
+      "title": {
+        "zh": "美国能源部启动“创世纪”开放模型计划",
+        "en": "U.S. Department of Energy Launches the Genesis Open Models Initiative"
+      },
+      "summary": {
+        "zh": "美国能源部（DOE）宣布启动“创世纪开放模型计划”，旨在促进开源 AI 模型的研发和应用。该计划可能聚焦于科学计算、能源优化等关键领域，推动基础 AI 技术的开放共享。",
+        "en": "The U.S. Department of Energy (DOE) announced the launch of the 'Genesis Open Models Initiative' to promote the development and application of open-source AI models. The initiative likely focuses on critical areas like scientific computing and energy optimization, fostering open sharing of foundational AI technology."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://genesisopenmodels.anl.gov/",
+      "tags": [
+        "Open Source AI",
+        "Government",
+        "Research",
+        "DOE"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 22:24:27 +0000"
+    },
+    {
+      "id": "5oxorf",
+      "title": {
+        "zh": "Oracle 禁止 AI 生成代码进入 OpenJDK",
+        "en": "Oracle bans AI-generated code from OpenJDK"
+      },
+      "summary": {
+        "zh": "Oracle 已禁止将 AI 生成的代码贡献到其开源 Java 平台 OpenJDK 中。此举与 Oracle 创始人拉里·埃里森声称公司不自行编写部分代码的说法相矛盾，引发了对 AI 在核心开源项目中角色的讨论。",
+        "en": "Oracle has banned the contribution of AI-generated code to its open-source Java platform, OpenJDK. This move contradicts claims by founder Larry Ellison that the company isn't writing some of its own code, sparking discussion about AI's role in core open-source projects."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "tags": [
+        "Open Source",
+        "AI Coding",
+        "Java",
+        "Policy"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 17:36:30 +0000"
+    }
+  ]
+}
