@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-09",
+  "articles": [
+    {
+      "id": "go8vr7",
+      "title": {
+        "zh": "OpenAI因安全顾虑减缓Astra模型开发",
+        "en": "OpenAI says it slowed Astra model development over security concerns"
+      },
+      "summary": {
+        "zh": "OpenAI称其正在开发的Astra模型达到了\"关键网络安全阈值\"，能够独立发现并执行针对高防护系统的网络攻击。因此出于安全考量，OpenAI决定暂缓该模型的开发进度。",
+        "en": "OpenAI stated its in-development Astra model reached a 'critical cybersecurity threshold,' capable of autonomously identifying and carrying out cyberattacks against traditionally well-protected systems. The company has slowed development due to these security concerns."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "tags": [
+        "OpenAI",
+        "Cybersecurity",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000"
+    },
+    {
+      "id": "gaeuuu",
+      "title": {
+        "zh": "OpenAI公布Astra模型网络安全评估及安全措施",
+        "en": "OpenAI shares Astra cybersecurity evaluations and strengthening safeguards"
+      },
+      "summary": {
+        "zh": "OpenAI发布了Astra模型的初步网络安全评估结果，并阐述了加强安全保障和控制措施的具体步骤。这体现了公司在推动AI前沿发展的同时，对安全风险的审慎态度。",
+        "en": "OpenAI is sharing preliminary cybersecurity evaluations for its Astra model and the steps taken to strengthen safeguards and security controls. This demonstrates the company's cautious approach to managing security risks at the frontier of AI development."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "tags": [
+        "OpenAI",
+        "Cybersecurity",
+        "AI Governance"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 15:20:00 GMT"
+    },
+    {
+      "id": "nmq531",
+      "title": {
+        "zh": "OpenAI解释涉及其模型的第三方网络安全评估事件及新防护措施",
+        "en": "OpenAI explains third-party cybersecurity evaluation incidents and outlines new safeguards"
+      },
+      "summary": {
+        "zh": "OpenAI解释了近期涉及其模型的第三方网络安全评估事件，并概述了加强AI模型测试与评估的新防护措施。此举旨在提高AI系统在安全测试环节的可靠性和可控性。",
+        "en": "OpenAI explains recent third-party cybersecurity evaluation incidents involving its models and outlines new safeguards to strengthen AI model testing and evaluation. This aims to improve the reliability and controllability of AI systems during security testing."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "tags": [
+        "OpenAI",
+        "AI Evaluation",
+        "Cybersecurity"
+      ],
+      "publishedAt": "Tue, 04 Aug 2026 19:00:00 GMT"
+    },
+    {
+      "id": "fp8v7",
+      "title": {
+        "zh": "DeepMind飓风预测模型为天气预报员多争取一天准备时间",
+        "en": "DeepMind's hurricane model bought forecasters an extra day"
+      },
+      "summary": {
+        "zh": "DeepMind开源的WeatherNext模型能够使用较低分辨率的天气数据做出准确预测，为气象学家多争取了一天的飓风预警时间。这展示了AI在提升关键领域预测能力上的巨大潜力。",
+        "en": "DeepMind's open-source WeatherNext model can make accurate hurricane predictions with lower-resolution weather data, giving forecasters an extra day of lead time. This showcases the immense potential of AI to improve predictive capabilities in critical domains."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "tags": [
+        "DeepMind",
+        "Weather Forecasting",
+        "AI Research"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 11:05:50 +0000"
+    },
+    {
+      "id": "u9byjw",
+      "title": {
+        "zh": "Cloudflare推出专为AI代理设计的浏览器Kitesurf",
+        "en": "Cloudflare launches Kitesurf, a browser built for AI agents"
+      },
+      "summary": {
+        "zh": "Cloudflare推出了Kitesurf，这是一个为AI代理而非人类设计的云端托管浏览器。它在常见自动化任务上比Chromium消耗更少计算资源，帮助开发者更高效地构建基于浏览器的AI代理。",
+        "en": "Cloudflare launched Kitesurf, a cloud-hosted browser designed for AI agents rather than humans. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "tags": [
+        "Cloudflare",
+        "AI Agents",
+        "Browser Automation"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000"
+    },
+    {
+      "id": "a3bct9",
+      "title": {
+        "zh": "火星首辆自动驾驶探测车\"毅力号\"90%里程实现自主驾驶",
+        "en": "Mars rover Perseverance has driven 90% of its distance autonomously"
+      },
+      "summary": {
+        "zh": "NASA的\"毅力号\"火星车在火星上行驶的里程中，约90%是通过自动驾驶技术完成的，这证明了自主系统在极端外星环境下的可靠性。该技术对于未来深空探测任务具有重要参考价值。",
+        "en": "NASA's Perseverance rover has driven about 90 percent of its distance on Mars autonomously, demonstrating the reliability of autonomous systems in extreme extraterrestrial environments. This technology is highly valuable for future deep space exploration missions."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "tags": [
+        "Autonomous Systems",
+        "Space Exploration",
+        "Robotics"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 11:30:48 +0000"
+    },
+    {
+      "id": "iou3wc",
+      "title": {
+        "zh": "OpenAI收购演示文稿初创公司NextSlide",
+        "en": "OpenAI acquires presentation startup NextSlide"
+      },
+      "summary": {
+        "zh": "OpenAI完成了对演示文稿初创公司NextSlide的收购，NextSlide团队已开始参与ChatGPT的开发工作。此举可能预示着ChatGPT未来将增强演示文稿相关功能。",
+        "en": "OpenAI acquired presentation startup NextSlide, and the team is now working on ChatGPT. This acquisition may signal future enhancements to ChatGPT's presentation capabilities."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "tags": [
+        "OpenAI",
+        "Acquisitions",
+        "ChatGPT"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000"
+    },
+    {
+      "id": "nya573",
+      "title": {
+        "zh": "Rippling在AI投入数百万后推出员工AI投资回报率跟踪工具",
+        "en": "After spending millions on AI, Rippling builds employee AI ROI tool"
+      },
+      "summary": {
+        "zh": "在经历了高额AI支出后，Rippling推出了AI Spend Console工具，用于跟踪个人和团队的AI使用花费。这反映了企业开始更理性地评估和管理AI投资回报。",
+        "en": "After significant AI spending, Rippling launched AI Spend Console to track individual and team AI usage costs. This reflects a growing trend of businesses rationally assessing and managing their AI investment returns."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "tags": [
+        "Enterprise AI",
+        "AI ROI",
+        "Cost Management"
+      ],
+      "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000"
+    },
+    {
+      "id": "xt1ky",
+      "title": {
+        "zh": "Claude Code现支持跨会话消息传递功能",
+        "en": "Claude Code now supports cross-session messaging"
+      },
+      "summary": {
+        "zh": "Claude Code新增了跨会话消息传递功能，允许开发者在不同代码会话间进行通信。这能提升多任务处理效率，使AI编程助手更贴合实际开发流程。",
+        "en": "Claude Code now supports cross-session messaging, allowing developers to communicate between different code sessions. This improves multitasking efficiency and better aligns the AI programming assistant with real-world development workflows."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://code.claude.com/docs/en/cross-session-messaging",
+      "tags": [
+        "Claude",
+        "Developer Tools",
+        "AI Coding"
+      ],
+      "publishedAt": "Sat, 08 Aug 2026 15:34:49 +0000"
+    },
+    {
+      "id": "j7yphl",
+      "title": {
+        "zh": "OpenAI改进ChatGPT中的GPT-5.6 Sol模型并扩大免费用户访问",
+        "en": "OpenAI improves GPT-5.6 Sol in ChatGPT and expands free user access"
+      },
+      "summary": {
+        "zh": "ChatGPT推出了改进后的GPT-5.6 Sol模型，提升了准确性和一致性。同时向免费用户扩展了GPT-5.6 Luna模型的访问权限，实现无限日常对话。",
+        "en": "ChatGPT introduced an improved GPT-5.6 Sol model with better accuracy and consistency. It also expanded free user access to the GPT-5.6 Luna model for unlimited everyday conversations."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "tags": [
+        "OpenAI",
+        "GPT",
+        "Model Updates"
+      ],
+      "publishedAt": "Thu, 06 Aug 2026 10:00:00 GMT"
+    }
+  ]
+}
