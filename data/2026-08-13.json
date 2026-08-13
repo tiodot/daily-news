@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "id": "ivrac7",
+      "title": {
+        "zh": "Anthropic Claude 新水印引发用户不满，担心被用于工作学习作弊检测",
+        "en": "Anthropic's New Watermarks in Claude Spark User Backlash Over Cheating Detection"
+      },
+      "summary": {
+        "zh": "Anthropic 为 Claude AI 引入新的水印系统，旨在检测 AI 生成内容，但用户抱怨这会影响他们在工作和学习中的使用。开发者需关注 AI 内容检测技术的伦理和隐私问题。",
+        "en": "Anthropic introduces new watermarks to Claude AI to detect AI-generated content, but users complain it impacts their use in jobs and classes. Developers should consider the ethical and privacy implications of AI content detection."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "tags": [
+        "AI",
+        "Watermarking",
+        "Anthropic",
+        "Privacy"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000"
+    },
+    {
+      "id": "vu0iwz",
+      "title": {
+        "zh": "AI 编程初创公司 Cognition 据报正以 400 亿美元估值进行新一轮融资",
+        "en": "AI Coding Startup Cognition Reportedly Raising at $40B Valuation"
+      },
+      "summary": {
+        "zh": "AI 编程公司 Cognition 在几个月前以 260 亿美元估值融资 10 亿美元后，正计划以 400 亿美元估值进行新一轮融资。这显示了 AI 编程工具的巨大市场潜力和投资者兴趣。",
+        "en": "AI coding company Cognition is reportedly planning a new funding round at a $40 billion valuation, just months after raising $1 billion at $26 billion. This highlights the significant market potential and investor interest in AI coding tools."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "tags": [
+        "AI",
+        "Startup",
+        "Funding",
+        "Coding"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000"
+    },
+    {
+      "id": "mv1z2b",
+      "title": {
+        "zh": "AI 安全担忧加剧，三位先驱倡导保持开放：Hinton、李飞飞、吴恩达辩论监管与开源",
+        "en": "As AI Safety Concerns Rise, Three Pioneers Advocate for Openness: Hinton, Fei-Fei Li, and Andrew Ng Debate Regulation"
+      },
+      "summary": {
+        "zh": "在 Ai4 会议上，AI 领域的三位顶尖专家 Geoffrey Hinton、Fei-Fei Li 和 Andrew Ng 讨论了 AI 监管、开源访问以及美国如何应对中国在亚洲的进展。他们的观点对开发者理解 AI 安全和政策趋势至关重要。",
+        "en": "At the Ai4 conference, top AI experts Geoffrey Hinton, Fei-Fei Li, and Andrew Ng debated AI regulation, open source access, and how the US can compete with China's advances. Their perspectives are crucial for developers to understand AI safety and policy trends."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "tags": [
+        "AI Safety",
+        "Open Source",
+        "Regulation",
+        "Experts"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000"
+    },
+    {
+      "id": "sr226n",
+      "title": {
+        "zh": "OpenAI 支持的 Thrive Holdings 融资 20 亿美元，估值 120 亿美元，推动企业 AI 应用",
+        "en": "OpenAI-Backed Thrive Holdings Raises $2B at $12B Valuation to Bring AI to Enterprises"
+      },
+      "summary": {
+        "zh": "Thrive Holdings 获得 20 亿美元融资，估值达 120 亿美元，由 SoftBank 等投资者支持，旨在将 AI 技术引入企业领域。这表明企业 AI 市场正在快速增长，开发者有机会参与其中。",
+        "en": "Thrive Holdings secures $2 billion in funding at a $12 billion valuation, backed by investors like SoftBank, aiming to bring AI to enterprises. This indicates rapid growth in the enterprise AI market, presenting opportunities for developers."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Funding",
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000"
+    },
+    {
+      "id": "aw0kwv",
+      "title": {
+        "zh": "亚马逊默认使用 Twitch 主播内容训练 AI，除非用户主动退出",
+        "en": "Amazon to Train AI on Twitch Streamers' Content by Default, Unless They Opt Out"
+      },
+      "summary": {
+        "zh": "亚马逊宣布将默认使用 Twitch 主播的内容来训练其 AI 模型，但用户可以选择退出。这引发了关于数据隐私和 AI 训练伦理的讨论，开发者需关注用户数据的使用政策。",
+        "en": "Amazon announces it will use Twitch streamers' content by default to train its AI models, with an opt-out option. This raises discussions on data privacy and AI training ethics, prompting developers to consider user data policies."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "tags": [
+        "AI Training",
+        "Amazon",
+        "Twitch",
+        "Privacy"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000"
+    },
+    {
+      "id": "uikcbv",
+      "title": {
+        "zh": "新型字体 ShieldFont 成为对抗 AI 爬虫的武器，干扰训练数据",
+        "en": "New Font ShieldFont Emerges as Weapon Against AI Scrapers by Poisoning Training Data"
+      },
+      "summary": {
+        "zh": "一种名为 ShieldFont 的新字体旨在通过将网页内容对 AI 爬虫变为乱码来毒化训练数据，同时保持人类可读。这为开发者提供了保护网页内容免受 AI 爬取的新思路。",
+        "en": "A new font called ShieldFont aims to poison AI training data by making webpage content unreadable to AI scrapers while remaining human-readable. This offers developers a new approach to protect web content from AI scraping."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "tags": [
+        "AI",
+        "Web Scraping",
+        "Font",
+        "Data Protection"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 22:02:25 +0000"
+    },
+    {
+      "id": "susshl",
+      "title": {
+        "zh": "大规模供应链攻击导致 TB 级凭证泄露，涉事 AI 包遭入侵",
+        "en": "Massive Supply-Chain Attack Leaks Terabytes of Credentials from Compromised AI Package"
+      },
+      "summary": {
+        "zh": "一次大规模供应链攻击导致 2,500 名用户的 TB 级凭证泄露，这些数据来自一个被入侵的 AI 包。开发者需警惕依赖第三方包的安全风险，并加强供应链安全措施。",
+        "en": "A massive supply-chain attack has leaked terabytes of credentials from 2,500 users of a compromised AI package. Developers should be wary of security risks from third-party packages and strengthen supply-chain security."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "tags": [
+        "Cybersecurity",
+        "Supply Chain",
+        "AI",
+        "Data Breach"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 21:43:21 +0000"
+    },
+    {
+      "id": "cocsb5",
+      "title": {
+        "zh": "书商怀疑 AI 公司批量购买稀有书籍后销毁，用于训练 AI",
+        "en": "Booksellers Suspect AI Firms of Buying and Destroying Rare Books for AI Training"
+      },
+      "summary": {
+        "zh": "书商们怀疑 AI 公司正在悄悄批量购买稀有书籍，然后销毁以用于 AI 训练数据，这引发了伦理争议。开发者应思考 AI 训练数据的来源和可持续性问题。",
+        "en": "Booksellers suspect AI firms are quietly bulk buying rare books and then destroying them for AI training data, raising ethical controversies. Developers should consider the sources and sustainability of AI training data."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "tags": [
+        "AI Training",
+        "Ethics",
+        "Data Sourcing",
+        "Books"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 15:19:17 +0000"
+    },
+    {
+      "id": "xduryk",
+      "title": {
+        "zh": "从辅助到执行：企业如何将 AI 付诸实践——OpenAI 研究揭示前沿企业采用 Agentic AI",
+        "en": "From Assistance to Execution: How Enterprises Put AI to Work – OpenAI Research on Agentic AI Adoption"
+      },
+      "summary": {
+        "zh": "OpenAI 研究显示企业正在采用 Agentic AI，利用 ChatGPT 和 Codex，前沿企业在 AI 应用中领先。这对开发者了解企业 AI 需求和最佳实践有重要参考价值。",
+        "en": "OpenAI research shows enterprises are adopting agentic AI, using ChatGPT and Codex, with frontier firms leading in AI adoption. This provides valuable insights for developers on enterprise AI needs and best practices."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Agentic AI",
+        "OpenAI"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "id": "kxe6zn",
+      "title": {
+        "zh": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+        "en": "Morning Brief: Meta Releases Open-Source Local AI Agent Model Muse Glimmer, Alibaba Qianwen Platform Launches, etc."
+      },
+      "summary": {
+        "zh": "本期派早报涵盖 Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等 AI 和科技新闻。开发者可以关注最新的 AI 模型发布和平台动态。",
+        "en": "This morning brief covers AI and tech news including Meta's release of the open-source local AI agent model Muse Glimmer and Alibaba's Qianwen platform launch. Developers can stay updated on the latest AI model releases and platform updates."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113301",
+      "tags": [
+        "AI Models",
+        "Open Source",
+        "Meta",
+        "Alibaba"
+      ],
+      "publishedAt": "Tue, 11 Aug 2026 08:09:35 +0800"
+    }
+  ]
+}
