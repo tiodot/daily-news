@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-15",
+  "articles": [
+    {
+      "id": "mq42ij",
+      "title": {
+        "zh": "允许用户移除AI生成内容可见水印",
+        "en": "Google Allows Users to Remove Visible Watermarks from AI-Generated Content"
+      },
+      "summary": {
+        "zh": "谷歌更新其AI工具，允许用户禁用AI生成图像、视频和音乐上的可见水印。此变更适用于Gemini和其他谷歌AI服务生成的内容，而不可见的标识仍会保留。",
+        "en": "Google has updated its AI tools to let users disable visible watermarks on AI-generated images, videos, and music. This move affects content from Gemini and other Google AI services, while invisible benchmarks remain."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "tags": [
+        "AI",
+        "Google",
+        "Watermarks",
+        "Content Generation"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000"
+    },
+    {
+      "id": "vi3f5c",
+      "title": {
+        "zh": "Kog深入优化GPU推理性能",
+        "en": "Kog Optimizes GPU Inference for Better AI Performance"
+      },
+      "summary": {
+        "zh": "法国初创公司Kog致力于最大化GPU在AI推理中的效率，挑战GPU不适合代理工作流的观点。这可能为AI应用带来显著的成本节约和性能提升。",
+        "en": "French startup Kog is working on maximizing GPU efficiency for AI inference, challenging the notion that GPUs are poorly suited for agentic workflows. This could lead to significant cost savings and performance improvements for AI applications."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "tags": [
+        "AI",
+        "GPU",
+        "Inference",
+        "Optimization"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000"
+    },
+    {
+      "id": "vjkcxv",
+      "title": {
+        "zh": "男子怀疑法院使用AI，在文件中注入提示词试图胜诉",
+        "en": "Man Injects Prompts in Legal Filings Suspecting AI Court Use"
+      },
+      "summary": {
+        "zh": "一名自行诉讼者怀疑法院使用AI，在法律文件中嵌入提示词试图影响判决结果。这凸显了AI在法律系统中新兴的挑战和滥用问题。",
+        "en": "A pro se litigant, suspecting that the court was using AI, embedded prompts in legal documents in an attempt to influence the outcome. This highlights the emerging challenges and misuse of AI in legal systems."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "tags": [
+        "AI",
+        "Legal",
+        "Prompts",
+        "Misuse"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 17:26:53 +0000"
+    },
+    {
+      "id": "uihtq6",
+      "title": {
+        "zh": "Mole：终端深度研究AI代理",
+        "en": "Mole: Deep Research AI Agent for Terminal Use"
+      },
+      "summary": {
+        "zh": "Mole是一个开源AI代理，专为深度研究任务设计，解决基于代理的研究中预算超支和来源混乱等问题。它提供更受控和高效的研究体验。",
+        "en": "Mole is an open-source AI agent designed for deep research tasks, addressing issues like budget overruns and source confusion in agent-based research. It provides a more controlled and efficient research experience."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/lajosdeme/mole",
+      "tags": [
+        "AI",
+        "Agent",
+        "Research",
+        "Open Source"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 18:52:48 +0000"
+    },
+    {
+      "id": "qtyaqw",
+      "title": {
+        "zh": "GPT-5.6构建者指南",
+        "en": "Builder's Guide to GPT-5.6"
+      },
+      "summary": {
+        "zh": "OpenAI为初创企业提供指南，介绍如何使用GPT-5.6构建更快、更高效成本的AI代理，并分享模型选择和新API功能的见解。",
+        "en": "OpenAI provides a guide for startups on using GPT-5.6 to build faster and more cost-efficient AI agents, with insights into model selection and new API capabilities."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "AI Development",
+        "Agents"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "id": "j784ul",
+      "title": {
+        "zh": "预览超快模式：GPT-5.6 Sol速度提升14倍",
+        "en": "Previewing Ultrafast Mode: GPT-5.6 Sol Up to 14X Faster"
+      },
+      "summary": {
+        "zh": "OpenAI预览GPT-5.6 Sol的超快模式，性能提升高达14倍，每秒输出750个令牌，由Cerebras提供支持。",
+        "en": "OpenAI previews Ultrafast mode for GPT-5.6 Sol, offering up to 14 times faster performance with 750 output tokens per second, powered by Cerebras."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "Performance",
+        "API"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "id": "xduryk",
+      "title": {
+        "zh": "从辅助到执行：企业如何运用AI",
+        "en": "From Assistance to Execution: How Enterprises Put AI to Work"
+      },
+      "summary": {
+        "zh": "OpenAI研究显示企业如何采用代理式AI，使用ChatGPT和Codex等工具，以及领先企业如何在AI集成方面取得进展。",
+        "en": "OpenAI research shows how enterprises are adopting agentic AI, using tools like ChatGPT and Codex, and how leading firms are advancing in AI integration."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "tags": [
+        "OpenAI",
+        "Enterprise",
+        "AI Adoption",
+        "Agents"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "id": "kxe66a",
+      "title": {
+        "zh": "深度求索推出开源Agent框架DeepSeek Harness及插件生态",
+        "en": "DeepSeek Launches Open-Source Agent Framework DeepSeek Harness with Plugin Ecosystem"
+      },
+      "summary": {
+        "zh": "深度求索发布开源AI代理框架DeepSeek Harness及其配套插件生态，以促进AI代理开发。",
+        "en": "DeepSeek releases an open-source AI agent framework called DeepSeek Harness, along with a supporting plugin ecosystem, to facilitate AI agent development."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113434",
+      "tags": [
+        "AI",
+        "Agent",
+        "Open Source",
+        "Framework"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 08:52:24 +0800"
+    }
+  ]
+}
