@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "id": "bp43ub",
+      "title": {
+        "zh": "Anthropic 详细解读 Claude 新水印机制",
+        "en": "Anthropic Reveals How Claude's New Watermarking System Works"
+      },
+      "summary": {
+        "zh": "Anthropic 公布了 Claude 模型输出的水印技术细节，包括如何隐藏、编辑对抗性，以及对代码生成的影响。这对开发者理解 AI 输出溯源和版权保护具有重要意义。",
+        "en": "Anthropic shared technical details on Claude's new watermarking system, covering how it can be hidden or removed, its resistance to editing, and its impact on code generation. This is significant for developers working on AI output attribution and content provenance."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "tags": [
+        "LLM",
+        "Anthropic",
+        "AI Safety",
+        "Watermarking"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000"
+    },
+    {
+      "id": "y6irb1",
+      "title": {
+        "zh": "SpaceX 正式完成对 AI 编程工具 Cursor 的收购",
+        "en": "SpaceX Officially Closes Acquisition of AI Coding Startup Cursor"
+      },
+      "summary": {
+        "zh": "SpaceX 已正式完成对 AI 编程助手 Cursor 的收购，标志着其在软件工程领域的重大布局。这一并购将 Cursor 的 AI 编码能力整合进 SpaceX 的技术栈。",
+        "en": "SpaceX has officially closed its acquisition of Cursor, the popular AI coding assistant, marking a major move into software engineering tooling. The deal brings Cursor's AI-powered code generation capabilities into SpaceX's technology ecosystem."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "tags": [
+        "AI Coding",
+        "Acquisition",
+        "Cursor",
+        "SpaceX"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000"
+    },
+    {
+      "id": "j784ul",
+      "title": {
+        "zh": "OpenAI 推出 Ultrafast 模式：GPT-5.6 Sol 速度提升最高14倍",
+        "en": "OpenAI Previews Ultrafast Mode: GPT-5.6 Sol Runs Up to 14X Faster"
+      },
+      "summary": {
+        "zh": "OpenAI 推出全新 API 服务层级 Ultrafast，由 Cerebras 芯片驱动，可将 GPT-5.6 Sol 的推理速度提升至每秒750个输出 token。开发者可在延迟敏感场景中获得显著体验改善。",
+        "en": "OpenAI introduced a new API service tier called Ultrafast, powered by Cerebras hardware, delivering GPT-5.6 Sol at up to 750 output tokens per second — 14× faster than standard. This benefits developers building latency-sensitive AI applications."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "API",
+        "Inference"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "id": "qtyaqw",
+      "title": {
+        "zh": "OpenAI 发布 GPT-5.6 开发者构建指南",
+        "en": "OpenAI Releases The Builder's Guide to GPT-5.6"
+      },
+      "summary": {
+        "zh": "OpenAI 发布面向开发者的 GPT-5.6 构建指南，介绍如何利用新模型和 Responses API 构建更高效、低成本的 AI Agent。指南涵盖模型选择策略和实际用例。",
+        "en": "OpenAI published a builder's guide for GPT-5.6, explaining how startups and developers can leverage the new model and Responses API to build faster, more cost-efficient AI agents. The guide covers model selection strategies and real-world use cases."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "AI Agents",
+        "Developer Tools"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "id": "1tyvgd",
+      "title": {
+        "zh": "OpenAI 开始在 ChatGPT 中测试广告",
+        "en": "OpenAI Begins Testing Ads in ChatGPT"
+      },
+      "summary": {
+        "zh": "OpenAI 宣布在 ChatGPT 中测试广告投放，以支持免费用户访问，同时保证答案独立性、清晰标识和隐私保护。这一商业化举措标志着 ChatGPT 盈利模式的重大转变。",
+        "en": "OpenAI announced it is testing ads within ChatGPT to support free-tier access, with clear labeling, answer independence, strong privacy protections, and user control. This marks a significant shift in ChatGPT's monetization strategy."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/testing-ads-in-chatgpt",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Monetization"
+      ],
+      "publishedAt": "Tue, 11 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "id": "fsj8il",
+      "title": {
+        "zh": "自动驾驶卡车正式获准在加州高速公路上测试",
+        "en": "Self-Driving Trucks Begin Official Testing on California Highways"
+      },
+      "summary": {
+        "zh": "Aurora Innovation 和 Kodiak AI 获得加州 DMV 许可，正式在高速公路测试自动驾驶卡车。这标志着自动驾驶货运技术在监管层面的重要里程碑。",
+        "en": "Aurora Innovation and Kodiak AI have received permits from the California DMV to begin testing self-driving trucks on public highways. This marks a major regulatory milestone for autonomous freight technology."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "tags": [
+        "Autonomous Vehicles",
+        "Robotics",
+        "AI",
+        "Self-Driving"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 20:37:49 +0000"
+    },
+    {
+      "id": "4vdr8s",
+      "title": {
+        "zh": "Thrive Capital 创始人警告硅谷 VC 不要因 AI 热潮放松投资纪律",
+        "en": "Thrive Capital's Kushner Warns Silicon Valley VCs Against AI Euphoria"
+      },
+      "summary": {
+        "zh": "Thrive Capital 创始人 Joshua Kushner 在首封投资信中警告，AI 机会虽大，但不能因兴奋而削弱投资纪律。他提醒业界警惕过度投机行为。",
+        "en": "Thrive Capital's Joshua Kushner cautioned in his first investment letter that while the AI opportunity is enormous, letting excitement weaken investment discipline would be a grave error. He urged the industry to maintain rationality amid the AI hype cycle."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "tags": [
+        "AI",
+        "Venture Capital",
+        "Investment"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 19:33:00 +0000"
+    },
+    {
+      "id": "xduryk",
+      "title": {
+        "zh": "OpenAI 研究揭示企业如何将 AI 从辅助工具转变为核心执行引擎",
+        "en": "OpenAI Research Reveals How Enterprises Put Agentic AI to Work"
+      },
+      "summary": {
+        "zh": "OpenAI 研究显示企业正加速采用 Agentic AI，利用 ChatGPT 和 Codex 实现从辅助到执行的转变。前沿企业正在 AI 应用上拉开与竞争对手的差距。",
+        "en": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex to move from assistance to execution. Frontier firms are pulling ahead significantly in AI adoption compared to their peers."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "tags": [
+        "OpenAI",
+        "Enterprise AI",
+        "AI Agents"
+      ],
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "id": "kxe66a",
+      "title": {
+        "zh": "深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
+        "en": "DeepSeek Launches Open-Source Agent Framework DeepSeek Harness with Plugin Ecosystem"
+      },
+      "summary": {
+        "zh": "深度求索（DeepSeek）推出开源 AI Agent 框架 DeepSeek Harness 及其配套插件生态，为开发者提供构建 AI 代理应用的基础设施。这是国内大模型厂商在 Agent 生态布局上的重要进展。",
+        "en": "DeepSeek has launched an open-source AI Agent framework called DeepSeek Harness along with a supporting plugin ecosystem. This is a significant step for Chinese LLM providers in building out agent infrastructure for developers."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113434",
+      "tags": [
+        "DeepSeek",
+        "AI Agents",
+        "Open Source",
+        "Framework"
+      ],
+      "publishedAt": "Fri, 14 Aug 2026 08:52:24 +0800"
+    },
+    {
+      "id": "lrljyjzi96",
+      "title": {
+        "zh": "如何检测你的 AI 平台账号是否已被入侵",
+        "en": "How to Tell If Your AI Platform Accounts Have Been Hacked"
+      },
+      "summary": {
+        "zh": "本文提供了一套实用指南，帮助用户检测主流 AI 平台账号是否遭到黑客入侵。随着 AI 工具存储越来越多敏感数据，账号安全问题日益突出。",
+        "en": "A practical guide to checking if your accounts on popular AI platforms have been compromised. As AI tools store increasingly sensitive data, account security has become a critical concern for developers and users alike."
+      },
+      "source": "Unknown",
+      "sourceUrl": "https://techcrunch.com/2026/08/14/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "tags": [
+        "AI Security",
+        "Cybersecurity",
+        "Account Safety"
+      ]
+    }
+  ]
+}
