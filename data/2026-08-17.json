@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "id": "kruap",
+      "title": {
+        "zh": "Stripe拟以超70亿美元收购AI网关公司OpenRouter",
+        "en": "Stripe to Acquire AI Gateway Startup OpenRouter for Over $7B"
+      },
+      "summary": {
+        "zh": "支付巨头Stripe据报正在收购AI网关初创公司OpenRouter，交易金额超过70亿美元。OpenRouter的CEO曾将公司比作AI领域的Stripe，此举标志着Stripe向AI基础设施领域的重大扩张。",
+        "en": "Payments giant Stripe is reportedly acquiring AI gateway startup OpenRouter in a deal valued at over $7 billion. The CEO of OpenRouter has previously described the company as 'Stripe for AI,' marking a significant expansion for Stripe into AI infrastructure."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "tags": [
+        "M&A",
+        "AI Infrastructure",
+        "Fintech"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 20:57:04 +0000"
+    },
+    {
+      "id": "yxtj7s",
+      "title": {
+        "zh": "Anthropic首席执行官称AI领域的反弹本质上是信任危机",
+        "en": "Anthropic CEO Says AI Backlash Is ‘Fundamentally a Crisis of Trust’"
+      },
+      "summary": {
+        "zh": "Anthropic首席执行官Dario Amodei回应了外界对其描绘过于悲观AI图景的批评，他认为公众对AI的抵制根源在于信任缺失，而非技术本身的问题。",
+        "en": "Anthropic CEO Dario Amodei pushes back against criticism that he paints an overly pessimistic picture of AI, arguing that the backlash stems from a fundamental lack of trust rather than issues with the technology itself."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "tags": [
+        "AI Ethics",
+        "AI Safety",
+        "Trust"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000"
+    },
+    {
+      "id": "bp43ub",
+      "title": {
+        "zh": "Anthropic详解Claude模型新水印技术的工作原理",
+        "en": "Anthropic Details How Claude's New Watermarks Will Work"
+      },
+      "summary": {
+        "zh": "Anthropic分享了关于Claude模型新增水印技术的更多细节，包括其如何工作、能否通过编辑隐藏，以及对生成代码的影响。这是AI内容来源追溯和版权保护的重要技术进展。",
+        "en": "Anthropic shared more details on how its new watermarking system for Claude works, including its mechanics, resistance to editing, and impact on generated code. This represents a significant step in AI content provenance and copyright protection."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "tags": [
+        "AI Safety",
+        "Watermarking",
+        "Anthropic"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000"
+    },
+    {
+      "id": "y6irb1",
+      "title": {
+        "zh": "SpaceX正式完成对AI编码工具Cursor的收购",
+        "en": "SpaceX Officially Closes Its Acquisition of AI Coding Startup Cursor"
+      },
+      "summary": {
+        "zh": "SpaceX已完成对AI编码初创公司Cursor的收购，后者现正式成为SpaceX的一部分。这反映了大型科技公司对AI编程辅助工具的战略整合趋势。",
+        "en": "SpaceX has officially closed its acquisition of AI coding startup Cursor, which is now a part of the company. This reflects a trend of major tech firms strategically integrating AI-powered programming tools."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "tags": [
+        "Acquisition",
+        "AI Coding",
+        "SpaceX"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000"
+    },
+    {
+      "id": "fp3ogq",
+      "title": {
+        "zh": "实用指南：如何检查你的AI平台账户是否被黑客入侵",
+        "en": "Guide: How to Tell If Your AI Platforms' Accounts Have Been Hacked"
+      },
+      "summary": {
+        "zh": "一份实用指南，帮助用户检查在主流AI平台上的账户安全状态。随着AI工具普及，账户安全和数据隐私问题日益突出，本文提供了具体的排查方法。",
+        "en": "A practical guide to checking the security status of your accounts on popular AI platforms. As AI tool usage grows, account security and data privacy become critical, and this article provides actionable steps to identify breaches."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "tags": [
+        "Cybersecurity",
+        "AI Platforms",
+        "Account Security"
+      ],
+      "publishedAt": "Sat, 15 Aug 2026 16:10:00 +0000"
+    },
+    {
+      "id": "nvdovi",
+      "title": {
+        "zh": "OpenAI据报已解散其“预备”风险评估团队",
+        "en": "OpenAI Reportedly Disbands Its Preparedness Risk-Assessment Team"
+      },
+      "summary": {
+        "zh": "据《金融时报》报道，OpenAI已于上月底解散其“预备”团队，该团队主要负责评估模型是否存在重大风险并制定缓解措施。此举引发了对其AI安全内部流程变化的关注。",
+        "en": "According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month, a unit responsible for assessing if models pose serious risks and developing mitigation strategies. This raises questions about changes to its internal AI safety processes."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Risk Assessment"
+      ],
+      "publishedAt": "2026-08-16T21:32:56.000Z"
+    },
+    {
+      "id": "f8n0c2",
+      "title": {
+        "zh": "ChatGPT桌面端新增“计算机历史”功能，记录用户点击与击键",
+        "en": "ChatGPT’s New 'Computer History' Feature Tracks Clicks and Keystrokes"
+      },
+      "summary": {
+        "zh": "ChatGPT的macOS桌面应用推出名为“计算机历史”的新功能，可记录用户操作行为作为训练数据，用于学习工作模式、推荐自动化，甚至接手未完成的任务。这体现了AI助手向主动式代理发展的趋势。",
+        "en": "ChatGPT's macOS desktop app introduces a new 'Computer History' feature that records user actions as training data to learn workflows, suggest automations, and pick up unfinished tasks. This illustrates the trend of AI assistants evolving into proactive agents."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "tags": [
+        "ChatGPT",
+        "Privacy",
+        "Data Collection"
+      ],
+      "publishedAt": "2026-08-16T14:56:40.000Z"
+    },
+    {
+      "id": "vc0fyo",
+      "title": {
+        "zh": "观点：“流氓AI”已不再是科幻小说",
+        "en": "Opinion: Rogue AI Is No Longer Science Fiction"
+      },
+      "summary": {
+        "zh": "这篇专栏文章探讨了AI系统脱离人类控制或表现出非预期有害行为的可能性，指出此类风险正随着模型能力增强而变得越来越现实，而非仅存于科幻作品中。",
+        "en": "This column explores the possibility of AI systems breaking free from human control or exhibiting unintended harmful behaviors, arguing that such risks are becoming increasingly real as model capabilities grow, moving beyond science fiction."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "tags": [
+        "AI Safety",
+        "Rogue AI",
+        "Ethics"
+      ],
+      "publishedAt": "2026-08-16T12:00:00.000Z"
+    },
+    {
+      "id": "3xetvk",
+      "title": {
+        "zh": "AI模型正被有意地变得“更笨”",
+        "en": "AI Models Are Getting Dumber on Purpose"
+      },
+      "summary": {
+        "zh": "一篇文章探讨了为何一些AI模型开发者会有意降低模型在某些方面的能力。这通常是出于安全、可控性或计算成本的权衡，旨在让模型更可靠、更易用，而非单纯追求最大性能。",
+        "en": "An article explores why some AI model developers intentionally reduce model capabilities in certain areas. This is often a trade-off for safety, controllability, or computational cost, aiming for more reliable and usable models rather than pure maximal performance."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "tags": [
+        "LLM",
+        "Model Optimization",
+        "AI Strategy"
+      ],
+      "publishedAt": "Sun, 16 Aug 2026 19:04:26 +0000"
+    },
+    {
+      "id": "qtyaqw",
+      "title": {
+        "zh": "GPT-5.6构建者指南：如何打造更快速、更高效的人工智能代理",
+        "en": "The Builder’s Guide to GPT-5.6: Creating Faster, More Efficient AI Agents"
+      },
+      "summary": {
+        "zh": "OpenAI发布GPT-5.6构建者指南，详细介绍初创公司如何利用该模型更快、更经济地构建AI代理，内容涵盖智能模型选择和新版Responses API的功能。",
+        "en": "OpenAI releases a builder's guide for GPT-5.6, detailing how startups can use the model to create AI agents faster and more cost-effectively, covering smart model selection and new Responses API capabilities."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "tags": [
+        "GPT-5.6",
+        "AI Agents",
+        "OpenAI"
+      ],
+      "publishedAt": "Thu, 13 Aug 2026 11:00:00 GMT"
+    }
+  ]
+}
