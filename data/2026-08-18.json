@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-18",
+  "articles": [
+    {
+      "id": "tknl50",
+      "title": {
+        "zh": "Anthropic 年化收入飙升至650亿美元",
+        "en": "Anthropic’s annualized revenue surges to $65B"
+      },
+      "summary": {
+        "zh": "AI 模型开发商 Anthropic 的年化收入在两个月内增加了180亿美元，达到650亿美元。这一增长凸显了其 Claude 系列模型在企业市场的强劲需求。",
+        "en": "AI model maker Anthropic added $18 billion in annualized revenue in just two months, bringing the total to $65 billion. This surge underscores the strong market demand for its Claude model family among enterprise clients."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "tags": [
+        "LLM",
+        "Anthropic",
+        "Enterprise AI"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000"
+    },
+    {
+      "id": "5yuafy",
+      "title": {
+        "zh": "AI自动化初创公司Relay关停，团队加入Google Chrome部门",
+        "en": "AI automation startup Relay shuts down, staff joins Google’s Chrome team"
+      },
+      "summary": {
+        "zh": "AI自动化初创公司Relay宣布停止运营，其创始团队已加入谷歌Chrome浏览器团队。Relay创始人表示，他们将在Chrome中帮助用户利用AI完成工作。",
+        "en": "AI automation startup Relay has ceased operations, and its founding team has joined Google's Chrome browser team. The founder stated they will help users leverage AI to get things done within Chrome."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "tags": [
+        "AI Automation",
+        "Google",
+        "Browser"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000"
+    },
+    {
+      "id": "650313",
+      "title": {
+        "zh": "AI图像视频生成公司Higgsfield完成4亿美元B轮，8个月估值翻四倍至54亿美元",
+        "en": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B"
+      },
+      "summary": {
+        "zh": "由前Snap高管创立的AI图像和视频生成公司Higgsfield宣布完成4亿美元B轮融资，其估值在8个月内翻了四倍，达到54亿美元。",
+        "en": "Higgsfield, an AI image and video generation company founded by former Snap executives, announced a $400 million Series B round, quadrupling its valuation to $5.4 billion in just eight months."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "tags": [
+        "Generative AI",
+        "Computer Vision",
+        "Startup"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 19:04:27 +0000"
+    },
+    {
+      "id": "24pcz2",
+      "title": {
+        "zh": "Reddit利用AI将帖子转化为播客和短视频",
+        "en": "Reddit’s AI is turning posts into podcasts and short videos"
+      },
+      "summary": {
+        "zh": "Reddit正在实验一项新功能，利用AI将文本帖子自动转换为音频或视频内容。这为用户提供了除了阅读之外，观看或收听Reddit故事的新方式。",
+        "en": "Reddit is experimenting with a new feature that uses AI to automatically convert text posts into audio or video content. This provides users with new ways to watch or listen to Reddit stories beyond just reading."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "tags": [
+        "AI",
+        "Social Media",
+        "Content Generation"
+      ],
+      "publishedAt": "2026-08-17T23:46:01.000Z"
+    },
+    {
+      "id": "mfheis",
+      "title": {
+        "zh": "OpenAI GPT-5.6 Sol模型定价下调50%",
+        "en": "GPT-5.6 Sol Pricing Cut by 50%"
+      },
+      "summary": {
+        "zh": "OpenAI通过OpenRouter平台将其GPT-5.6 Sol模型的定价下调了50%。这可能反映了模型效率的提升或市场竞争的加剧，旨在吸引更多开发者使用。",
+        "en": "OpenAI has reduced the pricing of its GPT-5.6 Sol model by 50% via the OpenRouter platform. This may reflect improved model efficiency or increased market competition, aiming to attract more developers."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "tags": [
+        "OpenAI",
+        "LLM",
+        "Pricing"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 21:03:18 +0000"
+    },
+    {
+      "id": "laupnq",
+      "title": {
+        "zh": "英伟达披露持有SpaceX 210亿美元股份",
+        "en": "Nvidia discloses $21B stake in SpaceX"
+      },
+      "summary": {
+        "zh": "英伟达在文件中披露了其对SpaceX高达210亿美元的投资。此举发生在埃隆·马斯克宣布SpaceX将独家使用英伟达芯片为其数据中心提供算力之后。",
+        "en": "Nvidia has disclosed a $21 billion investment in SpaceX in a filing. This move follows Elon Musk's announcement that SpaceX will exclusively use Nvidia chips to power its data centers."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "tags": [
+        "Nvidia",
+        "SpaceX",
+        "AI Chips",
+        "Investment"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 14:22:54 +0000"
+    },
+    {
+      "id": "7r9c5s",
+      "title": {
+        "zh": "隐藏AirTag追踪器揭示亚马逊销毁稀有书籍用于AI训练",
+        "en": "Hidden Airtag reveals Amazon is trashing rare books to train AI"
+      },
+      "summary": {
+        "zh": "调查人员通过隐藏在废弃书籍中的AirTag追踪器发现，亚马逊正在销毁稀有书籍以获取材料用于AI训练。这引发了关于AI数据获取伦理和资源消耗的广泛讨论。",
+        "en": "Investigators using a hidden AirTag tracker discovered that Amazon is destroying rare books to obtain materials for AI training. This has sparked widespread discussion about the ethics of AI data sourcing and resource consumption."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "tags": [
+        "AI Training",
+        "Ethics",
+        "Amazon"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 18:13:47 +0000"
+    },
+    {
+      "id": "k427kq",
+      "title": {
+        "zh": "前SpaceX工程师正在建造用于制造钢制零件的机器人自动化工厂",
+        "en": "Former SpaceX engineers are building a robotic factory for making steel parts"
+      },
+      "summary": {
+        "zh": "一群前SpaceX工程师正在创建一家机器人自动化工厂，专门生产钢制零件。该项目旨在将先进的自动化技术引入传统制造业。",
+        "en": "A group of former SpaceX engineers is creating a robotic factory dedicated to manufacturing steel parts. The project aims to bring advanced automation technologies to traditional manufacturing."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Manufacturing"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 21:18:49 +0000"
+    },
+    {
+      "id": "a0bb30",
+      "title": {
+        "zh": "AI;DR（AI没读）——探讨AI生成摘要的利弊",
+        "en": "AI;DR (AI; Didn't Read)"
+      },
+      "summary": {
+        "zh": "文章探讨了“AI;DR”（AI没读）现象，即AI自动为长文生成摘要。作者分析了这种工具在提升效率的同时，可能带来的信息理解偏差和深度思考缺失等问题。",
+        "en": "The article explores the 'AI;DR' (AI; Didn't Read) phenomenon, where AI automatically generates summaries of long texts. The author analyzes both the efficiency gains and potential issues like misinterpretation and loss of deep reading."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "tags": [
+        "AI Ethics",
+        "Content Analysis",
+        "LLM"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 19:47:15 +0000"
+    },
+    {
+      "id": "kxe5gg",
+      "title": {
+        "zh": "派早报：ChatGPT上线使用历史记录功能等",
+        "en": "Morning News: ChatGPT launches usage history feature, etc."
+      },
+      "summary": {
+        "zh": "少数派早报报道了多项科技动态，其中包括ChatGPT正式上线了用户使用历史记录功能。这为用户提供了查看和回顾过往对话的便利。",
+        "en": "Sspai Morning News reported several tech updates, including ChatGPT's official launch of a user usage history feature. This provides users with the convenience to view and review past conversations."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113524",
+      "tags": [
+        "ChatGPT",
+        "Product Update",
+        "News"
+      ],
+      "publishedAt": "Mon, 17 Aug 2026 06:54:56 +0800"
+    }
+  ]
+}
