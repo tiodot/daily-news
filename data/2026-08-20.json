@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-20",
+  "articles": [
+    {
+      "id": "f8fthv",
+      "title": {
+        "zh": "收购OpenRouter背后：Stripe看中AI路由基础设施而非“奇点”",
+        "en": "Stripe's acquisition of OpenRouter targets AI routing infrastructure, not the 'singularity'"
+      },
+      "summary": {
+        "zh": "支付巨头Stripe收购了AI模型路由初创公司OpenRouter。Stripe的真实目的并非炒作“奇点”，而是为了控制连接不同AI模型的关键基础设施，这将巩固其在AI支付生态中的核心地位。",
+        "en": "Payment giant Stripe has acquired AI model routing startup OpenRouter. The move is less about the 'singularity' hype and more about controlling critical infrastructure that connects various AI models, solidifying Stripe's core position in the AI payment ecosystem."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "tags": [
+        "Fintech",
+        "AI Infrastructure",
+        "Acquisition",
+        "Stripe"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 23:32:00 +0000"
+    },
+    {
+      "id": "yqwe3r",
+      "title": {
+        "zh": "OpenAI与Anthropic竞相提升企业客户数据隐私保护",
+        "en": "OpenAI and Anthropic compete on enterprise customer data privacy protections"
+      },
+      "summary": {
+        "zh": "OpenAI和Anthropic正在企业客户数据隐私保护方面展开竞争，力图成为隐私标准最严格的AI提供商。这反映了市场对安全、合规的AI服务需求日益增长，开发者在选择API时需关注其数据处理政策。",
+        "en": "OpenAI and Anthropic are competing to become the AI provider with the strictest privacy standards for enterprise customer data. This highlights the growing market demand for secure and compliant AI services, urging developers to closely examine data handling policies when choosing APIs."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Data Privacy",
+        "Enterprise AI"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 22:10:46 +0000"
+    },
+    {
+      "id": "5c16oa",
+      "title": {
+        "zh": "OpenAI为前沿模型提供零数据保留及私有安全处理功能",
+        "en": "OpenAI offers zero data retention and previews Private Safety Processing for frontier models"
+      },
+      "summary": {
+        "zh": "OpenAI重申为符合条件的API客户提供零数据保留政策，并预告了用于先进AI安全处理的“私有安全处理”功能。此举旨在平衡模型能力、安全与数据隐私，为企业客户提供了更高的数据控制权。",
+        "en": "OpenAI reaffirms zero data retention for eligible API customers and previews 'Private Safety Processing' for advanced AI safety. This aims to balance model capability, security, and data privacy, offering enterprise clients greater control over their data."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "tags": [
+        "OpenAI",
+        "Data Privacy",
+        "API",
+        "AI Safety"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 GMT"
+    },
+    {
+      "id": "k4r7kz",
+      "title": {
+        "zh": "SpaceX据传拟收购AI编程初创公司Cognition，CEO予以否认",
+        "en": "SpaceX reportedly tried to acquire AI coding startup Cognition, CEO denies report"
+      },
+      "summary": {
+        "zh": "有报道称SpaceX试图收购AI编程初创公司Cognition，但其CEO已公开否认。此前SpaceX已收购了Cursor，表明其正积极布局企业级AI编程工具市场，与OpenAI、Anthropic等竞争。",
+        "en": "Reports indicated SpaceX attempted to acquire AI coding startup Cognition, though the CEO has denied the claim. Following SpaceX's previous acquisition of Cursor, this signals its aggressive move into the enterprise AI coding tools market, competing with players like OpenAI and Anthropic."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "tags": [
+        "AI Coding",
+        "Acquisition",
+        "SpaceX",
+        "Cursor"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 21:51:23 +0000"
+    },
+    {
+      "id": "d6otuo",
+      "title": {
+        "zh": "AI普及并未带来广泛接纳：消费者警惕性增强",
+        "en": "AI adoption hasn't led to acceptance; consumers remain wary"
+      },
+      "summary": {
+        "zh": "尽管AI技术已日益普及，但消费者对其的警惕性并未降低，硅谷正发现技术采用并不等同于心理接纳。这对AI产品的设计、营销和可信度提出了更高要求，开发者需更注重用户体验和伦理。",
+        "en": "Despite increasing adoption, consumer wariness towards AI persists, revealing that widespread use doesn't equate to acceptance. This places higher demands on AI product design, marketing, and trustworthiness, requiring developers to focus more on user experience and ethics."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "tags": [
+        "AI Adoption",
+        "Consumer Trust",
+        "Ethics",
+        "Public Perception"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 19:11:40 +0000"
+    },
+    {
+      "id": "a1r9bu",
+      "title": {
+        "zh": "谷歌在搜索和Gemini中推出新AI学习工具",
+        "en": "Google launches new AI study tools across Search and Gemini"
+      },
+      "summary": {
+        "zh": "谷歌在搜索和Gemini中推出面向学生的新AI学习工具，旨在将Gemini打造为学生首选的AI学习助手。此举是其与OpenAI等公司在教育AI领域竞争的一部分。",
+        "en": "Google is launching new AI study tools for students across Search and Gemini, aiming to position Gemini as the go-to AI learning assistant. This is part of its competition with companies like OpenAI in the educational AI space."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "tags": [
+        "Google",
+        "Gemini",
+        "AI in Education",
+        "EdTech"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 +0000"
+    },
+    {
+      "id": "pqcbhy",
+      "title": {
+        "zh": "OpenAI主动放缓前沿模型开发步伐",
+        "en": "OpenAI voluntarily slows down development pace for frontier models"
+      },
+      "summary": {
+        "zh": "在面临IPO压力、激烈竞争及安全考量下，OpenAI宣布主动放缓前沿AI模型的开发节奏。这一举措旨在加强安全、对齐和监控，体现了在追求能力与责任之间的权衡。",
+        "en": "Amid IPO pressure, fierce competition, and safety concerns, OpenAI announces a voluntary slowdown in the development pace of its frontier AI models. This move aims to strengthen safety, alignment, and monitoring, reflecting a balance between capability pursuit and responsibility."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Model Development",
+        "Responsible AI"
+      ],
+      "publishedAt": "2026-08-19T17:10:09.000Z"
+    },
+    {
+      "id": "p9488u",
+      "title": {
+        "zh": "Meta AI推出Mac桌面客户端",
+        "en": "Meta AI launches a dedicated Mac desktop app"
+      },
+      "summary": {
+        "zh": "Meta正在为其AI聊天机器人推出专属Mac客户端应用。该应用能基于屏幕内容生成内容和提供建议，是Meta将AI助手更深度融入桌面工作流的重要一步。",
+        "en": "Meta is launching a dedicated Mac app for its AI chatbot. The app can create content and offer suggestions based on what it 'sees' on screen, marking a significant step in Meta's integration of AI assistants deeper into desktop workflows."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "tags": [
+        "Meta AI",
+        "Desktop App",
+        "Productivity",
+        "Multimodal AI"
+      ],
+      "publishedAt": "2026-08-19T17:00:00.000Z"
+    },
+    {
+      "id": "tq7po",
+      "title": {
+        "zh": "Meta平台出现针对女性政客的深度伪造“脱衣”应用广告",
+        "en": "Meta ran ads for an app promising to create deepfake nudes of female politicians"
+      },
+      "summary": {
+        "zh": "Meta平台上出现了为一款承诺能将女性政客图像“裸体化”的深度伪造应用投放的广告，其中一则广告甚至包含与某美国政客高度相似的色情视频。此事凸显了AI技术被滥用于制造有害内容的严峻挑战及平台监管责任。",
+        "en": "Ads for an app promising to create deepfake nudes of female politicians appeared on Meta's platform, with one ad featuring a pornographic video closely resembling a US politician. This highlights the severe challenges of AI misuse for harmful content and the platform's responsibility in moderation."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "tags": [
+        "Deepfake",
+        "AI Ethics",
+        "Content Moderation",
+        "Meta"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 15:45:29 +0000"
+    },
+    {
+      "id": "df3cfy",
+      "title": {
+        "zh": "Anthropic Claude代码工具功能请求：支持AGENTS.md文件",
+        "en": "Feature Request: Support AGENTS.md in Anthropic's Claude Code tool"
+      },
+      "summary": {
+        "zh": "开发者社区为Anthropic的Claude代码工具提出功能请求，希望支持AGENTS.md文件来定义AI编码代理的行为规范。这反映了开发者对可控、可定制AI编程助手的需求。",
+        "en": "The developer community has filed a feature request for Anthropic's Claude Code tool to support an AGENTS.md file for defining AI coding agent behavior. This reflects the demand for controllable and customizable AI coding assistants."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/anthropics/claude-code/issues/6235",
+      "tags": [
+        "Anthropic",
+        "AI Coding",
+        "Developer Tools",
+        "Agent"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 21:19:50 +0000"
+    }
+  ]
+}
