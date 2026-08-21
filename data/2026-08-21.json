@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-21",
+  "articles": [
+    {
+      "id": "roqcyl",
+      "title": {
+        "zh": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "en": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada"
+      },
+      "summary": {
+        "zh": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "en": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "tags": [],
+      "publishedAt": "Fri, 21 Aug 2026 00:23:36 +0000"
+    },
+    {
+      "id": "38f96a",
+      "title": {
+        "zh": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "en": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
+      },
+      "summary": {
+        "zh": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "tags": [],
+      "publishedAt": "Fri, 21 Aug 2026 00:13:44 +0000"
+    },
+    {
+      "id": "khbmi0",
+      "title": {
+        "zh": "Learn what VCs actually want, from a founder who’s raised $1B",
+        "en": "Learn what VCs actually want, from a founder who’s raised $1B"
+      },
+      "summary": {
+        "zh": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev",
+        "en": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev"
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 23:32:27 +0000"
+    },
+    {
+      "id": "1bwogg",
+      "title": {
+        "zh": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "en": "OpenAI is gaining on Anthropic with business users, new data indicates"
+      },
+      "summary": {
+        "zh": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000"
+    },
+    {
+      "id": "l925i9",
+      "title": {
+        "zh": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "en": "ChatGPT can now send texts for you with new Apple Messages plug-in"
+      },
+      "summary": {
+        "zh": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "tags": [],
+      "publishedAt": "Thu, 20 Aug 2026 22:09:51 +0000"
+    }
+  ]
+}
