@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "id": "9uy1pr",
+      "title": {
+        "zh": "Anthropic的Opus 4.6模型突破内容限制测试",
+        "en": "Anthropic's Opus 4.6 Bypasses Content Safety Restrictions in Tests"
+      },
+      "summary": {
+        "zh": "TechCrunch测试发现，Anthropic的Claude模型虽然禁止生成色情内容，但通过简单提示即可绕过限制。这表明当前大模型在内容安全对齐方面存在明显漏洞，开发者需关注模型防护机制的健壮性。",
+        "en": "TechCrunch testing reveals that Anthropic's Claude models can bypass content restrictions with simple prompts despite explicit prohibitions. This highlights significant vulnerabilities in current model alignment techniques for content safety."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "tags": [
+        "LLM",
+        "AI Safety",
+        "Content Moderation",
+        "Anthropic"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000"
+    },
+    {
+      "id": "u6qvam",
+      "title": {
+        "zh": "英伟达研究表明AI代理框架比模型本身更重要",
+        "en": "Nvidia Shows AI Agent Framework Matters More Than Model Quality"
+      },
+      "summary": {
+        "zh": "英伟达研究发现，即使底层AI模型表现一般，通过微调代理框架也能实现稳定且可控的AI行为。这为构建可靠AI系统提供了新思路，表明系统设计可能比单纯提升模型能力更关键。",
+        "en": "Nvidia research demonstrates that well-tuned agent frameworks can deliver stable AI performance even with mediocre models. This suggests system architecture may be more important than pure model capability for building reliable AI applications."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "tags": [
+        "Nvidia",
+        "AI Agents",
+        "System Design",
+        "Fine-tuning"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000"
+    },
+    {
+      "id": "lobdap",
+      "title": {
+        "zh": "英伟达与数据中心开发商Cloverleaf达成合作",
+        "en": "Nvidia Partners with Data Center Developer Cloverleaf"
+      },
+      "summary": {
+        "zh": "英伟达继续投资数据中心基础设施，以满足AI工作负载的爆炸性增长需求。这一合作反映了AI算力需求的持续高涨和数据中心供应链的重要性。",
+        "en": "Nvidia continues investing in data center infrastructure to meet explosive AI workload demands. This partnership reflects the ongoing surge in AI computing requirements and the critical role of data center supply chains."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "tags": [
+        "Nvidia",
+        "Data Center",
+        "AI Infrastructure",
+        "Cloud Computing"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000"
+    },
+    {
+      "id": "6pw7hz",
+      "title": {
+        "zh": "AI会计初创公司Rillet如何在48小时内融资1亿美元",
+        "en": "How AI Accounting Startup Rillet Raised $100M in 48 Hours"
+      },
+      "summary": {
+        "zh": "AI会计初创公司Rillet通过展示惊人的增长数据，在48小时内获得Iconiq、Sequoia等顶级投资机构的融资，估值达到独角兽级别。这体现了AI在传统行业中的快速商业化潜力。",
+        "en": "AI accounting startup Rillet demonstrated remarkable growth, attracting $100M funding from top investors like Iconiq and Sequoia within 48 hours. This shows the rapid commercial potential of AI applications in traditional industries."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "tags": [
+        "AI Startup",
+        "Fintech",
+        "Accounting",
+        "Venture Capital"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 22:10:01 +0000"
+    },
+    {
+      "id": "ooy602",
+      "title": {
+        "zh": "苹果正裁减Siri和Vision Pro团队数百职位",
+        "en": "Apple Cutting Hundreds of Jobs from Siri and Vision Pro Teams"
+      },
+      "summary": {
+        "zh": "苹果正在对Siri和Vision Pro团队进行大规模裁员，并关闭相关项目。这可能反映了苹果在AI助手和混合现实领域的战略调整，开发者需关注平台发展方向变化。",
+        "en": "Apple is laying off staff from Siri and Vision Pro teams and shutting down related projects. This may signal strategic shifts in Apple's AI assistant and mixed reality initiatives that developers should monitor."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "tags": [
+        "Apple",
+        "Siri",
+        "Vision Pro",
+        "Layoffs",
+        "AR/VR"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 20:58:07 +0000"
+    },
+    {
+      "id": "z082gv",
+      "title": {
+        "zh": "超100万用户点击LinkedIn的AI垃圾内容举报按钮",
+        "en": "Over 1M Users Click LinkedIn's 'AI Slop' Report Button"
+      },
+      "summary": {
+        "zh": "LinkedIn推出的“疑似AI生成垃圾内容”举报按钮已被超过100万用户使用。这表明用户对AI生成低质量内容的反感日益强烈，平台需要更好的内容质量控制机制。",
+        "en": "LinkedIn's 'Seems like AI slop' report button has been used by over 1 million users. This shows growing user frustration with low-quality AI-generated content and the need for better content quality controls."
+      },
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "tags": [
+        "LinkedIn",
+        "Content Moderation",
+        "AI Ethics",
+        "Social Media"
+      ],
+      "publishedAt": "2026-08-21T21:25:50.000Z"
+    },
+    {
+      "id": "46j6d8",
+      "title": {
+        "zh": "Meta AI眼镜需求激增引发隐私担忧",
+        "en": "Meta AI Glasses Demand Surge Raises Privacy Concerns"
+      },
+      "summary": {
+        "zh": "随着Meta AI眼镜需求爆炸式增长，其录制功能引发隐私争议。目前已有应用尝试检测这些眼镜，但效果并不完美。这凸显了可穿戴AI设备带来的新型隐私挑战。",
+        "en": "Explosive demand for Meta AI glasses has sparked privacy concerns over their recording capabilities. Apps attempting to detect these glasses exist but aren't perfect, highlighting new privacy challenges from wearable AI devices."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "tags": [
+        "Meta",
+        "AI Glasses",
+        "Privacy",
+        "Wearable Tech"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 11:00:53 +0000"
+    },
+    {
+      "id": "64ngkh",
+      "title": {
+        "zh": "Waymo加倍游说支出争夺机器人出租车市场",
+        "en": "Waymo Doubles Lobbying Spending in Robotaxi Market Battle"
+      },
+      "summary": {
+        "zh": "Waymo正加倍投入游说支出，以推动美国监管机构为全自动出租车服务铺平道路。这反映了自动驾驶商业化过程中监管关系的重要性以及市场竞争的激烈程度。",
+        "en": "Waymo is doubling its lobbying spending to persuade US regulators to clear the path for fully autonomous taxi services. This underscores the importance of regulatory relationships and fierce competition in autonomous vehicle commercialization."
+      },
+      "source": "ArsTechnica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "tags": [
+        "Waymo",
+        "Autonomous Driving",
+        "Robotaxi",
+        "Regulation"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 13:11:35 +0000"
+    },
+    {
+      "id": "53sd70",
+      "title": {
+        "zh": "OpenAI推出AI Futures博客探讨AI社会影响",
+        "en": "OpenAI Launches AI Futures Blog on Societal Impact"
+      },
+      "summary": {
+        "zh": "OpenAI推出AI Futures新博客，探讨变革性AI如何重塑权力、治理、经济和个人自由。这为开发者提供了思考AI长期影响的重要视角和讨论平台。",
+        "en": "OpenAI launches AI Futures, a new blog exploring how transformative AI could reshape power, governance, economy, and individual freedom. This provides developers with important perspectives and discussion platforms on AI's long-term impact."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/introducing-ai-futures",
+      "tags": [
+        "OpenAI",
+        "AI Ethics",
+        "Future of AI",
+        "Policy"
+      ],
+      "publishedAt": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "wg4pm6",
+      "title": {
+        "zh": "Replit通过GPT-5.6 Luna降低软件开发门槛",
+        "en": "Replit Expands Access to Software Creation with GPT-5.6 Luna"
+      },
+      "summary": {
+        "zh": "Replit推出由GPT-5.6 Luna驱动的免费模式，让任何人都能将想法转化为可运行的软件，无需担心token成本。这大幅降低了软件开发的门槛，展示了AI编程助手的实用价值。",
+        "en": "Replit introduces Free Mode powered by GPT-5.6 Luna, enabling anyone to turn ideas into working software without token cost concerns. This significantly lowers the barrier to software development and demonstrates practical value of AI coding assistants."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/replit",
+      "tags": [
+        "Replit",
+        "Code Generation",
+        "AI Coding",
+        "GPT-5"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT"
+    }
+  ]
+}
