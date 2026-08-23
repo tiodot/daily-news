@@ -1,0 +1,195 @@
+{
+  "date": "2026-08-23",
+  "articles": [
+    {
+      "id": "iaw31s",
+      "title": {
+        "zh": "DeepMind前员工创办的AI公司称其在科研论文复现方面超越Anthropic和OpenAI",
+        "en": "Inherent, founded by DeepMind alumni, says its AI agent outperformed Anthropic and OpenAI in replicating research"
+      },
+      "summary": {
+        "zh": "英国AI实验室Inherent推出了AI智能体Faraday，其在复现科学论文方面的能力被认为超越了Anthropic和OpenAI。这标志着AI在科研自动化领域取得关键进展，可能成为推动科学发现的重要工具。",
+        "en": "UK-based AI lab Inherent has released Faraday, an AI agent that reportedly outperforms Anthropic and OpenAI in replicating scientific papers. This represents a significant advancement in AI-driven research automation and could become a key tool for accelerating scientific discovery."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "tags": [
+        "AI Agents",
+        "Research Replication",
+        "DeepMind"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000"
+    },
+    {
+      "id": "o9uubj",
+      "title": {
+        "zh": "前沿AI实验室仍不公布如何遏制失控模型",
+        "en": "Frontier AI labs still won’t say how they’d contain a rogue model"
+      },
+      "summary": {
+        "zh": "一项新研究发现，领先的AI实验室几乎没有公开记录的遏制失控模型的计划。这引发了对AI安全准备不足的担忧，随着系统能力不断增强，这一问题尤为关键。",
+        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems become more capable. This highlights a critical gap in AI safety protocols."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "tags": [
+        "AI Safety",
+        "Rogue AI",
+        "Governance"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "id": "2vbolz",
+      "title": {
+        "zh": "Michael Polansky正在利用存活的人体皮肤组织训练AI模型",
+        "en": "Michael Polansky is training an AI model on skin that’s still alive"
+      },
+      "summary": {
+        "zh": "Lady Gaga的伴侣Michael Polansky的初创公司使用AI技术分析保持存活状态的人体皮肤组织。该项目结合了生物技术与人工智能，探索全新的研究方向。",
+        "en": "Michael Polansky's startup is using AI to analyze living human skin tissue. The project combines biotechnology with artificial intelligence, exploring novel research avenues."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "tags": [
+        "Biotech AI",
+        "Medical Research",
+        "Computer Vision"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 01:31:04 +0000"
+    },
+    {
+      "id": "uyr13m",
+      "title": {
+        "zh": "NanoGPT速度竞赛前沿",
+        "en": "NanoGPT Speedrun Frontier"
+      },
+      "summary": {
+        "zh": "文章聚焦于优化NanoGPT训练速度的最新前沿进展。对于关注LLM训练效率和硬件优化的研究者和开发者来说，这是非常有价值的技术参考。",
+        "en": "This article focuses on the latest frontier progress in optimizing NanoGPT training speeds. It serves as a valuable technical reference for researchers and developers interested in LLM training efficiency and hardware optimization."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "tags": [
+        "LLM Training",
+        "Optimization",
+        "NanoGPT"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 22:14:27 +0000"
+    },
+    {
+      "id": "6753m0",
+      "title": {
+        "zh": "为什么你的本地大模型感觉比实际更“笨”",
+        "en": "Why your local LLM feels dumber than it is"
+      },
+      "summary": {
+        "zh": "文章探讨了在本地部署大语言模型时，用户可能因为量化、上下文管理或系统提示设置等因素，感觉模型表现不佳的原因。为本地LLM部署和优化提供了实用的见解。",
+        "en": "The article explores why users might feel their locally deployed LLMs underperform, often due to factors like quantization, context management, or system prompt configuration. It offers practical insights for local LLM deployment and optimization."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "tags": [
+        "Local LLM",
+        "Optimization",
+        "Deployment"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 18:14:16 +0000"
+    },
+    {
+      "id": "wg4pm6",
+      "title": {
+        "zh": "Replit借助GPT-5.6 Luna扩展软件创建的可及性",
+        "en": "Replit expands access to software creation with GPT-5.6 Luna"
+      },
+      "summary": {
+        "zh": "Replit推出了由GPT-5.6 Luna驱动的免费模式，让任何人都可以将想法转化为可运行的软件，而无需担心Token成本。这降低了编程门槛，使AI辅助开发更加普及。",
+        "en": "Replit introduces Free Mode powered by GPT-5.6 Luna, allowing anyone to turn ideas into working software without worrying about token costs. This lowers the barrier to coding and makes AI-assisted development more accessible."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/replit",
+      "tags": [
+        "AI Coding",
+        "Accessibility",
+        "Software Development"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "fhjnej",
+      "title": {
+        "zh": "在具备网络关键能力的时代调整模型开发节奏",
+        "en": "Pacing model development in an era of cyber-critical capabilities"
+      },
+      "summary": {
+        "zh": "OpenAI正在加强对前沿AI模型的监控、对齐和安全性。文章介绍了新的安全措施如何指导模型开发的速度，以应对日益增长的网络安全能力需求。",
+        "en": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. The article discusses how new safeguards are guiding the pace of model development to address growing cyber-capability demands."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "tags": [
+        "Cybersecurity",
+        "Model Development",
+        "AI Safety"
+      ],
+      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "id": "8uqi04",
+      "title": {
+        "zh": "OpenAI表示加州应加强其AI安全法案",
+        "en": "OpenAI says California should strengthen its AI safety bill"
+      },
+      "summary": {
+        "zh": "OpenAI呼吁加州加强SB 53 AI安全法案，该公司此前曾反对该法案。这标志着大型AI公司在监管问题上立场发生转变，对行业标准和未来立法有重要影响。",
+        "en": "OpenAI is calling for California to strengthen SB 53, an AI safety bill it previously opposed. This marks a significant shift in the stance of a major AI company on regulation, with implications for industry standards and future legislation."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "tags": [
+        "AI Safety",
+        "Regulation",
+        "OpenAI"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000"
+    },
+    {
+      "id": "9uy1pr",
+      "title": {
+        "zh": "Anthropic的Opus 4.6成为“不良内容”生成机器",
+        "en": "Anthropic’s Opus 4.6 is a smut-machine"
+      },
+      "summary": {
+        "zh": "尽管Anthropic禁止Claude模型生成色情内容，但测试发现其最新模型Opus 4.6容易绕过限制。这突显了AI内容过滤和安全防护面临的持续挑战。",
+        "en": "Despite Anthropic's policy forbidding sexually explicit content, tests found its latest model Opus 4.6 easily bypasses restrictions. This highlights the ongoing challenges in AI content filtering and safety guardrails."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "tags": [
+        "LLM",
+        "Content Moderation",
+        "AI Safety"
+      ],
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000"
+    },
+    {
+      "id": "kxe4os",
+      "title": {
+        "zh": "派早报：哈浮VERSA飞行口袋云台相机发布，OpenAI回应Codex用户调用GPT-5.6系列AI模型误删文件问题等",
+        "en": "Morning Brief: HoverAir VERSA launched, OpenAI addresses Codex users' GPT-5.6 model file deletion issue, etc."
+      },
+      "summary": {
+        "zh": "早报涵盖了HoverAir VERSA飞行相机的发布，以及OpenAI对少量Codex用户在使用GPT-5.6系列模型时遇到的文件误删问题的回应。后者反映了AI工具在实际应用中的可靠性和用户体验问题。",
+        "en": "The morning brief covers the launch of the HoverAir VERSA flying camera and OpenAI's response to a small number of Codex users experiencing file deletion issues with GPT-5.6 models. The latter reflects on the reliability and user experience of AI tools in practice."
+      },
+      "source": "少数派",
+      "sourceUrl": "https://sspai.com/post/113638",
+      "tags": [
+        "AI Tools",
+        "Reliability",
+        "User Experience"
+      ],
+      "publishedAt": "Thu, 20 Aug 2026 08:46:04 +0800"
+    }
+  ]
+}
