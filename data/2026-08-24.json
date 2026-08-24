@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-24",
+  "articles": [
+    {
+      "id": "iaw31s",
+      "title": {
+        "zh": "DeepMind校友创立的Inherent发布AI智能体，在科研复现任务中超越Anthropic和OpenAI",
+        "en": "DeepMind Alumni-Founded Inherent Claims Its AI Agent Outperforms Anthropic and OpenAI at Replicating Research"
+      },
+      "summary": {
+        "zh": "英国AI实验室Inherent推出Faraday智能体，声称在复现科学论文方面超越了Anthropic和OpenAI的模型。该团队由DeepMind前员工创立，认为这一能力是推动创新的关键跳板，可加速科研验证和实验流程。",
+        "en": "British AI lab Inherent, founded by DeepMind alumni, released Faraday, an AI agent that claims to outperform Anthropic and OpenAI at replicating scientific papers. The team sees this as a stepping stone for accelerating innovation and scientific validation workflows."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "tags": [
+        "AI Agent",
+        "DeepMind",
+        "Research Automation"
+      ],
+      "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000"
+    },
+    {
+      "id": "dd7vzr",
+      "title": {
+        "zh": "开发者实测Qwen 3.8 27B：30分钟完成逆向工程任务，表现堪比前沿模型",
+        "en": "Qwen 3.8 27B Completes Reverse Engineering Job in 30 Minutes, Rivaling Frontier Models"
+      },
+      "summary": {
+        "zh": "一位开发者分享了使用Qwen 3.8 27B模型完成逆向工程任务的体验，该模型仅用30分钟便完成了工作，展现出接近顶级大模型的编程能力。这一案例引发了社区对中等规模开源模型实用性的广泛讨论。",
+        "en": "A developer shared their experience using Qwen 3.8 27B for a reverse engineering job, completing it in just 30 minutes with performance rivaling frontier models. This has sparked community discussion about the practical capabilities of mid-size open-source LLMs."
+      },
+      "source": "Hacker News",
+      "sourceUrl": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "tags": [
+        "LLM",
+        "Qwen",
+        "Open Source",
+        "Reverse Engineering"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 10:02:51 +0000"
+    },
+    {
+      "id": "32jzsl",
+      "title": {
+        "zh": "AI训练数据版权争议：用受版权保护的书籍训练大模型是否合法？",
+        "en": "Is It Legal to Train AI Models on Copyrighted Books? The Debate Continues"
+      },
+      "summary": {
+        "zh": "文章深入探讨了AI公司在未经作者同意的情况下使用受版权保护的书籍训练模型的法律争议。这一问题涉及合理使用原则、创作者权益保护以及AI产业发展之间的复杂平衡，对开发者选择训练数据集有重要参考意义。",
+        "en": "This article explores the legal complexities around training AI models on copyrighted books without authors' consent. The debate touches on fair use, creator rights, and the balance with AI industry growth—critical context for developers sourcing training data."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "tags": [
+        "AI Ethics",
+        "Copyright",
+        "LLM Training"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "id": "5ygruh",
+      "title": {
+        "zh": "神秘新模型Ox Alpha引发热议，背后团队身份成谜",
+        "en": "Who's Behind the Mysterious New 'Stealth Model' Ox Alpha?"
+      },
+      "summary": {
+        "zh": "一个名为Ox Alpha的神秘AI模型在网络上引发广泛猜测和讨论。目前尚不清楚该模型的开发团队和具体技术细节，但其出现方式与此前多个匿名发布大模型的案例类似，引发了社区对新一轮AI竞赛的关注。",
+        "en": "A mysterious AI model called Ox Alpha has sparked widespread speculation online. The developer and technical details remain unknown, but the anonymous release pattern echoes previous stealth model launches, fueling interest in the AI race."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "tags": [
+        "LLM",
+        "Stealth AI",
+        "New Model"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000"
+    },
+    {
+      "id": "wg4pm6",
+      "title": {
+        "zh": "Replit推出免费模式，基于GPT-5.6 Luna降低软件开发门槛",
+        "en": "Replit Launches Free Mode Powered by GPT-5.6 Luna to Democratize Software Creation"
+      },
+      "summary": {
+        "zh": "Replit基于OpenAI最新GPT-5.6 Luna模型推出免费模式，用户无需担心token成本即可将创意转化为可运行的软件。这一合作标志着AI辅助编程工具的进一步普及，降低了非专业开发者的入门门槛。",
+        "en": "Replit introduces Free Mode powered by OpenAI's GPT-5.6 Luna, allowing anyone to turn ideas into working software without worrying about token costs. This partnership marks further democratization of AI-assisted programming tools."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/replit",
+      "tags": [
+        "OpenAI",
+        "Replit",
+        "AI Coding",
+        "GPT-5"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "6icyca",
+      "title": {
+        "zh": "Waymo自主研发芯片推动Robotaxi扩张野心",
+        "en": "Custom Chip Driving Waymo's Robotaxi Ambitions"
+      },
+      "summary": {
+        "zh": "Waymo正在通过自研定制芯片来加速其自动驾驶出租车的技术发展。这种垂直整合策略有望提升处理效率、降低成本，为其大规模商业部署提供技术支撑。",
+        "en": "Waymo is leveraging custom-designed chips to accelerate its autonomous robotaxi technology. This vertical integration strategy aims to improve processing efficiency and reduce costs, supporting large-scale commercial deployment."
+      },
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "tags": [
+        "Autonomous Driving",
+        "Robotics",
+        "Custom Silicon"
+      ],
+      "publishedAt": "Sun, 23 Aug 2026 16:03:00 +0000"
+    },
+    {
+      "id": "fhjnej",
+      "title": {
+        "zh": "OpenAI强化前沿模型安全监控与对齐策略",
+        "en": "OpenAI Strengthens Monitoring and Alignment for Frontier AI Models"
+      },
+      "summary": {
+        "zh": "OpenAI发布新措施，加强对前沿AI模型的监控、对齐和安全保障，以应对日益增长的网络安全能力风险。文章详细介绍了新安全机制如何引导模型开发节奏，对关注AI安全的开发者有重要参考价值。",
+        "en": "OpenAI announced new measures to strengthen monitoring, alignment, and security for frontier AI models amid growing cyber-capability risks. The post details how new safeguards are guiding the pace of model development—a key read for developers focused on AI safety."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Model Alignment"
+      ],
+      "publishedAt": "Tue, 18 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "id": "5c16oa",
+      "title": {
+        "zh": "OpenAI重申前沿模型零数据保留政策，推出隐私安全处理方案",
+        "en": "OpenAI Reaffirms Zero Data Retention for Frontier Models, Previews Private Safety Processing"
+      },
+      "summary": {
+        "zh": "OpenAI重申面向API客户的零数据保留政策，并预览了Private Safety Processing功能，旨在实现高级AI安全处理而不损害数据隐私。对于在企业环境中部署AI的开发者来说，这一政策更新具有实际意义。",
+        "en": "OpenAI reaffirms its Zero Data Retention policy for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. This is a significant update for developers deploying AI in enterprise environments."
+      },
+      "source": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "tags": [
+        "OpenAI",
+        "Data Privacy",
+        "API"
+      ],
+      "publishedAt": "Wed, 19 Aug 2026 19:00:00 GMT"
+    }
+  ]
+}
